@@ -5,6 +5,18 @@ file = "config/starterstructure/schematics/petal_spawn.nbt"
 hash = "59157c77c8d57cee52ea6bae842da73acb909e52765b382df2702fa12ca6cd93"
 
 [[files]]
+file = "defaultconfigs/tinyinv-server.toml"
+hash = "a653912173fae6e035e52b3ddd174c6af402d1ef49777c982d8a6c9c0206dff3"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/lang/en_us.json"
+hash = "e5366e2370ac24f0f33ae2f85dac9b5fce27b09f337e757e3390bb7343f2daa6"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/pack.mcmeta"
+hash = "3297ea151c5d799c7cb7d90101c8a76fba5c1caa69e2ea3593a045b66449ed63"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -14,7 +26,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hidden_items.js"
-hash = "6cf117d693e0518b3d493a1531ad9bec7100539e3452af99b4070b8ea2d5cc8a"
+hash = "1e4b84617143272604a1a87d7e74690456577970dad7a632d60eeb6a36a1d9b6"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -26,11 +38,11 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "23b3eb471a938d8728bef74c703530f9221e6110eebc09b103c6a6d4026df672"
+hash = "c164bc771f97238f677cb91436c7ac816961791774349b401a8de403f4c54dd0"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "ff6836158557fa1260aef0018868ee85d17a2500f940730f3ed75d112aa36be0"
+hash = "fa71bd21a9c3b2660860dd0e0045c1b0d8e02a9d3251b4616c7d67cd32961cae"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -212,6 +224,11 @@ hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
 metafile = true
@@ -274,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
 hash = "0c73b88a7cb7cfb35e2660ebab85c30b7d1ffe153a69d61f05dd075dd78b513d"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "e4a65e6e67523dab2e57e6070f8089bacda68bf39bc68c9afd264c115421066d"
 metafile = true
 
 [[files]]
@@ -672,16 +694,6 @@ hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f6a0fc49c41256d53076f9e84c8ebe87bed5d409ee368de322588506d8a4531a"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "86743c0b759b76ab51972ae686a9bee3ee8c1361a274408f55c48691c2449c83"
-metafile = true
-
-[[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
@@ -737,6 +749,11 @@ hash = "c23e94b6987ad57c3591fcda57b87434bed36cdbbfccdb03385b8e62acda0e6a"
 metafile = true
 
 [[files]]
+file = "mods/tinyinv.pw.toml"
+hash = "ee6278090ad65f0d23ecefad38d90135e6f8784f9abd5ce12c2a06ac8c8c6512"
+metafile = true
+
+[[files]]
 file = "mods/treechop.pw.toml"
 hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
 metafile = true
@@ -744,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "08a5b69474ddf223809a4e624f123dd3886362011663989c1bbacd6b5167baf0"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "431a4d4efe83d1dec90791e04e9cb912a17f00e45178682c35a6b35510c825c2"
 metafile = true
 
 [[files]]

@@ -14,6 +14,14 @@ ServerEvents.recipes(event => {
   event.remove({id: 'create:crafting/kinetics/train_door'})
   event.remove({id: 'create:crafting/kinetics/train_trapdoor'})
 
+  // Removed mob drops
+  event.remove({id: 'farmersdelight:organic_compost_from_rotten_flesh'})
+  event.remove({id: 'botaniadelight:mana_flesh'})
+  event.remove({id: 'botania:mana_infusion/rotten_flesh_to_leather'})
+  event.remove({id: 'sliceanddice:cooking/farmersdelight/cooking/dog_food'})
+  event.remove({id: 'botania:fel_pumpkin'})
+  event.remove({id: 'farmersdelight:cooking/dog_food'})
+
   // Remove crafting table completely forced to use mechanical crafters or other means
   event.remove({id: 'minecraft:crafting_table'})
 })
