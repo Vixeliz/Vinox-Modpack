@@ -1,0 +1,13 @@
+name = "Botania Delight"
+filename = "botaniadelight-1.0.3.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c5RUtis1/versions/7D2hwYnk/botaniadelight-1.0.3.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "f7d1d05784a35f615889f8428d075936481f8d610468ec26a897ee01c4ff437b5e775a8d17e376d7dc2ce7462384989491a277a706b29bb8ced1aa932f505de0"
+
+[update]
+[update.modrinth]
+mod-id = "c5RUtis1"
+version = "7D2hwYnk"

@@ -1,0 +1,13 @@
+name = "NoMo' Portals"
+filename = "nomoportals-1.20.1-5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/shr3jwQg/versions/TfINczsF/nomoportals-1.20.1-5.4.jar"
+hash-format = "sha512"
+hash = "ee548d9af4723ce2fcbc7bd7bf67f891bbebd7d2dc7cd70f36d05943429c6c7c9b2e66653fb7226493aa6d5b5fb1d2dfbfdb8614f376025520251941a4635986"
+
+[update]
+[update.modrinth]
+mod-id = "shr3jwQg"
+version = "TfINczsF"

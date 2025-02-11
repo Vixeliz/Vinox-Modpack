@@ -1,0 +1,13 @@
+name = "Serene Seasons Delight"
+filename = "sereneseasonsdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ab0CezfN/versions/cymG9Mys/sereneseasonsdelight-1.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "cfae0a0e7a79dbdef34878887f87f56354227f00f3962139ed461ed64484410d66d29e1d174235aa7e0aa9360bf3af872a89ef2c42e6274444c5c06c660cbdb3"
+
+[update]
+[update.modrinth]
+mod-id = "ab0CezfN"
+version = "cymG9Mys"

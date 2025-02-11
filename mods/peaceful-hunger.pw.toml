@@ -1,0 +1,13 @@
+name = "Peaceful Hunger"
+filename = "peaceful_hunger-neoforge-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NGEcCZ3C/versions/hoQDMdsW/peaceful_hunger-neoforge-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "dacbb926b347a3e7a35471cb571bbb01cd59400e858538c8c9111551e9339b32a1f56eb0cf2b0b54ce259a09783e98f0baa8a7b68bd3ed6581fc824122a58d11"
+
+[update]
+[update.modrinth]
+mod-id = "NGEcCZ3C"
+version = "hoQDMdsW"

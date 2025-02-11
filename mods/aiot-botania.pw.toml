@@ -1,0 +1,13 @@
+name = "AIOT Botania"
+filename = "aiotbotania-1.20.1-4.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TFFWPTSD/versions/sCJhPEzm/aiotbotania-1.20.1-4.0.5.jar"
+hash-format = "sha512"
+hash = "5c3bdfa064cbd5b173717e5ba1cb5d9aded33e3201cabd4dd590e7a637fad9bd33d3c9906338f69eff3a8853b073700abf43f60232b960f63522151fb1679be9"
+
+[update]
+[update.modrinth]
+mod-id = "TFFWPTSD"
+version = "sCJhPEzm"

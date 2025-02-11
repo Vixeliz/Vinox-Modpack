@@ -1,0 +1,13 @@
+name = "Amendments"
+filename = "amendments-1.20-1.2.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/R9LMifxG/amendments-1.20-1.2.17.jar"
+hash-format = "sha512"
+hash = "57c80e60bf6d9be7f2cfd8fe5bf8fbb2e817da8a5e03d76440cebfa6e5088dea10b44cb5f73c5c8752a1f2c64eae5af08440a692d53396f6b6812cf16a2e86fa"
+
+[update]
+[update.modrinth]
+mod-id = "6iTJugQR"
+version = "R9LMifxG"

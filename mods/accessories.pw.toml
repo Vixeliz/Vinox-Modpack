@@ -1,0 +1,13 @@
+name = "Accessories"
+filename = "accessories-neoforge-1.0.0-beta.44+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/igLFsvmp/accessories-neoforge-1.0.0-beta.44%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "829ff1871f8357f3e4f7f4c208af052c1a3f7d7d4f65e48f714112f23f4ebc9c538b03cffa7f78db99ef55903401be15b391573d8ff7ddfdc8dbc0da7cd3fe8e"
+
+[update]
+[update.modrinth]
+mod-id = "jtmvUHXj"
+version = "igLFsvmp"

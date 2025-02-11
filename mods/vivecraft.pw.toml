@@ -1,0 +1,13 @@
+name = "Vivecraft"
+filename = "vivecraft-1.20.1-1.2.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGoQDPN5/versions/nZYPTAwA/vivecraft-1.20.1-1.2.4-forge.jar"
+hash-format = "sha512"
+hash = "651f5ee53233597b62f84ac07085ce466fa4ae9e3da789b5d6a148a39b7e8ce35ada298e00c4c259ddb607de1e67e15db7d495fca3a9a633fb779477f3fc2477"
+
+[update]
+[update.modrinth]
+mod-id = "wGoQDPN5"
+version = "nZYPTAwA"

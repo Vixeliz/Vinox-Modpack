@@ -1,0 +1,13 @@
+name = "Botanic Additions"
+filename = "BotanicAdditions-1.20.1-20.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2u3eevWi/versions/VVMY2REJ/BotanicAdditions-1.20.1-20.1.1.jar"
+hash-format = "sha512"
+hash = "77a1ec20f5076ddc6b82c256b9d4676e06c0b374c2b0ea9e858091d286bfe7c3fa0bd65be221bf841ad9d1c8c68fa82275806077863885c73bd2ecf8713d5e7a"
+
+[update]
+[update.modrinth]
+mod-id = "2u3eevWi"
+version = "VVMY2REJ"
