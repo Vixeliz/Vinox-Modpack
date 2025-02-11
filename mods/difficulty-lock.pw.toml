@@ -1,0 +1,13 @@
+name = "Difficulty Lock"
+filename = "difficultylock-1.20.1-4.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9yvZtixz/versions/NtBkIe9a/difficultylock-1.20.1-4.6.jar"
+hash-format = "sha512"
+hash = "9315e360c919b7496caa59141e1bb61c1bdacc301887a1398305e596338319f7cc139b6f40650206bc29765044962a32aa429728c0c40fcbb0125a793793d25a"
+
+[update]
+[update.modrinth]
+mod-id = "9yvZtixz"
+version = "NtBkIe9a"

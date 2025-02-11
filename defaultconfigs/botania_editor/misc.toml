@@ -1,0 +1,9 @@
+
+["Misc Config"]
+	#Fluxfield Mana to fe conversion rate
+	#Range: > 0
+	"Fluxfield mana to fe" = 10
+	#Max capacity of Fluxfield
+	#Range: > 0
+	"Fluxfield fe capacity" = 12800
+

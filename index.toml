@@ -1,8 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/botanicadds.cfg"
+hash = "9968ca1861f0bb93f8f6ad4776b086df47fa7bb496bb3bc5e73d04c2da071dbd"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "81f56a71c05b2a705698566b5f83b13657850191fd2e3681fe66bcbd2e1a5767"
+
+[[files]]
+file = "config/fancymenu/customization/inventory_screen_layout.txt"
+hash = "134f6eee1d044508844c4835c6f1d79d1822107edd38c976134c65597159c5c1"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "106b496255e8a733b079011ecd8dddb5e8880cc38f6fdc62fc029da14e71bc01"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "691a55d10b20a6422329d88f5c30d73f4026fcc7663a7be02092371bb426ba51"
+
+[[files]]
 file = "config/starterstructure/schematics/petal_spawn.nbt"
 hash = "59157c77c8d57cee52ea6bae842da73acb909e52765b382df2702fa12ca6cd93"
+
+[[files]]
+file = "config/stucturify.json"
+hash = "df2daa91757310a6f18fd1bfcbdcf373aeaaf426b4bea5569c8d6aea02511255"
+
+[[files]]
+file = "defaultconfigs/botania_editor/functioning_flora.toml"
+hash = "f4af08839237baddf9245c62fbbea5ce427e7438f280857f04cca9e1de9cde44"
+
+[[files]]
+file = "defaultconfigs/botania_editor/generating_flora.toml"
+hash = "b4ec631284502b319437d40fdcee211be36f59c0a4bca14cf38e73b8c69552ff"
+
+[[files]]
+file = "defaultconfigs/botania_editor/lotus.toml"
+hash = "b9570aa94a041047bec6fe43f6f6e7790feab70ba41c1463f0c24eb70b3bf448"
+
+[[files]]
+file = "defaultconfigs/botania_editor/mana_pool.toml"
+hash = "6867d7962688b4f5ef4c6b08a35cb35f478968806c45885616c4bb388603e6eb"
+
+[[files]]
+file = "defaultconfigs/botania_editor/misc.toml"
+hash = "fe41eae83e77fe7303ae249220e6c64bb5d4ca0758c73c687f893a0a7b75ffad"
+
+[[files]]
+file = "defaultconfigs/botania_editor/spreader.toml"
+hash = "365b312bb44de07637f35f0b59b88ed5ba9137b95dfd02847a8ea59772c25212"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "c6aace7dcbce35444285efbbe6469207324ec489f692dc3235727c4dc894cc61"
+
+[[files]]
+file = "defaultconfigs/create_enchantment_industry-server.toml"
+hash = "16432cd6c99cbdda21fae42857a269378bb842c8767ee95b5a699ba260b6fdaf"
 
 [[files]]
 file = "defaultconfigs/tinyinv-server.toml"
@@ -26,7 +106,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hidden_items.js"
-hash = "1e4b84617143272604a1a87d7e74690456577970dad7a632d60eeb6a36a1d9b6"
+hash = "2ff5dfe47ba2db8d4b25ca18a01c8b81c578667ea6cee26f63578ba47d54e0dd"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -42,7 +122,7 @@ hash = "c164bc771f97238f677cb91436c7ac816961791774349b401a8de403f4c54dd0"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "fa71bd21a9c3b2660860dd0e0045c1b0d8e02a9d3251b4616c7d67cd32961cae"
+hash = "5a124d3472f8c13394612dcdd6cfb7802441aa18e6fb69243d86f40de8b3c1fe"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
@@ -266,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
+metafile = true
+
+[[files]]
+file = "mods/difficulty-lock.pw.toml"
+hash = "c9ee2a433b0a623bb8301c69ba9ffd8d6061c0e50436e18232308a85e69eed0a"
 metafile = true
 
 [[files]]
@@ -721,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "426ec3df7f994bfdf77584b27efab697c87973f66f1e8dfc47fc0fc6ea840031"
 metafile = true
 
 [[files]]

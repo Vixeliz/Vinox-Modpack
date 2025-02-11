@@ -24,5 +24,15 @@ ServerEvents.recipes(event => {
 
   // Remove crafting table completely forced to use mechanical crafters or other means
   event.remove({id: 'minecraft:crafting_table'})
+
+  // Remove create mechanical items
+  event.remove({id: 'create:crafting/kinetics/mechanical_harvester'})
+  event.remove({id: 'create:crafting/kinetics/mechanical_roller'})
+
+  // Redunant enchanting means
+  event.remove({id: 'create_enchantment_industry:crafting/printer'})
+  event.remove({id: 'create_enchantment_industry:crafting/enchanting_guide'})
+  event.remove({id: 'minecraft:enchanting_table'})
+  
 })
 
