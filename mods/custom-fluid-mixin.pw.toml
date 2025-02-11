@@ -1,0 +1,13 @@
+name = "Custom Fluid Mixin"
+filename = "CustomFluidMixin-1.5.0-mc1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XVnHT1wv/versions/x3lOBOAr/CustomFluidMixin-1.5.0-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "69764a84879e06f1f66741ee50f4e7dedceeb370d4edecfa9b44a858d218270a02305ea5360985f7c0f1fa4f8deb3c3f0c3bc3f5cef2ff7a25f3c43c93e50062"
+
+[update]
+[update.modrinth]
+mod-id = "XVnHT1wv"
+version = "x3lOBOAr"

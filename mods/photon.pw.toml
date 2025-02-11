@@ -1,0 +1,13 @@
+name = "Photon"
+filename = "photon-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e223b9effd5fb084c8a3dbd8786d067f5e94ae46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5974346
+project-id = 871522
