@@ -167,6 +167,11 @@ hash = "0a6e1bbdd1b8c27e6fe0bcaf735322e121caf28ad5f293c5407d37f4a2287ddb"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
