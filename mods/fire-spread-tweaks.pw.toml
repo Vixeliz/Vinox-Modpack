@@ -1,0 +1,13 @@
+name = "Fire Spread Tweaks"
+filename = "firespreadtweaks-1.20.1-2.7.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vgI7KTun/versions/8dmeSvWh/firespreadtweaks-1.20.1-2.7.jar"
+hash-format = "sha512"
+hash = "0f08f6a3dd17a961260366a781b1e0527397e13751a9b37a2b50bd9de3ddc765dd92c264e696e2e2caaa2090c25eb1b27270bec9a3b9ba6e8abd5a888ccda905"
+
+[update]
+[update.modrinth]
+mod-id = "vgI7KTun"
+version = "8dmeSvWh"

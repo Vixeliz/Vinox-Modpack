@@ -5,16 +5,24 @@ file = "config/botanicadds.cfg"
 hash = "9968ca1861f0bb93f8f6ad4776b086df47fa7bb496bb3bc5e73d04c2da071dbd"
 
 [[files]]
+file = "config/difficultylock.json5"
+hash = "a1e556082f83af7a26206969c8a6f1350aad1a5a1979d08d8c8a7c39886879b2"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "81f56a71c05b2a705698566b5f83b13657850191fd2e3681fe66bcbd2e1a5767"
+hash = "ce71a07352a1f9aebf42c42949168863196dd2d05c2dcc9a5400d0dfb4615714"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
-hash = "134f6eee1d044508844c4835c6f1d79d1822107edd38c976134c65597159c5c1"
+hash = "f058d7d3ad008f4417d0c4240e8e2b2f1db5293c3d059b5a2d4de41c8a73f3c3"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "9badbef8eea26b5c36897dadc9230ada302ad39b32015ddf3f8515e30a742c4a"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -26,7 +34,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "106b496255e8a733b079011ecd8dddb5e8880cc38f6fdc62fc029da14e71bc01"
+hash = "650365ab2f46f06eacdf7be9e5b97fd8bd0ea117d5d7464f4978f16466ae402a"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -444,6 +452,11 @@ hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
 metafile = true
 
 [[files]]
+file = "mods/fire-spread-tweaks.pw.toml"
+hash = "bd1b36f3a1503993504ebc876e33c58a03743169e4a0f57a9d73207c9c3272e6"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "c02d5558f7c034fbb180e794403ed738b57ee89b2894cd650ae6b16b661ac074"
 metafile = true
@@ -594,11 +607,6 @@ hash = "8ec249c1e2aaac6bf623263036059908f66769ca70e90dd854de483424cedd0a"
 metafile = true
 
 [[files]]
-file = "mods/mechanical-botania-revived.pw.toml"
-hash = "c7fe8ed88fd2f7739de5c70c183fefde759f6c4ae94b5f11d78a81e75abe6b8c"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "c9f8bce06b85e4dbfdaecc7d0930bf7f4fabccc7967f867b7eb7acb8dd5b77a7"
 metafile = true
@@ -621,6 +629,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2e0b93cbe56f0a8645f72f256452ec9261a1d97386dfeb67bac0c1aca830cac8"
+metafile = true
+
+[[files]]
+file = "mods/moms-love.pw.toml"
+hash = "d5881b508e6d6f9426a6095988643a4568f7562e7a2ff962e27c859f35940f6c"
 metafile = true
 
 [[files]]

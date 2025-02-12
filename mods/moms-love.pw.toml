@@ -1,0 +1,13 @@
+name = "Mom's Love"
+filename = "MomLove-forge-1.20.x-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wpw2Hc99/versions/39nrrLRn/MomLove-forge-1.20.x-1.2.1.jar"
+hash-format = "sha512"
+hash = "3cbc6a48cd140f1d920304e3660f438313cf25f82412bd8bef6b0fb52ccd3c7deecc1f57207e265f0ef80c46f81dc17e8396dceccb2206e4a74cb16e91507607"
+
+[update]
+[update.modrinth]
+mod-id = "wpw2Hc99"
+version = "39nrrLRn"
