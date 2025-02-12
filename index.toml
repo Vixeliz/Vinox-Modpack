@@ -14,15 +14,19 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "ce71a07352a1f9aebf42c42949168863196dd2d05c2dcc9a5400d0dfb4615714"
+hash = "4a0d4c8e01f959943d891ee8f1b2cc9cdd84ca4941768af21cba4be7c4c3fe17"
 
 [[files]]
 file = "config/fancymenu/customization/inventory_screen_layout.txt"
 hash = "f058d7d3ad008f4417d0c4240e8e2b2f1db5293c3d059b5a2d4de41c8a73f3c3"
 
 [[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "baa8186cddd5f82611a051d677310fe9fe147841b71d286b022924eb903d91d9"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "9badbef8eea26b5c36897dadc9230ada302ad39b32015ddf3f8515e30a742c4a"
+hash = "ce2e6182638ff9117d608be7e20d974853eb9f431f14cbcc52205872c41979a1"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -53,8 +57,16 @@ file = "config/quark-common.toml"
 hash = "691a55d10b20a6422329d88f5c30d73f4026fcc7663a7be02092371bb426ba51"
 
 [[files]]
+file = "config/starterstructure.json5"
+hash = "46affa0f2fcab00188bcbf6aed849bab2e210c3abceeaace997710aeb16c7204"
+
+[[files]]
 file = "config/starterstructure/schematics/petal_spawn.nbt"
 hash = "59157c77c8d57cee52ea6bae842da73acb909e52765b382df2702fa12ca6cd93"
+
+[[files]]
+file = "config/structurify.json"
+hash = "fd94d0c615ec7d31a22ccfb03b20f91ee72d261bca40cdf3c65f780861a58000"
 
 [[files]]
 file = "config/stucturify.json"
@@ -126,7 +138,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "c164bc771f97238f677cb91436c7ac816961791774349b401a8de403f4c54dd0"
+hash = "66201b5ba02abf3ae6241b1125009eeb4bbf64ff4b91dc21160b09e057d52d0d"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
