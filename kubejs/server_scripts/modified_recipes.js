@@ -29,6 +29,10 @@ ServerEvents.recipes(event => {
       "botania:white_mystical_flower",
       "botania:white_mystical_flower"
     ])
+    event.recipes.botania.petal_apothecary("botania:livingwood_twig", [
+      "#botania:livingwood_logs",
+      "#botania:livingwood_logs",
+    ], "#minecraft:saplings")
     event.recipes.botania.pure_daisy("botania:livingrock", "#forge:cobblestone")
     // Mob drops
     event.custom({

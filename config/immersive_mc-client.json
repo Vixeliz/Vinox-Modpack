@@ -4,7 +4,7 @@
   "returnItemsWhenLeavingImmersives": true,
   "disableImmersiveMCOutsideVR": false,
   "bagColor": 11901820,
-  "rightClickChestInteractions": false,
+  "rightClickChestInteractions": true,
   "autoCenterFurnaceImmersive": false,
   "autoCenterBrewingStandImmersive": false,
   "bagMode": "BUNDLE",
