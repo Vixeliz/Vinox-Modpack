@@ -5,6 +5,14 @@ file = "config/botanicadds.cfg"
 hash = "9968ca1861f0bb93f8f6ad4776b086df47fa7bb496bb3bc5e73d04c2da071dbd"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "a38cc3eb656a6983ecf15ee89a39e547d1e322f30d0280aba0fc483f00c814ba"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "ada0ad021f6b3e6409764805dd0d8b88e023c9227b0b0876cebdcf915a83f669"
+
+[[files]]
 file = "config/difficultylock.json5"
 hash = "a1e556082f83af7a26206969c8a6f1350aad1a5a1979d08d8c8a7c39886879b2"
 
@@ -324,6 +332,11 @@ hash = "17a10532b2a12768f31f8bd209024312e6e224d01f87c8476704000b40d2334e"
 metafile = true
 
 [[files]]
+file = "mods/crawl-on-demand.pw.toml"
+hash = "a40842f88b0d835102353c9786207d234da829c311675ac1d2c73959e088aea9"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
 metafile = true
@@ -541,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "03c55a1cbe4e547abba255cd02d157cb0ce3f8b782daa33797048061751b0f55"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
 metafile = true
 
 [[files]]
