@@ -61,6 +61,14 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/immersive_mc-client.json"
+hash = "2e2341ea553078707e9c6a6ec9406827e3816cdde3f9db7634fef2517c8bdae9"
+
+[[files]]
+file = "config/immersive_mc-server.json"
+hash = "ba9b1eddf2035e7c3fa51d0db28a8578137334809140ca14c3a6b6b6004e2e7f"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "691a55d10b20a6422329d88f5c30d73f4026fcc7663a7be02092371bb426ba51"
 
@@ -146,7 +154,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "66201b5ba02abf3ae6241b1125009eeb4bbf64ff4b91dc21160b09e057d52d0d"
+hash = "8f0341f9b163ddd7a3f0bdc9536fc4cc7822d53550229b19b80d28ff6e1498c3"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
@@ -364,11 +372,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "605f7351ee4f4cec0f33ac6693e08c004d13ddf383af74fe1c5a8877ad92a805"
-metafile = true
-
-[[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "9ea314aff8c6e5babbaf5e829cd2c7f1be129ce2bd690ac2ec1311f621f0b9e0"
 metafile = true
 
 [[files]]

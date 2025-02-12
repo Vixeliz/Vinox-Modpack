@@ -48,4 +48,5 @@ ServerEvents.recipes(event => {
     })
 
     event.recipes.create.filling('minecraft:blaze_rod', [Fluid.lava(), 'minecraft:bone'])
+    event.recipes.create.filling('minecraft:netherrack', [Fluid.lava(250), '#forge:cobblestone'])
 })
