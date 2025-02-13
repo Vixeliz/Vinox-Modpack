@@ -246,7 +246,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "8633d087df99738db844cd263dbc966fcd6df22075eb7be815e97d138e1a49c5"
+hash = "860bb5d716c5e89b2d266d64457bd941815579c370d0417f301b52b013cef988"
 
 [[files]]
 file = "kubejs/server_scripts/new_recipes.js"
@@ -966,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "f6a0fc49c41256d53076f9e84c8ebe87bed5d409ee368de322588506d8a4531a"
 metafile = true
 
 [[files]]
