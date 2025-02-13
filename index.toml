@@ -25,10 +25,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "4a0d4c8e01f959943d891ee8f1b2cc9cdd84ca4941768af21cba4be7c4c3fe17"
 
 [[files]]
-file = "config/fancymenu/customization/inventory_screen_layout.txt"
-hash = "f058d7d3ad008f4417d0c4240e8e2b2f1db5293c3d059b5a2d4de41c8a73f3c3"
-
-[[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
 hash = "baa8186cddd5f82611a051d677310fe9fe147841b71d286b022924eb903d91d9"
 
@@ -62,7 +58,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/immersive_mc-client.json"
-hash = "2e2341ea553078707e9c6a6ec9406827e3816cdde3f9db7634fef2517c8bdae9"
+hash = "782b7f424b9a1f0367b1de8352cbd59d206f78c53ab95fcc5087285ccd0d55bb"
 
 [[files]]
 file = "config/immersive_mc-server.json"
@@ -70,11 +66,11 @@ hash = "ba9b1eddf2035e7c3fa51d0db28a8578137334809140ca14c3a6b6b6004e2e7f"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "691a55d10b20a6422329d88f5c30d73f4026fcc7663a7be02092371bb426ba51"
+hash = "2cf3a764199502f2efe681e0f686405c7a914059cd8e5276d7769775e6850397"
 
 [[files]]
 file = "config/starterstructure.json5"
-hash = "46affa0f2fcab00188bcbf6aed849bab2e210c3abceeaace997710aeb16c7204"
+hash = "b1891e0679c557ec8d0abc6e9cf2e08d969e44590b37bdbeecf39f581ccfb728"
 
 [[files]]
 file = "config/starterstructure/schematics/petal_spawn.nbt"
@@ -238,7 +234,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hidden_items.js"
-hash = "2ff5dfe47ba2db8d4b25ca18a01c8b81c578667ea6cee26f63578ba47d54e0dd"
+hash = "54ccf73ec3079b3bbcb15abfe57bfe7bcd435512c377b37aedda54fa350369be"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -250,7 +246,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "a57e63922f0735e085697fe0a43d024b170f7338df437311a37517163475db17"
+hash = "8633d087df99738db844cd263dbc966fcd6df22075eb7be815e97d138e1a49c5"
 
 [[files]]
 file = "kubejs/server_scripts/new_recipes.js"
@@ -258,7 +254,7 @@ hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "5a124d3472f8c13394612dcdd6cfb7802441aa18e6fb69243d86f40de8b3c1fe"
+hash = "24692dc52b785385b1e425d25bb564a6d3a04bd169e2aab2b45c0188b846cdf1"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items_and_fluids.js"
@@ -903,6 +899,16 @@ hash = "105a3cb78f853a00406250e8a5be2cc2a757cdee03b8d933529c96b3bd9be309"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-addons.pw.toml"
+hash = "0ee71b669f9284e78bbde6e9d8bf02a2d92e822a870bd3171f265f570bd0c8e5"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
+metafile = true
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
@@ -920,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
+metafile = true
+
+[[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "20e0c41d2278b2f07ad6b6ad1857b6488546f603ee933c6fe4233ad3eaaa75b0"
 metafile = true
 
 [[files]]
@@ -959,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "77140adc9cedf6568b1484e017d757d95c2d96fa82049c688477b87c8301628c"
+hash = "6b9faa183ea16d65e9b0f7c704d0a3669746484c512cef2dfc99e38cfd4c9a44"
 metafile = true
 
 [[files]]
@@ -1015,11 +1026,6 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "c23e94b6987ad57c3591fcda57b87434bed36cdbbfccdb03385b8e62acda0e6a"
-metafile = true
-
-[[files]]
-file = "mods/tinyinv.pw.toml"
-hash = "ee6278090ad65f0d23ecefad38d90135e6f8784f9abd5ce12c2a06ac8c8c6512"
 metafile = true
 
 [[files]]

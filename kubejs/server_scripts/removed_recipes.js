@@ -22,9 +22,6 @@ ServerEvents.recipes(event => {
   event.remove({id: 'botania:fel_pumpkin'})
   event.remove({id: 'farmersdelight:cooking/dog_food'})
 
-  // Remove crafting table completely forced to use mechanical crafters or other means
-  event.remove({id: 'minecraft:crafting_table'})
-
   // Remove create mechanical items
   event.remove({id: 'create:crafting/kinetics/mechanical_harvester'})
   event.remove({id: 'create:crafting/kinetics/mechanical_roller'})

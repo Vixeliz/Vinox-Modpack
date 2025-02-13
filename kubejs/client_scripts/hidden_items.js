@@ -9,7 +9,6 @@ JEIEvents.hideItems(event => {
   event.hide('create:controls')
   event.hide('create:train_door')
   event.hide('create:train_trapdoor')
-  event.hide('minecraft:crafting_table')
   
   // Hide unneeded mob drops
   event.hide('minecraft:rotten_flesh')
