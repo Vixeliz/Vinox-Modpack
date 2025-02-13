@@ -125,8 +125,92 @@ file = "defaultconfigs/tinyinv-server.toml"
 hash = "a653912173fae6e035e52b3ddd174c6af402d1ef49777c982d8a6c9c0206dff3"
 
 [[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/machine/energy.sm"
+hash = "6470914527414a12c3cfc732af4a414c5ea05a672e2ef53e004a8f90aa16ddf2"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/machine/fluid_tank.sm"
+hash = "c0cfbe586e658e3a2cf5693a21bd35581f930b476d2d6f44148da2cd9c0d4ef9"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/machine/item_input.sm"
+hash = "7fd10ded0d2a36077baf19c7e6796b7527152502ebe086845dd90d5eb0d15f96"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/machine/mana.sm"
+hash = "929ab3b7d4793caf93fa81a3a2af7d0fc4156a768fde0cecfcef65f7febdd093"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/multiblock/experience_generator.mb"
+hash = "93f08010f9eda11a78bb421a415cf28a817abec412bbb5bf15186f4cbbc05c52"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/mbd2/recipe_type/experience_recipes.rt"
+hash = "4848ef8bca96a9a446336b34557171a6134ddbeecd9bd3945257e8c024559a0e"
+
+[[files]]
+file = "global_packs/required_data/Vinox/assets/minecraft/lang/en_us.json"
+hash = "e5366e2370ac24f0f33ae2f85dac9b5fce27b09f337e757e3390bb7343f2daa6"
+
+[[files]]
+file = "global_packs/required_data/Vinox/data/vinox/custom_fluid_mixin/unstable_mana.json"
+hash = "89f3f67ad67c22239df83959003cc33c88413ca6d6087a09419488690d8ad6cc"
+
+[[files]]
+file = "global_packs/required_data/Vinox/pack.mcmeta"
+hash = "769b39714cbf294a2438031dcebc7fb98ba9b2b30ffe525f93b38435390bf2d7"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/machine/energy.sm"
+hash = "6470914527414a12c3cfc732af4a414c5ea05a672e2ef53e004a8f90aa16ddf2"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/machine/fluid_tank.sm"
+hash = "c0cfbe586e658e3a2cf5693a21bd35581f930b476d2d6f44148da2cd9c0d4ef9"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/machine/item_input.sm"
+hash = "7fd10ded0d2a36077baf19c7e6796b7527152502ebe086845dd90d5eb0d15f96"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/machine/mana.sm"
+hash = "929ab3b7d4793caf93fa81a3a2af7d0fc4156a768fde0cecfcef65f7febdd093"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/multiblock/experience_generator.mb"
+hash = "93f08010f9eda11a78bb421a415cf28a817abec412bbb5bf15186f4cbbc05c52"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/mbd2/recipe_type/experience_recipes.rt"
+hash = "4848ef8bca96a9a446336b34557171a6134ddbeecd9bd3945257e8c024559a0e"
+
+[[files]]
 file = "global_packs/required_resources/Vinox/assets/minecraft/lang/en_us.json"
 hash = "e5366e2370ac24f0f33ae2f85dac9b5fce27b09f337e757e3390bb7343f2daa6"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/models/energy_storage.json"
+hash = "dd4e9f2e805e671c03099e33b59222799a2aae5a121117f878105922ef83ad9e"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/models/fluid.json"
+hash = "836507f38453e7872195f495d962f082c3bf07a424c3ec4c7ae2e435c35f35bd"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/models/item_input.json"
+hash = "8c73e6456180981eaea066d336f819c78c35df071eb44d40966c4eb6b7a6deec"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/textures/block/energy_storage.png"
+hash = "fb6f05893d1500606b75fe9464df94cedd8cfec2e1e18339f2378ee8914ea182"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/textures/block/fluid.png"
+hash = "48e7a85f28c7aa148fd2f9ea4ee25cc4e8fb5e0d4c756656d2801ac2b05b36bf"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/vinox/textures/block/item_input.png"
+hash = "5bed934c8d965c20d6ad7d3a612796892ca0f29f4f745bda5eda7d52202a208d"
 
 [[files]]
 file = "global_packs/required_resources/Vinox/pack.mcmeta"
@@ -135,6 +219,18 @@ hash = "3297ea151c5d799c7cb7d90101c8a76fba5c1caa69e2ea3593a045b66449ed63"
 [[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/compressed_mana_slime.png"
+hash = "76f79ada8a584f2d6f77ac3b1f204c3447b9cac8df104a8832883015b9e26e2d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/infused_mana_slime.png"
+hash = "45ac04d12a8d5cef421d07efb28119f5fa6dee660ac9273271cfcc484f09eb1d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/mana_slime.png"
+hash = "354f82183ac6c64c578fae5f1eb3777a0a6c0657a5cd16a145dfc7bb0a9c1a35"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -154,15 +250,47 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "8f0341f9b163ddd7a3f0bdc9536fc4cc7822d53550229b19b80d28ff6e1498c3"
+hash = "a57e63922f0735e085697fe0a43d024b170f7338df437311a37517163475db17"
+
+[[files]]
+file = "kubejs/server_scripts/new_recipes.js"
+hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
 hash = "5a124d3472f8c13394612dcdd6cfb7802441aa18e6fb69243d86f40de8b3c1fe"
 
 [[files]]
+file = "kubejs/startup_scripts/custom_items_and_fluids.js"
+hash = "2153b1c969b8cb11ef930ef73ec845bc62e944e15dc4207112199d7083aad923"
+
+[[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "ldlib/assets/mbd2/machine/energy.sm"
+hash = "6a80b71d46e135e80fcb70e49310342930534966861781168b7f0c88bb4fec11"
+
+[[files]]
+file = "ldlib/assets/mbd2/machine/fluid_tank.sm"
+hash = "e7134edeca9c6fadc8918afda11a86d512b8936bde1eb19946eb9526fc762471"
+
+[[files]]
+file = "ldlib/assets/mbd2/machine/item.sm"
+hash = "70f2bcdf65249f4b4cb7fc42c5d909998ef4724498deadb5f221385862cfc8a9"
+
+[[files]]
+file = "ldlib/assets/mbd2/machine/mana.sm"
+hash = "74631638910bea9e52f4b657747d6ede07f037f67d3e1f254b378855bb4bb995"
+
+[[files]]
+file = "ldlib/assets/mbd2/multiblock/experience_generator.mb"
+hash = "392fa7d19adbf5cb0df5b54802a47dd3e0a7d6094cf51e1f3390704c68e4a97c"
+
+[[files]]
+file = "ldlib/assets/mbd2/recipe_type/experience_recipes.rt"
+hash = "4848ef8bca96a9a446336b34557171a6134ddbeecd9bd3945257e8c024559a0e"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
@@ -830,6 +958,16 @@ hash = "a6159b0deb77133a0050a7029da62f43f8ba0f3ccf0fc1438f8b1f30b3c625d0"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "77140adc9cedf6568b1484e017d757d95c2d96fa82049c688477b87c8301628c"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "67b604eda41b750fb9faf4a20e87aac843484e2acb51462f100309d5a6d0715e"
+metafile = true
+
+[[files]]
 file = "mods/sound.pw.toml"
 hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
@@ -847,16 +985,6 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "0ca93facd592ba86d042724e87e2ee26b636ad9d593b88cd6066091e63e3894e"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers-create-compat.pw.toml"
-hash = "000b6ed7423aa323da45cdcd9db145f4f07acd8bc9cd9abc4e335f5651605af4"
-metafile = true
-
-[[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "fd6155814d00766c567f1b8459645346e125b3ee4bf37757f70084e281f8a7dc"
 metafile = true
 
 [[files]]

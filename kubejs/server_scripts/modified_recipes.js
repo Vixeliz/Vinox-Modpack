@@ -49,4 +49,8 @@ ServerEvents.recipes(event => {
 
     event.recipes.create.filling('minecraft:blaze_rod', [Fluid.lava(), 'minecraft:bone'])
     event.recipes.create.filling('minecraft:netherrack', [Fluid.lava(250), '#forge:cobblestone'])
+    event.recipes.create.filling('minecraft:sand', [Fluid.lava(250), '#forge:sould_sand'])
+    event.recipes.create.haunting('create:blaze_burner', 'create:empty_blaze_burner')
+    event.recipes.create.haunting('minecraft:soul_campfire', 'minecraft:campfire')
+
 })
