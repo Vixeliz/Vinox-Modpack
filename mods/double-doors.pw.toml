@@ -1,0 +1,13 @@
+name = "Double Doors"
+filename = "doubledoors-1.20.1-6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/nBGjZdHy/doubledoors-1.20.1-6.1.jar"
+hash-format = "sha512"
+hash = "31cfa9de96082b90772a287b6341d02a549e5bba3a2e8054c358a2e3e46596db64350d06252417f30ea6f15f132fb5ae1eaff5fa51deeb861db44d11a9cb524e"
+
+[update]
+[update.modrinth]
+mod-id = "JrvR9OHr"
+version = "nBGjZdHy"

@@ -1,0 +1,13 @@
+name = "Every Compat (Stone Zone)"
+filename = "stonezone-1.20-2.7.8-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uYwn8IP5/versions/LowitIPg/stonezone-1.20-2.7.8-fabric.jar"
+hash-format = "sha512"
+hash = "fc969cab6ea32e86c82c62daf66cc386aefaadb1c1d8ab48777ed3fa562f1214e6d8851744850b48556a746e0ea7e6d0f052c9e7be418692e3766c012023aab5"
+
+[update]
+[update.modrinth]
+mod-id = "uYwn8IP5"
+version = "LowitIPg"

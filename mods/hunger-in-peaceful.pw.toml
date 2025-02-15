@@ -1,0 +1,13 @@
+name = "Hunger in Peaceful"
+filename = "hungeronpeaceful-1.0.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ho53bCva/versions/3lSF2J3M/hungeronpeaceful-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "1886ecb8cfcb98edaa9e5078100debe0e460fd667073d41a1b62a92e07c9e616c98c3dfaebb9b57cc83a7d21233d7338a5463fcf6586b7103cda9dca6d07c817"
+
+[update]
+[update.modrinth]
+mod-id = "ho53bCva"
+version = "3lSF2J3M"

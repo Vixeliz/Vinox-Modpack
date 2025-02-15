@@ -1,0 +1,19 @@
+{
+    "type": "flowing_block",
+    "flowing": "kubejs:liquid_mana",
+    "blocks_nearby": [
+        "#minecraft:mineable/pickaxe",
+        "#minecraft:mineable/axe",
+        "#minecraft:mineable/hoe",
+        "#minecraft:mineable/shovel"
+    ],
+    "result": {
+        "type": "block",
+        "blocks": [
+            {
+                "block": "minecraft:stone",
+                "weight": 1
+            }
+        ]
+    }
+}

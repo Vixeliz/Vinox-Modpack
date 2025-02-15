@@ -1,0 +1,13 @@
+name = "Apple's Skin"
+filename = "Apple's Skin-1.0.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sgvKfyRX/versions/bhoxMQWs/Apple%27s%20Skin-1.0.0.zip"
+hash-format = "sha512"
+hash = "1a73f8756872dab4d44c855f811c42af1005937e4ef480f6272cce92633d4b192b868b966cae934affaa6536eb58aabbb6140feecab788f0c27ba1ffc100f919"
+
+[update]
+[update.modrinth]
+mod-id = "sgvKfyRX"
+version = "bhoxMQWs"

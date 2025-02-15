@@ -1,0 +1,13 @@
+name = "Sophisticated Storage in Motion (Unofficial Fabric port)"
+filename = "sophisticatedstorageinmotion-1.20.1-0.4.0.1.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/T8h6Gr5g/versions/sJ8s5p37/sophisticatedstorageinmotion-1.20.1-0.4.0.1.30.jar"
+hash-format = "sha512"
+hash = "d407de05eb4ba0f60657fea5859148ed690adc31c7c7482364665f9b858253a9bfd00161db0d2868c16d66908054a6517537cbd8f984d996b7fc60fcc850a57a"
+
+[update]
+[update.modrinth]
+mod-id = "T8h6Gr5g"
+version = "sJ8s5p37"

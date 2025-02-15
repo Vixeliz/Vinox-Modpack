@@ -1,0 +1,16 @@
+name = "Mana Peeper"
+filename = "ManaPeeper-1.4+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qujAl2To/versions/n7ve6zRr/ManaPeeper-1.4%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "0437c2e28a4767bb6a858e69d1d07a14eb4fe707e7f6499d1838ddcd33d8d2a583de3513974be2518fcc05c4268bd1555d0ef42d92279bd5eea2f23ad3587d11"
+
+[update]
+[update.modrinth]
+mod-id = "qujAl2To"
+version = "n7ve6zRr"
+
+[option]
+optional = true

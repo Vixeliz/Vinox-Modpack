@@ -1,0 +1,13 @@
+name = "Create: New Age - Refrubished"
+filename = "cna-refrubished-0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BOgQ3bcY/versions/1vzQuNvP/cna-refrubished-0.2.zip"
+hash-format = "sha512"
+hash = "a1010d30a41d68aab80156d977daecd3833d81750c734d805be52fcd0380ffd152f8cb24cea815eafabea99f801bda9748f15155d96b0913f23fa2533a7524cb"
+
+[update]
+[update.modrinth]
+mod-id = "BOgQ3bcY"
+version = "1vzQuNvP"
