@@ -415,6 +415,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "9bd57d8c99f2e8061e93f1d5688d50ac2859d13b9aff4f3f6c378634fbb92cee"
 metafile = true
@@ -1017,11 +1022,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/reframed.pw.toml"
-hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
