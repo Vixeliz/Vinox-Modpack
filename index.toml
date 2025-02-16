@@ -86,11 +86,11 @@ hash = "df2daa91757310a6f18fd1bfcbdcf373aeaaf426b4bea5569c8d6aea02511255"
 
 [[files]]
 file = "defaultconfigs/botania_editor/functioning_flora.toml"
-hash = "f4af08839237baddf9245c62fbbea5ce427e7438f280857f04cca9e1de9cde44"
+hash = "e4a7be886a228e847b978dc10886b3a735886cdbf19cc21ddea4937f43bd00bf"
 
 [[files]]
 file = "defaultconfigs/botania_editor/generating_flora.toml"
-hash = "b4ec631284502b319437d40fdcee211be36f59c0a4bca14cf38e73b8c69552ff"
+hash = "2aa1afeac0a2b00d25f73ce9155745bf6c7abf467f2113c98e1df690ce338fae"
 
 [[files]]
 file = "defaultconfigs/botania_editor/lotus.toml"
@@ -474,13 +474,43 @@ hash = "a40842f88b0d835102353c9786207d234da829c311675ac1d2c73959e088aea9"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "5c66d23d5bf6188ef05d27c7b6c608734e65ad74aa5dcd86b3e7781d7489f62c"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
+metafile = true
+
+[[files]]
+file = "mods/create-sifting.pw.toml"
+hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "6bbc25d95d3815e479f63daa98b5478bd98211462501328409cbf80c0c74533d"
 metafile = true
 
 [[files]]

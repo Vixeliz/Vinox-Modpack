@@ -20,4 +20,28 @@ ServerEvents.recipes(event => {
     event.recipes.create.haunting('create:blaze_burner', 'create:empty_blaze_burner')
     event.recipes.create.haunting('minecraft:soul_campfire', 'minecraft:campfire')
 
+    // Cheaper rails
+  event.shaped(
+    Item.of('minecraft:rail', 16), // arg 1: output
+    [
+      'A A',
+      'ABA', // arg 2: the shape (array of strings)
+      'A A'
+    ],
+    {
+      A: 'minecraft:iron_nugget',
+      B: 'minecraft:stick',  //arg 3: the mapping object
+    })
+  event.shaped(
+    Item.of('minecraft:powered_rail', 16), // arg 1: output
+    [
+      'A A',
+      'ABA', // arg 2: the shape (array of strings)
+      'ACA'
+    ],
+    {
+      A: 'minecraft:gold_nugget',
+      B: 'minecraft:stick',  //arg 3: the mapping object
+      C: 'minecraft:redstone',  //arg 3: the mapping object
+    })
 })
