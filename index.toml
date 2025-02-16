@@ -186,7 +186,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hidden_items.js"
-hash = "54ccf73ec3079b3bbcb15abfe57bfe7bcd435512c377b37aedda54fa350369be"
+hash = "11417d637a774627f72016daff274c3bd8367129dd7149752e2635f73d94101d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -206,7 +206,7 @@ hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "24692dc52b785385b1e425d25bb564a6d3a04bd169e2aab2b45c0188b846cdf1"
+hash = "40855faaecbc6790a0bb289919db93317a8d4610f5f237a2f2ba73c372bfcc7b"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items_and_fluids.js"
@@ -421,6 +421,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/copperrails.pw.toml"
+hash = "ff0d139ac26ac270d2e5273f582ffa09bb628d8ddfceed7fb92be3c509764506"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "fb3d6463ab07baa3cc0e0d6cfacbcaaeec3c32ef495b9c7762042897c4e35fc3"
 metafile = true
@@ -448,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
 
 [[files]]
