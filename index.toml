@@ -246,7 +246,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "2d88b349947644783b029d0066f7524182fbd600fe416e10520420e7cab4908c"
+hash = "2a3db97fdcb4d3b37a1adaa2525ed8d2f7462b75e7d2526b513618f1850bfba6"
 
 [[files]]
 file = "kubejs/server_scripts/new_recipes.js"
@@ -254,7 +254,7 @@ hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "24692dc52b785385b1e425d25bb564a6d3a04bd169e2aab2b45c0188b846cdf1"
+hash = "a8977dab1fb0aaf94e70be00cd1195cf73d86d52fe76eee7f526b3a584566be4"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items_and_fluids.js"
@@ -474,23 +474,8 @@ hash = "a40842f88b0d835102353c9786207d234da829c311675ac1d2c73959e088aea9"
 metafile = true
 
 [[files]]
-file = "mods/create-connected.pw.toml"
-hash = "5c66d23d5bf6188ef05d27c7b6c608734e65ad74aa5dcd86b3e7781d7489f62c"
-metafile = true
-
-[[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
-metafile = true
-
-[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
-metafile = true
-
-[[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "b017d21c9632149ba70702bfd9d39320b9a2b3715236f3e9e603e3617eacddcb"
 metafile = true
 
 [[files]]
@@ -499,18 +484,8 @@ hash = "07bc61993957000b9c2ff6e1e5c0a4ef246aa18745f70a7a8c1c875b7b2bddd7"
 metafile = true
 
 [[files]]
-file = "mods/create-sifting.pw.toml"
-hash = "2bbbd59c8221efb5c7b66378e8837dc34e255f75653e001d1ab9bedc89e63961"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "ba16d5e568349bc79bb6a648090047fee23db3931f5399f9ad09c930410c740c"
-metafile = true
-
-[[files]]
-file = "mods/create-tweaked-controllers.pw.toml"
-hash = "6bbc25d95d3815e479f63daa98b5478bd98211462501328409cbf80c0c74533d"
 metafile = true
 
 [[files]]

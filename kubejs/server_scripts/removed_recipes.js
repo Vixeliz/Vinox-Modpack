@@ -30,6 +30,9 @@ ServerEvents.recipes(event => {
   event.remove({id: 'create_enchantment_industry:crafting/printer'})
   event.remove({id: 'create_enchantment_industry:crafting/enchanting_guide'})
   event.remove({id: 'minecraft:enchanting_table'})
+
+  event.remove({id: 'minecraft:powered_rail'})
+  event.remove({id: 'minecraft:rail'})
   
 })
 
