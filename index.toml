@@ -246,7 +246,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "860bb5d716c5e89b2d266d64457bd941815579c370d0417f301b52b013cef988"
+hash = "2d88b349947644783b029d0066f7524182fbd600fe416e10520420e7cab4908c"
 
 [[files]]
 file = "kubejs/server_scripts/new_recipes.js"
@@ -341,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "ed27ab2a21513281ff8ef8ab7ac581944288f6b4f1245f41c0bcb735c35630f4"
-metafile = true
-
-[[files]]
-file = "mods/armor-visibility.pw.toml"
-hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
 metafile = true
 
 [[files]]
@@ -461,6 +456,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "f87f921963470a9a2297bf391a408cdabcaaeabed7333e11d7847ea99cd66725"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
 
 [[files]]
@@ -641,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
-metafile = true
-
-[[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
@@ -946,16 +941,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons-delight.pw.toml"
-hash = "4cf9c8658e3b02dca45c9c00c4fe41b72206b53765ca4ecdc6144e9c022dc5c0"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
 metafile = true
 
 [[files]]
