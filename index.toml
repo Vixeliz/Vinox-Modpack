@@ -311,6 +311,11 @@ file = "mods/botaniaconfigurator-1.3.1+1.20.1.jar"
 hash = "ea18ce8a6301e65f213bed96b7501d9aaf6511a1b9f7ca17de540b547d874bb2"
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "6de050b80ceb5342572cc75f0384e5e07b5bff5ebb341d0c365125bbe24ff8e5"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+metafile = true
+
+[[files]]
+file = "mods/emized-botany-pots.pw.toml"
+hash = "9abf30d65d74e7aba054061b6f7e9e467f5e83ce05fdb8744df1283a40155cb9"
 metafile = true
 
 [[files]]
