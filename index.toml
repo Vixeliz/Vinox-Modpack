@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/botania-client.json5"
+hash = "224b0c6cc23f3fe52e5e8866c9b05fab4584c697efebb0b377e374dd29849c45"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "a38cc3eb656a6983ecf15ee89a39e547d1e322f30d0280aba0fc483f00c814ba"
 
