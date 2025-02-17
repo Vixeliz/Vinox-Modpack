@@ -31,8 +31,16 @@ ServerEvents.recipes(event => {
   event.remove({id: 'create_enchantment_industry:crafting/enchanting_guide'})
   event.remove({id: 'minecraft:enchanting_table'})
 
+  // Cheaper rails
   event.remove({id: 'minecraft:powered_rail'})
   event.remove({id: 'minecraft:rail'})
-  
+
+
+  // Remove boring mana gen
+  event.remove({id: 'ars_nouveau:agronomic_sourcelink'})
+  event.remove({id: 'ars_nouveau:volcanic_sourcelink'})
+  event.remove({id: 'ars_nouveau:alchemical_sourcelink'})
+  event.remove({id: 'ars_nouveau:vitalic_sourcelink'})
+  event.remove({id: 'ars_nouveau:mycelial_sourcelink'})
 })
 
