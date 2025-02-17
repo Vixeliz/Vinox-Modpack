@@ -569,11 +569,6 @@ hash = "05a9c74d0d87bbad4ae3a838b251100db9a4e9905728cb82d910cb71c3fbe87f"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
-metafile = true
-
-[[files]]
 file = "mods/difficulty-lock.pw.toml"
 hash = "c9ee2a433b0a623bb8301c69ba9ffd8d6061c0e50436e18232308a85e69eed0a"
 metafile = true
