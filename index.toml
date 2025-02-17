@@ -429,6 +429,11 @@ hash = "5dd3823b0b4160a5f6f9199bdc5be179897c2b0afd0059f52496793687182b70"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
 file = "mods/botania-delight.pw.toml"
 hash = "a155fcf30c1667150be6e321e4d98d9addd1d542def96d3747a56298c25b6397"
 metafile = true
@@ -446,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/botanic-additions.pw.toml"
 hash = "227e4a6e22976144d398db98294db934e7faf7d37af53d7773ff48ccba0c0429"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "a1aeb61c72d3a60486d5cf796bfd8f469633394a9cbf69cbffacfa9997776296"
 metafile = true
 
 [[files]]
@@ -471,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "c73999733f2f3949efae4c146bd2a63dd409c40f17cfbb4899a13f511076c815"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "09bcd8e486ca21121c04fe1e5bc05c5dcb2225447355a6d4d4d8073d68c552d7"
 metafile = true
 
 [[files]]
@@ -1076,6 +1091,16 @@ metafile = true
 [[files]]
 file = "mods/superflat-world-no-slimes.pw.toml"
 hash = "1dbd361f869ba350c8e5709f9a69e5415e60c82e291bd115934c674321a27470"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
 metafile = true
 
 [[files]]
