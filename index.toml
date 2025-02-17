@@ -344,6 +344,31 @@ hash = "ed27ab2a21513281ff8ef8ab7ac581944288f6b4f1245f41c0bcb735c35630f4"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
+file = "mods/ars-botania.pw.toml"
+hash = "d61f6766be951a8ab543d0c33bfaacbddd762bd0623329eb7cf0659b4cbc3ef2"
+metafile = true
+
+[[files]]
+file = "mods/ars-controle.pw.toml"
+hash = "2d43c7363b72c275f0cd7213da8d0afd7964ae9af5e9c51008895f481f894b8f"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "518fd1108cc14a63a6d8ba69895c98dfc2ceccd00967af95ddc1b31b14d84a0a"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
 metafile = true
@@ -904,16 +929,6 @@ hash = "105a3cb78f853a00406250e8a5be2cc2a757cdee03b8d933529c96b3bd9be309"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-addons.pw.toml"
-hash = "0ee71b669f9284e78bbde6e9d8bf02a2d92e822a870bd3171f265f570bd0c8e5"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "d83c43aa5cd92ee3427f79fcf1d4e4ecf763972aa4a9ea6eac87d865c2fe955f"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
@@ -931,11 +946,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "41e68f8c0fc0bd77176e0214b60c80e7a7425f05216bea2bc9de7399676d02af"
-metafile = true
-
-[[files]]
-file = "mods/rs-requestify.pw.toml"
-hash = "20e0c41d2278b2f07ad6b6ad1857b6488546f603ee933c6fe4233ad3eaaa75b0"
 metafile = true
 
 [[files]]
