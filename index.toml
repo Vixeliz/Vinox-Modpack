@@ -299,6 +299,11 @@ hash = "0a6e1bbdd1b8c27e6fe0bcaf735322e121caf28ad5f293c5407d37f4a2287ddb"
 metafile = true
 
 [[files]]
+file = "mods/adams-ars-plus.pw.toml"
+hash = "35b9a0b0fefc17556d2761f1386e87ba46d21dded14985f2b8f3432aefc0158b"
+metafile = true
+
+[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "8f2c476f0d8ab97f80e9068b5cd85b6e0261013096feba1e797c02f0d97f2657"
 metafile = true
@@ -364,8 +369,33 @@ hash = "518fd1108cc14a63a6d8ba69895c98dfc2ceccd00967af95ddc1b31b14d84a0a"
 metafile = true
 
 [[files]]
+file = "mods/ars-elemental.pw.toml"
+hash = "849c136f0dfe59bc4eca4e9776e36e8fb334064ccc81d47ecd3044733aeea5a8"
+metafile = true
+
+[[files]]
+file = "mods/ars-instrumentum.pw.toml"
+hash = "a21b070c85af000dd4385876cfda648205de70079f7c9bd8bd2b66e4b4b1d83c"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau-delight.pw.toml"
+hash = "542a0db368bc05c0bc42ed0245ca5a733d717f8d08b9bb22abcc3f6cd88ebc0e"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau-extended-glyphs.pw.toml"
+hash = "261bf0fff64ce7f41e04b0f973420c15979d7ca0bb1d57f09dcaf07f7771f809"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "5994f2b1c61f6d8211413c1cb999464fc5e87439129f6f0b086daf64fda9ec96"
+hash = "a682bb29719e83706ec7477b751855fc21e63ee948108665f5aeddf3564263db"
+metafile = true
+
+[[files]]
+file = "mods/ars-technica.pw.toml"
+hash = "c666fe80734452017e52af36da438d7a278c8337d0476827fda77492ad81e95e"
 metafile = true
 
 [[files]]
@@ -534,11 +564,6 @@ hash = "605f7351ee4f4cec0f33ac6693e08c004d13ddf383af74fe1c5a8877ad92a805"
 metafile = true
 
 [[files]]
-file = "mods/curios.pw.toml"
-hash = "6bcbe0a5adf88912c5ef6126cb30e20f508f8c173fb0a8baf3a62e610f33a4e6"
-metafile = true
-
-[[files]]
 file = "mods/custom-fluid-mixin.pw.toml"
 hash = "05a9c74d0d87bbad4ae3a838b251100db9a4e9905728cb82d910cb71c3fbe87f"
 metafile = true
@@ -606,6 +631,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cc4926dece87e61770569a0c558f3c2e674e036a92939afe93058d8c4263b96f"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "a216d6a054a7ed1975b8ec2c0251b475f1e1f0bdb9c32dbbacee9735417760f6"
 metafile = true
 
 [[files]]
@@ -746,6 +776,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-additions.pw.toml"
 hash = "f6e263104524ab43960b0ca7f1622c04838986e69b5a7de8aa8ecf3ee60d2d54"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ars-nouveau.pw.toml"
+hash = "94416feb86dc3a3e476e1c3d761111b0223426c92b9a2b0f388abca81b5b5a57"
 metafile = true
 
 [[files]]
