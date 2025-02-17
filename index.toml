@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "89c2986d4297ecabb07d9f4ab6f5b2e83447c35e5490eaa66104e871dfccce0c"
+
+[[files]]
 file = "config/botanicadds.cfg"
 hash = "9968ca1861f0bb93f8f6ad4776b086df47fa7bb496bb3bc5e73d04c2da071dbd"
 
@@ -115,10 +119,6 @@ hash = "c6aace7dcbce35444285efbbe6469207324ec489f692dc3235727c4dc894cc61"
 [[files]]
 file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "16432cd6c99cbdda21fae42857a269378bb842c8767ee95b5a699ba260b6fdaf"
-
-[[files]]
-file = "defaultconfigs/tinyinv-server.toml"
-hash = "a653912173fae6e035e52b3ddd174c6af402d1ef49777c982d8a6c9c0206dff3"
 
 [[files]]
 file = "global_packs/required_data/Vinox/assets/mbd2/machine/energy.sm"
@@ -254,7 +254,7 @@ hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "a8977dab1fb0aaf94e70be00cd1195cf73d86d52fe76eee7f526b3a584566be4"
+hash = "81a5b1addcb19cb1a62ad0f38f47e58bb9a1159b5181b131b9df6473607bcb7a"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items_and_fluids.js"
