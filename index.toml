@@ -125,6 +125,10 @@ file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "16432cd6c99cbdda21fae42857a269378bb842c8767ee95b5a699ba260b6fdaf"
 
 [[files]]
+file = "global_packs/required_data/Tom's Storage - Creatified.zip"
+hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
+
+[[files]]
 file = "global_packs/required_data/Vinox/assets/mbd2/machine/energy.sm"
 hash = "6470914527414a12c3cfc732af4a414c5ea05a672e2ef53e004a8f90aa16ddf2"
 
@@ -1225,11 +1229,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "3e7ee0237c3e90e3139c241d32ccd81b60de969cf5eb9cdf931c981ff4200e70"
-metafile = true
-
-[[files]]
-file = "resourcepacks/toms-create-storage.pw.toml"
-hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true
 
 [[files]]
