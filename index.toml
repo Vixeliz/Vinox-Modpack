@@ -578,6 +578,11 @@ hash = "a40842f88b0d835102353c9786207d234da829c311675ac1d2c73959e088aea9"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "f3d3886f57a32fcd3ed4b65e63dcefbeb95d7a5bf033bb7702af8b9ed3712cef"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f7a3b72de601f8f68fd3ddb021b5875c1332d81bd1b634f4f1424acbd2c20a3"
 metafile = true
@@ -1173,6 +1178,11 @@ hash = "c23e94b6987ad57c3591fcda57b87434bed36cdbbfccdb03385b8e62acda0e6a"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "805bfb01c8db493d4b3a6d5efc5952756a6cb8e9251b64d6001be1a727b6b3d7"
+metafile = true
+
+[[files]]
 file = "mods/too-many-glyphs.pw.toml"
 hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
@@ -1215,6 +1225,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/create_new_age_refrubished.pw.toml"
 hash = "3e7ee0237c3e90e3139c241d32ccd81b60de969cf5eb9cdf931c981ff4200e70"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "9f8d93ef03dca6ca4dddb107b42fa980884efb68b03fc21708664f61dbd882eb"
 metafile = true
 
 [[files]]
