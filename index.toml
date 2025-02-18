@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ars_botania-common.toml"
-hash = "a334c943c61cf6bb7985ae00188365f1f95edf2c7be41bfaa18f39619d047fd8"
+hash = "0f7a4e203419b297cfe152ebcca5c22dbaae864fd87eab3e782db02008b4e5c8"
 
 [[files]]
 file = "config/botania-client.toml"
@@ -98,7 +98,7 @@ hash = "6a980c1ffdea95f1b90fce4badc922148691e8012334f26c7efaceb64161a42f"
 
 [[files]]
 file = "defaultconfigs/botania_editor/generating_flora.toml"
-hash = "6c06997f2bbd7d3c4de525e703e2c6060869e4ffd2da5866217c12d450cd6322"
+hash = "57b02c6a7b41fa578e01f81d9bb27c67bc2908bcb3cb3f469000a16f551a6b42"
 
 [[files]]
 file = "defaultconfigs/botania_editor/lotus.toml"
@@ -1155,6 +1155,11 @@ metafile = true
 [[files]]
 file = "mods/thaumon.pw.toml"
 hash = "c23e94b6987ad57c3591fcda57b87434bed36cdbbfccdb03385b8e62acda0e6a"
+metafile = true
+
+[[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "e43574704d93b276e187589628a23ef9ff60a4080ec44341fc13207098165f21"
 metafile = true
 
 [[files]]
