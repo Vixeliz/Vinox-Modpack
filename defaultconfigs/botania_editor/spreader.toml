@@ -21,7 +21,7 @@
 	#As always 20 ticks => 1 second
 	#Default [60]
 	#Range: > 0
-	"Pre loss tick" = 60
+	"Pre loss tick" = 140
 	#How much mana should be lost each tick after the PreLossTick expires
 	#Default [4.0]
 	#Range: 0.0 ~ 1.7976931348623157E308
@@ -54,7 +54,7 @@
 	#As always 20 ticks => 1 second
 	#Default [60]
 	#Range: > 0
-	"Pre loss tick" = 60
+	"Pre loss tick" = 140
 	#How much mana should be lost each tick after the PreLossTick expires
 	#Default [4.0]
 	#Range: 0.0 ~ 1.7976931348623157E308
@@ -87,7 +87,7 @@
 	#As always 20 ticks => 1 second
 	#Default [80]
 	#Range: > 0
-	"Pre loss tick" = 80
+	"Pre loss tick" = 180
 	#How much mana should be lost each tick after the PreLossTick expires
 	#Default [4.0]
 	#Range: 0.0 ~ 1.7976931348623157E308
@@ -120,7 +120,7 @@
 	#As always 20 ticks => 1 second
 	#Default [120]
 	#Range: > 0
-	"Pre loss tick" = 120
+	"Pre loss tick" = 220
 	#How much mana should be lost each tick after the PreLossTick expires
 	#Default [20.0]
 	#Range: 0.0 ~ 1.7976931348623157E308

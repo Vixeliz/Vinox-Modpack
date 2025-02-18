@@ -1,7 +1,7 @@
 #One source mana(Ars) to X Mana(Bot)
-mana_convert = 15.0
+mana_convert = 30.0
 #Max rate of mana transfer
-max_rate = 1000
+max_rate = 2000
 
 [player_mana_convert]
 	#Enable player mana convert
@@ -9,7 +9,7 @@ max_rate = 1000
 	#Allow charging items using player's mana recovery
 	charge = true
 	#One player mana(Ars) to X Mana(Bot) [Referred when receiving/extracting ars-nouveau mana]
-	a2b = 4.0
+	a2b = 8.0
 	#One Mana(Bot) to X player mana(Ars) [Referred when receiving/extracting botania mana]
-	b2a = 0.006
+	b2a = 0.012
 
