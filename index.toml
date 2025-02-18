@@ -348,6 +348,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "7fa53d020bdbd050c96b7bcbaed99d91142e34f7671d73c67515e731f6caa739"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -410,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/ash-api.pw.toml"
 hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
 metafile = true
 
 [[files]]
@@ -488,6 +498,11 @@ hash = "c73999733f2f3949efae4c146bd2a63dd409c40f17cfbb4899a13f511076c815"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "b0732421ae2999d558a7b70a11fa86a93738ca33f6f3ec343017796df9c47d9c"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "09bcd8e486ca21121c04fe1e5bc05c5dcb2225447355a6d4d4d8073d68c552d7"
 metafile = true
@@ -505,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
-metafile = true
-
-[[files]]
-file = "mods/cluttered.pw.toml"
-hash = "27c3f5f7c3ec18f41738529c32ac522350e0e713d1ecc6293de2905e25731bfe"
 metafile = true
 
 [[files]]
@@ -800,6 +810,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "dca44614a72da5f7d2d57823cc54aaf3335d652c1a447a6e5df2e60365a6ea95"
 metafile = true
 
 [[files]]
@@ -1160,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "22c4db270e6aa49387c07788db7814bbfefdc58595d2f3c0b3b71a27629f6ba3"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "f18c11d34c9b4505f1b3a0f67f6fc81955e06c06fa3b999191feb5fd738a0cd4"
 metafile = true
 
 [[files]]
