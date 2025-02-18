@@ -125,6 +125,10 @@ file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "16432cd6c99cbdda21fae42857a269378bb842c8767ee95b5a699ba260b6fdaf"
 
 [[files]]
+file = "defaultconfigs/toms_storage-server.toml"
+hash = "35cd86ae4c8178097117ddacd57cf0b2391b8075ed8a077a82261da2da7f9cb3"
+
+[[files]]
 file = "global_packs/required_data/Tom's Storage - Creatified.zip"
 hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
 
