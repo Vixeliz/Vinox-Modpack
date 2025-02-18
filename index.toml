@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/ars_botania-common.toml"
-hash = "48227bcc19770994c64bf7b508280a6d109642c08fd655eabf5ee20155a6542d"
+hash = "a334c943c61cf6bb7985ae00188365f1f95edf2c7be41bfaa18f39619d047fd8"
 
 [[files]]
 file = "config/botania-client.toml"
@@ -94,11 +94,11 @@ hash = "df2daa91757310a6f18fd1bfcbdcf373aeaaf426b4bea5569c8d6aea02511255"
 
 [[files]]
 file = "defaultconfigs/botania_editor/functioning_flora.toml"
-hash = "e4a7be886a228e847b978dc10886b3a735886cdbf19cc21ddea4937f43bd00bf"
+hash = "6a980c1ffdea95f1b90fce4badc922148691e8012334f26c7efaceb64161a42f"
 
 [[files]]
 file = "defaultconfigs/botania_editor/generating_flora.toml"
-hash = "2aa1afeac0a2b00d25f73ce9155745bf6c7abf467f2113c98e1df690ce338fae"
+hash = "6c06997f2bbd7d3c4de525e703e2c6060869e4ffd2da5866217c12d450cd6322"
 
 [[files]]
 file = "defaultconfigs/botania_editor/lotus.toml"
@@ -114,7 +114,7 @@ hash = "fe41eae83e77fe7303ae249220e6c64bb5d4ca0758c73c687f893a0a7b75ffad"
 
 [[files]]
 file = "defaultconfigs/botania_editor/spreader.toml"
-hash = "365b312bb44de07637f35f0b59b88ed5ba9137b95dfd02847a8ea59772c25212"
+hash = "312aec1112bed5993b005163b687b1ce4641fa358e20b2f8efda9985ae35ee84"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
