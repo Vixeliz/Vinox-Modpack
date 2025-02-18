@@ -234,7 +234,7 @@ hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
 file = "kubejs/client_scripts/hidden_items.js"
-hash = "54ccf73ec3079b3bbcb15abfe57bfe7bcd435512c377b37aedda54fa350369be"
+hash = "11417d637a774627f72016daff274c3bd8367129dd7149752e2635f73d94101d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -254,7 +254,7 @@ hash = "61e4c28d3220ab9bb367bb9c255ffd6d28a03ae3753d22a6bf3da3333ace75d7"
 
 [[files]]
 file = "kubejs/server_scripts/removed_recipes.js"
-hash = "81a5b1addcb19cb1a62ad0f38f47e58bb9a1159b5181b131b9df6473607bcb7a"
+hash = "6438d97516ae8333d6a8f5b862712c4a69d5e62a6ba0c84196a522260559f1f1"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_items_and_fluids.js"
@@ -736,6 +736,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "1216c309abd2dfb6b0b0d7b7671ddeafef0737f95006896286ac541307275f35"
+metafile = true
+
+[[files]]
+file = "mods/grass-slabs-carpets-stairs.pw.toml"
+hash = "5637c4928033287903b0e9c85cebf67075da910db5dfa3c44e3ab9b3dd73f13f"
 metafile = true
 
 [[files]]
