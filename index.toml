@@ -561,6 +561,11 @@ hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "2c7a28f8adb455c8ee9414627f1c347abc2c123bd94dd5daca5c3c140e927210"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
