@@ -346,11 +346,6 @@ hash = "95f0f591cec0f37e2a1c15f1e6d7e981c5a64ebcc62904bd177988c4d57f8062"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -1176,11 +1171,6 @@ hash = "537c73cbdd7bcc79237de89d84c305fffac19014e3f037dd6dca57b3147fa0cf"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
@@ -1218,6 +1208,16 @@ metafile = true
 [[files]]
 file = "mods/world-play-time.pw.toml"
 hash = "f18c11d34c9b4505f1b3a0f67f6fc81955e06c06fa3b999191feb5fd738a0cd4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "8a610e06ddb20cbdd1fb1227d01069b172159708bffc008b067d75e18cb5b91a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
 metafile = true
 
 [[files]]
