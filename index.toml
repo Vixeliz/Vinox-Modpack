@@ -5,6 +5,10 @@ file = "config/botania-client.json5"
 hash = "224b0c6cc23f3fe52e5e8866c9b05fab4584c697efebb0b377e374dd29849c45"
 
 [[files]]
+file = "config/botaniaconfigurator.json"
+hash = "3b0dfe54ddf4aff551100911a6d001c99165cf76cc7c2b871091ad5bca441187"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "a38cc3eb656a6983ecf15ee89a39e547d1e322f30d0280aba0fc483f00c814ba"
 
@@ -67,6 +71,10 @@ hash = "ba9b1eddf2035e7c3fa51d0db28a8578137334809140ca14c3a6b6b6004e2e7f"
 [[files]]
 file = "config/structurify.json"
 hash = "46890a6b23d75589226cee7eb033d5e3eb3d88e4492f4d151eeca62a166b5d42"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "0fe732f6b5349c45ddf06e08807dbc9015190933270e660d5d12ffa72a51ac96"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -202,7 +210,7 @@ hash = "a4c4b93cfb21eedb5101ebae69da71cc1061858fede8aa621f17fbf8ddc46974"
 
 [[files]]
 file = "kubejs/server_scripts/modified_recipes.js"
-hash = "2eb0c92d086b72eaab08f9d4facc400f95006aa12fb9eabb1a0b72c657f915dc"
+hash = "edcf83c144111560e9ddaa569df1fc42e491ec6d8ded9b76e242f352917f0314"
 
 [[files]]
 file = "kubejs/server_scripts/new_recipes.js"
@@ -730,6 +738,41 @@ hash = "f6629a3c5e023a96cb5d78d66e93b47245996c46a079921b3f6a6094209dc1b0"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "61e5f0c2fc067877744d9cdbed9704e4da4933a4be893e5ef61174346fb13af6"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexcellular.pw.toml"
+hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "a289923e38f2e86d93bdb16076230865e666713f02995dfda98f4535a95922df"
+metafile = true
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "ce85f5d7281a7671e64052177af89d439c66bb0598f4752dd4a3dd05d74c9b1a"
+metafile = true
+
+[[files]]
+file = "mods/hexvr.pw.toml"
+hash = "7ce89b18c9fcb76eeebe6ab41a934ae25be869c311c80fbd6e2fdca79428b451"
+metafile = true
+
+[[files]]
+file = "mods/hexxyattributes.pw.toml"
+hash = "796a322e8832c389de5c5b0f810d27022aec62404c265506f9c1bf04d990251e"
+metafile = true
+
+[[files]]
 file = "mods/hunger-in-peaceful.pw.toml"
 hash = "5578bf4eafc881ba7d4bc630b8901eb2fea8828d7238c6d0d9e08e721daeca2b"
 metafile = true
@@ -762,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "d8c819fde97f9129ff0e9a6402e18598eb7d844c0193007a08aa88f3c0e3e507"
 metafile = true
 
 [[files]]
@@ -1022,6 +1070,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
 metafile = true
 
 [[files]]

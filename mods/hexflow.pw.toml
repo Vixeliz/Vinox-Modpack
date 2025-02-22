@@ -1,0 +1,13 @@
+name = "HexFlow"
+filename = "hexFlow-fabric-1.20.1-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/431w8BQ9/hexFlow-fabric-1.20.1-0.2.1.jar"
+hash-format = "sha512"
+hash = "948b56ec79cefd78ebe2f7557150bd178567c4542eca09547b9e89c7cf689f61bd526b5478ee3160a64117c119d302a655783270d89127b6b116efc9505d359e"
+
+[update]
+[update.modrinth]
+mod-id = "MRC1BQpK"
+version = "431w8BQ9"
