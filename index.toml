@@ -5,6 +5,10 @@ file = "config/botania-client.json5"
 hash = "224b0c6cc23f3fe52e5e8866c9b05fab4584c697efebb0b377e374dd29849c45"
 
 [[files]]
+file = "config/botania-client.toml"
+hash = "89c2986d4297ecabb07d9f4ab6f5b2e83447c35e5490eaa66104e871dfccce0c"
+
+[[files]]
 file = "config/botaniaconfigurator.json"
 hash = "3b0dfe54ddf4aff551100911a6d001c99165cf76cc7c2b871091ad5bca441187"
 
@@ -69,8 +73,20 @@ file = "config/immersive_mc-server.json"
 hash = "ba9b1eddf2035e7c3fa51d0db28a8578137334809140ca14c3a6b6b6004e2e7f"
 
 [[files]]
+file = "config/starterstructure.json5"
+hash = "b1891e0679c557ec8d0abc6e9cf2e08d969e44590b37bdbeecf39f581ccfb728"
+
+[[files]]
+file = "config/starterstructure/schematics/petal_spawn.nbt"
+hash = "59157c77c8d57cee52ea6bae842da73acb909e52765b382df2702fa12ca6cd93"
+
+[[files]]
 file = "config/structurify.json"
-hash = "46890a6b23d75589226cee7eb033d5e3eb3d88e4492f4d151eeca62a166b5d42"
+hash = "fd94d0c615ec7d31a22ccfb03b20f91ee72d261bca40cdf3c65f780861a58000"
+
+[[files]]
+file = "config/stucturify.json"
+hash = "df2daa91757310a6f18fd1bfcbdcf373aeaaf426b4bea5569c8d6aea02511255"
 
 [[files]]
 file = "config/toms_storage.json"
@@ -83,6 +99,10 @@ hash = "c6aace7dcbce35444285efbbe6469207324ec489f692dc3235727c4dc894cc61"
 [[files]]
 file = "defaultconfigs/create_enchantment_industry-server.toml"
 hash = "16432cd6c99cbdda21fae42857a269378bb842c8767ee95b5a699ba260b6fdaf"
+
+[[files]]
+file = "global_packs/required_data/Tom's Storage - Creatified.zip"
+hash = "4e29527fe092115aaf27e208f004b26c868e1fce541574131fb8e3e03d67f0f7"
 
 [[files]]
 file = "global_packs/required_data/Vinox/assets/mbd2/machine/energy.sm"
@@ -147,6 +167,22 @@ hash = "4848ef8bca96a9a446336b34557171a6134ddbeecd9bd3945257e8c024559a0e"
 [[files]]
 file = "global_packs/required_resources/Vinox/assets/minecraft/lang/en_us.json"
 hash = "e5366e2370ac24f0f33ae2f85dac9b5fce27b09f337e757e3390bb7343f2daa6"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/foilage.png"
+hash = "8e221091c6eb3b4bd8b91ace672653f8139c826bfc630c5b1b6492284b3b5343"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/foilage.png~"
+hash = "0cfa73a24b61ae5915f92dd916049d8dcf6e2b1179e6eabb258453e6c67d1bff"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/grass.png"
+hash = "d349099ccdf3f0d8ad585b978b2041788b9dd14cda12007be9046b10eb711b46"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/grass.png~"
+hash = "59286c9b0b1cb46d33a5667e16b9d0f5db2e4d0ff3549aafc2ed140d386b2d1f"
 
 [[files]]
 file = "global_packs/required_resources/Vinox/assets/vinox/models/energy_storage.json"
@@ -227,6 +263,10 @@ hash = "2153b1c969b8cb11ef930ef73ec845bc62e944e15dc4207112199d7083aad923"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/HexVR-1.2.1.jar"
+hash = "150889e31cfb2c46926ec985ea420bd99e1d7c133b6f03f50d7e0b05aeb7998c"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -763,11 +803,6 @@ hash = "ce85f5d7281a7671e64052177af89d439c66bb0598f4752dd4a3dd05d74c9b1a"
 metafile = true
 
 [[files]]
-file = "mods/hexvr.pw.toml"
-hash = "7ce89b18c9fcb76eeebe6ab41a934ae25be869c311c80fbd6e2fdca79428b451"
-metafile = true
-
-[[files]]
 file = "mods/hexxyattributes.pw.toml"
 hash = "796a322e8832c389de5c5b0f810d27022aec62404c265506f9c1bf04d990251e"
 metafile = true
@@ -955,6 +990,11 @@ metafile = true
 [[files]]
 file = "mods/mana-peeper.pw.toml"
 hash = "2f3288b9bde4dbd51c527b128f59df079559bbe47f8089d4c7aba77dc72f3003"
+metafile = true
+
+[[files]]
+file = "mods/mc-vr-api.pw.toml"
+hash = "b0d1514622d4ff882428ed3a9c0e94c68353c2b0a8275f5de56427d5bf5e3cca"
 metafile = true
 
 [[files]]
