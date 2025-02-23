@@ -998,6 +998,11 @@ hash = "b0d1514622d4ff882428ed3a9c0e94c68353c2b0a8275f5de56427d5bf5e3cca"
 metafile = true
 
 [[files]]
+file = "mods/mca-expanded.pw.toml"
+hash = "bcfea0d16de51d8396def83f44574cf3e2e7b6eddaa88663410dfd6e459ac266"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
@@ -1005,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "f29ea221590c0952e64c03e7e93188a29dafe4162d1390c0239b087aa3c808ff"
 metafile = true
 
 [[files]]
@@ -1355,6 +1365,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "b9b5cd6ab48e4428e00a7cec1cf59b429e1db775c2cbdac16d9d2e06ab145631"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
