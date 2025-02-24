@@ -309,6 +309,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/armor-stands.pw.toml"
+hash = "7676e31a267e8b627cc73676f900b8a0e5f34c1c93f08bff783fbc556b8afcb2"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "83a72cf7d3ef3a91f2ad822b372b96d0b13b51889f3cf063dc38e7222d1c95e9"
 metafile = true
@@ -321,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "064816e4959da51774d36e41bee51b265eb053cf6ffe66dc5abbc2795da6b705"
+metafile = true
+
+[[files]]
+file = "mods/autocrafter-early.pw.toml"
+hash = "3401da1489b50010f8b31cfa1fc8d9ac20fba41f7439e23a5ccce8455c9f2b0a"
 metafile = true
 
 [[files]]
@@ -475,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "0f4dae68f53fa95adfcff82a0b1b1b9e530551359aa1e7a3d89d48454c9a2e7d"
 metafile = true
 
 [[files]]
@@ -763,6 +778,11 @@ hash = "5fc9b21fe0e237586219cc94d4428ff43d38a235609591b9d25cd38d7893abf5"
 metafile = true
 
 [[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "41e364c29ac783e302b4dfd7e1832ca3d814870acdfc4591e4791eb80ce445f7"
+metafile = true
+
+[[files]]
 file = "mods/gardenofglass.pw.toml"
 hash = "364596783a2f92fa17ad252628593e37e9a3e91d1a0587fa420b72d403f304ff"
 metafile = true
@@ -993,6 +1013,11 @@ hash = "6b986485b44e2007fc69334325f45ad1a4ad1d09d7f7814b1dbc443f171abbd1"
 metafile = true
 
 [[files]]
+file = "mods/litematica-printer-easyplace-extension.pw.toml"
+hash = "cccfe1ed1b8db199be5853289021fcba97559e668233b3b49732f4e3ad7d5d65"
+metafile = true
+
+[[files]]
 file = "mods/litematica-printer.pw.toml"
 hash = "9efbfe35c2864a9c9bedd65d3b082c21fedbe9360f3cc3184cd9d4510a34a72f"
 metafile = true
@@ -1183,8 +1208,18 @@ hash = "c08dcea37c03dcb5cfad9d3d14f5e885995cf9bb74975244781e1354c937afa7"
 metafile = true
 
 [[files]]
+file = "mods/red-bits.pw.toml"
+hash = "23bf402399601d4f4aa0eb180bfce380902791ee3bdfb5aa755f746e7abb795b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
+metafile = true
+
+[[files]]
+file = "mods/reframed.pw.toml"
+hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
@@ -1238,6 +1273,11 @@ hash = "41441a8ea6f5eadad60e8e48634eaac1505acdc5732e2310fe46c570b8bbe46a"
 metafile = true
 
 [[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "ac586a552c30ff577efd8f843350304f112efb133062ca7a357a31628a04368f"
+metafile = true
+
+[[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "5e82bea9bdad60e2a41ed8d16d71bc47978d8d25e3f84e134d05d4b6cb1613ac"
 metafile = true
@@ -1285,6 +1325,11 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "d6fd2146fd20c0a4c1272fa74d86261ca7b93e75843624dedd91161c1dfebba8"
+metafile = true
+
+[[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "64d83585506d7b0235001b79ac243e95c8c081d81b938a3c553233092bbd60c8"
 metafile = true
 
 [[files]]
