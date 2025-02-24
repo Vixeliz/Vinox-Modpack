@@ -309,11 +309,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/armor-stands.pw.toml"
-hash = "7676e31a267e8b627cc73676f900b8a0e5f34c1c93f08bff783fbc556b8afcb2"
-metafile = true
-
-[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "83a72cf7d3ef3a91f2ad822b372b96d0b13b51889f3cf063dc38e7222d1c95e9"
 metafile = true
@@ -326,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "064816e4959da51774d36e41bee51b265eb053cf6ffe66dc5abbc2795da6b705"
-metafile = true
-
-[[files]]
-file = "mods/autocrafter-early.pw.toml"
-hash = "3401da1489b50010f8b31cfa1fc8d9ac20fba41f7439e23a5ccce8455c9f2b0a"
 metafile = true
 
 [[files]]
@@ -453,11 +443,6 @@ hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
-file = "mods/cluttered.pw.toml"
-hash = "68eefbd9e12efa83e4f8bc890c9b8752107a7ce3942ad1cdabe25e4b749ed290"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "299cadd914e01b3b3f1aac013d3b4a22e89e1fbe1934c9a0f7b65034bb8257b1"
 metafile = true
@@ -513,8 +498,13 @@ hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
+file = "mods/create-copper-zinc.pw.toml"
+hash = "a87ba959c72ab3bad13aba7334c0a299adcaa90de921ab0a5b33579553c72357"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "fd2c9cdc0083b93038ce74132c66078e8e223722c4fae902ba4bfef28c37ed71"
 metafile = true
 
 [[files]]
@@ -528,8 +518,23 @@ hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "9fb24bae0eafc30b8272c39446f14052c94cf024706dccba661a9ddb1f0a4eae"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "31ad89fd922f2548c23485ddba39896960c8e558e0767720158c3fdca9f5b594"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
 metafile = true
 
 [[files]]
@@ -675,11 +680,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "8ac43eb04d7eb51f22adcf872ae0c96f17ce34dbfe94f31f60b58a11be145227"
-metafile = true
-
-[[files]]
-file = "mods/exoflame-blaze-burners.pw.toml"
-hash = "7b1fac1459e96c4b20839cbbc696d1f32475e8ef684e4504db4c77e0f5dee6c4"
 metafile = true
 
 [[files]]
@@ -893,11 +893,6 @@ hash = "caea4dd71d4717e5fe9b49f5f33e299134d7c7192af6b1436cc6c3bbe564d11a"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
@@ -970,11 +965,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-botania.pw.toml"
 hash = "6c6d8e01f9bd17aa0079cb8ead4b83858b953717a38dda2845995d7d24ba2311"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-create-for-fabric-1-20-1.pw.toml"
-hash = "d752a2ffe4a829eb74644552aa8034f840f2e1cba6f429d59380ea5e3b773d42"
 metafile = true
 
 [[files]]
@@ -1215,11 +1205,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/reframed.pw.toml"
-hash = "9851cdbbcb519f6b9f52ae673691581391a3eb6de3c2f9033800fb2bcdcd1307"
 metafile = true
 
 [[files]]
