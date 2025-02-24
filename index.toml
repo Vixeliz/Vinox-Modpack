@@ -683,6 +683,11 @@ hash = "8ac43eb04d7eb51f22adcf872ae0c96f17ce34dbfe94f31f60b58a11be145227"
 metafile = true
 
 [[files]]
+file = "mods/exoflame-blaze-burners.pw.toml"
+hash = "7b1fac1459e96c4b20839cbbc696d1f32475e8ef684e4504db4c77e0f5dee6c4"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
 metafile = true
@@ -965,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-botania.pw.toml"
 hash = "6c6d8e01f9bd17aa0079cb8ead4b83858b953717a38dda2845995d7d24ba2311"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create-for-fabric-1-20-1.pw.toml"
+hash = "d752a2ffe4a829eb74644552aa8034f840f2e1cba6f429d59380ea5e3b773d42"
 metafile = true
 
 [[files]]
