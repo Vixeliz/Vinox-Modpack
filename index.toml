@@ -838,6 +838,16 @@ hash = "ce85f5d7281a7671e64052177af89d439c66bb0598f4752dd4a3dd05d74c9b1a"
 metafile = true
 
 [[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "3492a4a17dfcf2158b1840b2c131dac68e2520ceeb41292d248ef92f737c4628"
+metafile = true
+
+[[files]]
 file = "mods/hexxyattributes.pw.toml"
 hash = "796a322e8832c389de5c5b0f810d27022aec62404c265506f9c1bf04d990251e"
 metafile = true
