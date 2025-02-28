@@ -197,6 +197,22 @@ file = "global_packs/required_resources/Vinox/assets/minecraft/lang/en_us.json"
 hash = "e5366e2370ac24f0f33ae2f85dac9b5fce27b09f337e757e3390bb7343f2daa6"
 
 [[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/foilage.png"
+hash = "0cfa73a24b61ae5915f92dd916049d8dcf6e2b1179e6eabb258453e6c67d1bff"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/foilage.png~"
+hash = "e52025c333ff21dd66a2ef030d85d88d0ca92708a68eac4b69947b21c3502c5a"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/grass.png"
+hash = "d349099ccdf3f0d8ad585b978b2041788b9dd14cda12007be9046b10eb711b46"
+
+[[files]]
+file = "global_packs/required_resources/Vinox/assets/minecraft/textures/colormap/grass.png~"
+hash = "59286c9b0b1cb46d33a5667e16b9d0f5db2e4d0ff3549aafc2ed140d386b2d1f"
+
+[[files]]
 file = "global_packs/required_resources/Vinox/assets/vinox/models/energy_storage.json"
 hash = "dd4e9f2e805e671c03099e33b59222799a2aae5a121117f878105922ef83ad9e"
 
@@ -523,11 +539,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
-metafile = true
-
-[[files]]
-file = "mods/cluttered.pw.toml"
-hash = "27c3f5f7c3ec18f41738529c32ac522350e0e713d1ecc6293de2905e25731bfe"
 metafile = true
 
 [[files]]
@@ -1211,13 +1222,13 @@ hash = "f18c11d34c9b4505f1b3a0f67f6fc81955e06c06fa3b999191feb5fd738a0cd4"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "8a610e06ddb20cbdd1fb1227d01069b172159708bffc008b067d75e18cb5b91a"
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "5d1a39092543a20c5fec0ef3272455d0c2c845db4903f90bc9cfd28fbef81969"
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "02750acec3b73b203a2441f78ad4749650d4768ab2db9c4083a1c09ee421eb0f"
 metafile = true
 
 [[files]]
