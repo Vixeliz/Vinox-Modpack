@@ -1,0 +1,13 @@
+name = "Dusty Decorations"
+filename = "DustyDecoRefabricated-1.1-1.21+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/20jbTKAO/DustyDecoRefabricated-1.1-1.21%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e175c1a5f20db4c898cd290b1eab94640d3b2f6d76fa5e9634cac64ec7e140ccdcf36573594537bdad82531357f1330f90e87a9b294beb8b8a1b55c5e55e2283"
+
+[update]
+[update.modrinth]
+mod-id = "KgFOuaiZ"
+version = "20jbTKAO"

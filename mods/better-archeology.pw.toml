@@ -1,0 +1,13 @@
+name = "Better Archeology"
+filename = "betterarcheology-fabric-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/kOnpndPm/betterarcheology-fabric-1.3.2.jar"
+hash-format = "sha512"
+hash = "6457258b308e90fd52e1b31b55f152a588bde43773df2bd28c8094a329f45337d1af91a1596141aff48d90fceb44cd2a325701bc93069dc4e59884a0aa9031d5"
+
+[update]
+[update.modrinth]
+mod-id = "zCh7omyG"
+version = "kOnpndPm"

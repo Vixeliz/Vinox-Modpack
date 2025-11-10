@@ -1,0 +1,13 @@
+name = "Lychee"
+filename = "Lychee-1.21.1-Fabric-6.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TdN6LxjM/versions/SOGPUHN7/Lychee-1.21.1-Fabric-6.4.2.jar"
+hash-format = "sha512"
+hash = "e10c1c42a26aecaf9bcd4b6eceb8570ae118fb278bc6054f5cc791396105f0ad20ec8015957daf8e8cce78b69db93fe392a331e640b638b688d7f38bc264eb66"
+
+[update]
+[update.modrinth]
+mod-id = "TdN6LxjM"
+version = "SOGPUHN7"

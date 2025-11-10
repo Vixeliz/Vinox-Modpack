@@ -1,0 +1,13 @@
+name = "More Villagers: Re-employed"
+filename = "Morevillagers-Re-1.21.1-fabric-5.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1fOqTPRO/versions/UoIxZZsq/Morevillagers-Re-1.21.1-fabric-5.2.0.jar"
+hash-format = "sha512"
+hash = "ee02f706cdc4f281c3c1a13cb488153248f25a3779da3678bb4e98894907ed97f029e2f09ffd6c49e047fa08094559c78d11a95bf4fe6d98621c73aa5e7abec6"
+
+[update]
+[update.modrinth]
+mod-id = "1fOqTPRO"
+version = "UoIxZZsq"

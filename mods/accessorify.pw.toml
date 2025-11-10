@@ -1,0 +1,13 @@
+name = "Accessorify"
+filename = "accessorify-2.3.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CVRzrXGP/versions/whV5h72M/accessorify-2.3.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fdd97b48f3e62943da7b82fe7c7f546b6113cc157ddf8e0707422722a49c3690b13da8238a52b85cb5e9146b30e61ad87b4055d3121c8b55e95143aa8b913876"
+
+[update]
+[update.modrinth]
+mod-id = "CVRzrXGP"
+version = "whV5h72M"

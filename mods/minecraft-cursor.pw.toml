@@ -1,0 +1,13 @@
+name = "Cursors Extended"
+filename = "minecraft-cursor-fabric-3.11.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/8Wnbpoyg/minecraft-cursor-fabric-3.11.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "522f5e1a51be4333bedd885f95fb5206998bbc5f32c8e5b5a0837573c325490d896dd9eaa4d6aee3200f00df0eef42b0f22c68c9b2fb5967da1fab92cddb6fad"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "8Wnbpoyg"

@@ -1,0 +1,13 @@
+name = "Silly's Crop XP"
+filename = "sillys-crop-xp-1.21.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qz3KIk76/versions/2PXG3lDe/sillys-crop-xp-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "b9b4eeb6389c136e0eac63cb2dd6bc3de9f1f9ceb9ef991ab7c6615b3bd8588724f7f018bbeb98239ea8df6c46191d0a69e2e289c05676d990d3b68a65db738a"
+
+[update]
+[update.modrinth]
+mod-id = "qz3KIk76"
+version = "2PXG3lDe"

@@ -1,0 +1,16 @@
+name = "Vinox"
+author = "vixeliz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f96eb20d4292718bd8fe32401b68ab8d6519f4685f13f5e2bce48f359139c35"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.21.1"
+
+[options]
+datapack-folder = "global_packs/required_data"

@@ -1,0 +1,13 @@
+name = "Sneak Through Berries"
+filename = "sneak_through_berries-fabric-21.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq3wqd0E/versions/Dmyi0pSX/sneak_through_berries-fabric-21.1.0.jar"
+hash-format = "sha512"
+hash = "aff9cca7865c7bb12a7976127943241df15ad0ba3530887fdc85815932d95f8db72906c8520749dd3b48e78900875de0fb6f41a7f580e82695d86f2314a93aae"
+
+[update]
+[update.modrinth]
+mod-id = "xq3wqd0E"
+version = "Dmyi0pSX"

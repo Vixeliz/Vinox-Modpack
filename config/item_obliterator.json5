@@ -1,0 +1,20 @@
+{
+    configVersion = 3,
+    blacklisted_items = [
+        "oxidized:copper_rail"
+    ],
+    blacklisted_component_data = [
+        
+    ],
+    debug_print_components = false,
+    only_disable_interactions = [
+        
+    ],
+    only_disable_attacks = [
+        
+    ],
+    only_disable_recipes = [
+        
+    ],
+    use_hashmap_optimizations = false
+}

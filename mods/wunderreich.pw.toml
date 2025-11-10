@@ -1,0 +1,13 @@
+name = "Wunderreich"
+filename = "wunderreich-21.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6czZwFh/versions/yrIeNUui/wunderreich-21.0.4.jar"
+hash-format = "sha512"
+hash = "268be8b4f64f98e0e9f8727755ef438756c960d21cc88fdc9c0e4255a58f377604ba4f5ced95373727b0d9ad05d72acd3a6223f10baeddf8d8f992d4c7b24b89"
+
+[update]
+[update.modrinth]
+mod-id = "P6czZwFh"
+version = "yrIeNUui"

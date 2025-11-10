@@ -1,0 +1,13 @@
+name = "EMI Addon: Extra Mod Integrations"
+filename = "extra-mod-integrations-all-fabric-1.0.3+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpRHnWUb/versions/YCTD39C5/extra-mod-integrations-all-fabric-1.0.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b82c04a01659ff594f8c843af986839791cb6dc2581e7eed80768a86ed7e3093403428735ec12040c48263b8a5ccdd99f80deab2fcea1e9fd731d537ff2be0f9"
+
+[update]
+[update.modrinth]
+mod-id = "bpRHnWUb"
+version = "YCTD39C5"

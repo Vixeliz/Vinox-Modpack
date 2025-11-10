@@ -1,0 +1,13 @@
+name = "Ash API"
+filename = "ash_api-fabric-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/AJvTjiyY/ash_api-fabric-21.1.1.jar"
+hash-format = "sha512"
+hash = "a648a2903a4dec2793418cb52a538179c08c2360a08cf163c06606e66bc181405e2c1c24b51c86d49fedd0ea7495aacf8c31a9a30e1752f55b5405339f95a19f"
+
+[update]
+[update.modrinth]
+mod-id = "Q8xUICr6"
+version = "AJvTjiyY"

@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.21-2.0.9-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/WO6cRMMs/dummmmmmy-1.21-2.0.9-fabric.jar"
+hash-format = "sha512"
+hash = "adf4df39d3af08df6455edbde0ab4fd851538a121392f25accf0085ed1b10e69b2a4361152edd2a75eb3ada9e1d3a6c61d940212a06242582fbdaea568a770cd"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "WO6cRMMs"
