@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.4a",
-  "config_datetime": "2025-11-11_12-18-14",
+  "config_datetime": "2025-11-09_16-17-26",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -9,7 +9,33 @@
   },
   "structure_namespaces": [
     {
+      "name": "betterarcheology",
+      "is_disabled": false,
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
       "name": "ctov",
+      "is_disabled": false,
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "frostiful",
       "is_disabled": false,
       "override_global_biome_check": false,
       "enable_biome_check": false,
@@ -61,7 +87,7 @@
       ]
     },
     {
-      "name": "supplementaries",
+      "name": "scorchful",
       "is_disabled": false,
       "override_global_biome_check": false,
       "enable_biome_check": false,
@@ -74,7 +100,7 @@
       ]
     },
     {
-      "name": "terralith",
+      "name": "supplementaries",
       "is_disabled": false,
       "override_global_biome_check": false,
       "enable_biome_check": false,
@@ -645,6 +671,431 @@
     },
     {
       "name": "minecraft:village_taiga",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:archeologist_camp_grassy",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:archeologist_camp_redsand",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:archeologist_camp_sand",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:buried_ruins_sand",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:catacombs",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:desert_obelisk",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_chicken",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_chicken_birch",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_creeper",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_jungle_0",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_jungle_1",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_sheep_0",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:fossil_wolf",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:light_temple",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:mesa_ruins",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:mott",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:ruins_sand",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:stonehenge_grassy",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:temple_jungle",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:tumulus_grassy",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:underwater_0",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:underwater_1",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:underwater_2",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:underwater_3",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "betterarcheology:villager_grave",
       "is_disabled": false,
       "whitelisted_biomes": [],
       "blacklisted_biomes": [],
@@ -1987,6 +2438,40 @@
       ]
     },
     {
+      "name": "frostiful:chillager_outpost",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "frostiful:frostologer_castle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
       "name": "ribbits:ribbit_village",
       "is_disabled": false,
       "whitelisted_biomes": [],
@@ -2004,487 +2489,28 @@
       ]
     },
     {
-      "name": "supplementaries:way_sign",
+      "name": "scorchful:warped_lily_farm",
       "is_disabled": true,
       "whitelisted_biomes": [],
       "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin",
+      "override_global_biome_check": false,
+      "enable_biome_check": false,
+      "biome_check_mode": "BLACKLIST",
+      "biome_check_blacklisted_biomes": [
+        "#minecraft:is_river",
+        "#c:is_river",
+        "#minecraft:is_ocean",
+        "#c:is_ocean"
+      ]
+    },
+    {
+      "name": "supplementaries:way_sign",
+      "is_disabled": false,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
       "step": "strongholds",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:desert_outpost",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:fortified_desert_village",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:fortified_village",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:glacial_hut",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:igloo",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_complex",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_tower",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_tower_autumn",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "fluid_springs",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_tower_spring",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "fluid_springs",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_tower_summer",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "fluid_springs",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:mage_tower_winter",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "fluid_springs",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_desert",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_forest",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_jungle",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_mesa",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_mountain",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:rubble_taiga",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:spire",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "none",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/frosted_dungeon",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/giant_bee_hive",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "bury",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/mining_outpost",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/oak_cabin",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/old_refinery",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/sunken_tower",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground/witch_hut",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:underground_cabin",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_box",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:valley_lodge",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
-      "terrain_adaptation": "beard_thin",
-      "override_global_biome_check": false,
-      "enable_biome_check": false,
-      "biome_check_mode": "BLACKLIST",
-      "biome_check_blacklisted_biomes": [
-        "#minecraft:is_river",
-        "#c:is_river",
-        "#minecraft:is_ocean",
-        "#c:is_ocean"
-      ]
-    },
-    {
-      "name": "terralith:witch_hut",
-      "is_disabled": false,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": [],
-      "step": "surface_structures",
       "terrain_adaptation": "beard_thin",
       "override_global_biome_check": false,
       "enable_biome_check": false,
@@ -2514,5 +2540,38 @@
       ]
     }
   ],
-  "structure_sets": []
+  "structure_sets": [
+    {
+      "name": "betterarcheology:archeology_sites",
+      "salt": 990880770,
+      "frequency": 0.48999998,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 125,
+      "separation": 22
+    },
+    {
+      "name": "betterarcheology:fossil_sites",
+      "salt": 990880771,
+      "frequency": 0.52,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 40,
+      "separation": 17
+    },
+    {
+      "name": "betterarcheology:underwater_ruins",
+      "salt": 990880772,
+      "frequency": 0.48999998,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 46,
+      "separation": 12
+    },
+    {
+      "name": "frostiful:chillager_outpost",
+      "salt": 811785263,
+      "frequency": 0.0,
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 32,
+      "separation": 8
+    }
+  ]
 }
