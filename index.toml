@@ -255,11 +255,6 @@ hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
-file = "mods/better-archeology.pw.toml"
-hash = "2f4924d9a53b03ddd7edb98a6e72aff44e5b6b74a48455234a5c3e7c5c8e75bd"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "9c19d98d506afb126972e894249db28bd404540146d45db2e66a1c20aaf9fed3"
 metafile = true
