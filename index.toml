@@ -122,6 +122,10 @@ hash = "b26785666ff2756aa34276b55836b47dc761a5cda440c0dcce113100381a646d"
 metafile = true
 
 [[files]]
+file = "jars/Larion-disc-world-1.7.0.jar"
+hash = "5ac4d8269208f3d801b68968270804e82661195f504c3c462b3102ce36058e8f"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
@@ -893,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/larion-one-continent.pw.toml"
-hash = "95935615d1c0a04d96285ab5baa2aad353e0b946b1463d8912cf6bb76bcde35e"
+hash = "6b9a37bd1df15e25b35159b29d9ea735dbd6cfb1725d4b6a4ec0f86b2cb5997c"
 metafile = true
 
 [[files]]
