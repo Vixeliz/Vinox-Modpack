@@ -1,13 +1,13 @@
 name = "Gliders"
-filename = "gliders-1.21.1-fabric-1.1.8.jar"
+filename = "gliders-1.21.1-neoforge-1.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/cgD3wLtR/gliders-1.21.1-fabric-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/XMduptKZ/gliders-1.21.1-neoforge-1.1.8.jar"
 hash-format = "sha512"
-hash = "15fc392127c5d1db49072ce746a5fe7b5cc2505c18a5bfc180f29881a90e872531e760757e977bc62676a2238db00e1ce9c0ba12d6bc8fdde2356514af3b1fb3"
+hash = "d9ec07ce20f84648dfedf0ec23b0364138eea3db60e87d332ed6e05762673340e890a79da82efd6209eeb36ed3a31dd70b6916c586311e8a2ffe6f47aec211af"
 
 [update]
 [update.modrinth]
 mod-id = "XiC6HzoU"
-version = "cgD3wLtR"
+version = "XMduptKZ"

@@ -1,13 +1,13 @@
 name = "Homeostatic"
-filename = "homeostatic-1.21.1-2.10.3.1-FABRIC.jar"
+filename = "homeostatic-1.21.1-2.10.3.1-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oDobngty/versions/WgvOTeZQ/homeostatic-1.21.1-2.10.3.1-FABRIC.jar"
+url = "https://cdn.modrinth.com/data/oDobngty/versions/bDpmSuBJ/homeostatic-1.21.1-2.10.3.1-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "5a83919160d56c7a917fce808ff5639fd2d96d3e5fe4919fc471e358690723d99de1818d87c06ff89a4d1bc30fb93a48636179fff55ff2a814b1c24cb522ad01"
+hash = "7afe8cdabb7ad0f02358ba3adbcade8a0c5df485a49fa5c3ca3c57de42e9e633aeea52e513cdfb1f28065fb7792693750f107924dc89d1a7782ba4ba9ba5047b"
 
 [update]
 [update.modrinth]
 mod-id = "oDobngty"
-version = "WgvOTeZQ"
+version = "bDpmSuBJ"

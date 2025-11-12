@@ -1,13 +1,13 @@
 name = "Shut Up GL Error"
-filename = "shut_up_gl_error-fabric-2.0.0+1.21.1.jar"
+filename = "shut_up_gl_error-neoforge-2.0.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/houIxdGF/versions/Vn0ooCAz/shut_up_gl_error-fabric-2.0.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/houIxdGF/versions/ZBew9Akz/shut_up_gl_error-neoforge-2.0.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "c33844ffc78f81c542099b9e52549a73242028402c683afc1b74a3a3bb05c8930d61226201dbc9168c3645a45c46d811a07b4e2b8b7223746586b1720fb5a836"
+hash = "327811f96d219655a141e72e51226425d671a5890079264dcd1b933f326f30b8dde17ce593ab10fca523221e76273c6939835a4cc7a397bfe5d7f3fe8cf6f32d"
 
 [update]
 [update.modrinth]
 mod-id = "houIxdGF"
-version = "Vn0ooCAz"
+version = "ZBew9Akz"

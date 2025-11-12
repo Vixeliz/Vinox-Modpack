@@ -1,13 +1,13 @@
 name = "Sooty Chimneys"
-filename = "sootychimneys-fabric-1.3.2.jar"
+filename = "sootychimneys-neoforge-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/kgcDOLyD/sootychimneys-fabric-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/b3w1XM9H/versions/JmonLy4J/sootychimneys-neoforge-1.3.3.jar"
 hash-format = "sha512"
-hash = "a016b88e942a53640d799e331ed412639ecb567104099000d8345a6d7ae742f7691eac0e5eea0d7993c47d1c7df4adae93ac4d363d1c1d6615e90758a3c3e74d"
+hash = "072e89de046ea21b0d189c0ff348a9bd6e61229bfcdf98d16efad9c5e72c88d7f61c9617ef6d5de212d24c5cc2ed493890d17482802302bc8e5c7d32168448af"
 
 [update]
 [update.modrinth]
 mod-id = "b3w1XM9H"
-version = "kgcDOLyD"
+version = "JmonLy4J"

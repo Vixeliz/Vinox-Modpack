@@ -1,13 +1,13 @@
 name = "AntiPortals"
-filename = "antiportals-fabric-1.21.1-2.2-dev.jar"
+filename = "antiportals-neoforge-1.21.1-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2IyQrutX/versions/jYiUrdUV/antiportals-fabric-1.21.1-2.2-dev.jar"
+url = "https://cdn.modrinth.com/data/2IyQrutX/versions/UqlZlzXF/antiportals-neoforge-1.21.1-2.2.jar"
 hash-format = "sha512"
-hash = "cbffcca05960d7191766247585fa7b5654c8c5bced0da509a93eb588b7da0b0e427f693459d01cbdd4c9ca1f07bc44098508f8338440b1131e3667298521dfa5"
+hash = "913a5558aee5b4988b4b36d800cc2ce8c543606c33b5f3b8ec82c36bbacf3e93215eca0f89ad628d6812ba883a84e151f4dfea47f51c76e2e7f0c43c0acc240b"
 
 [update]
 [update.modrinth]
 mod-id = "2IyQrutX"
-version = "jYiUrdUV"
+version = "UqlZlzXF"

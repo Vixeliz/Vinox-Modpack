@@ -1,0 +1,460 @@
+Loading modpack...
+Reading metadata files...
+Checking for updates...
+Warning: Modrinth versions for Peaceful Hunger | UPDATED inconsistent between latest version number and newest release date (neoforge-1.21.1-2.2.0 vs 1.0.2)
+Warning: Modrinth versions for Critters and Companions inconsistent between latest version number and newest release date (2.3.3 vs 1.21.1-2.3.4)
+Warning: Modrinth versions for Carry On inconsistent between latest version number and newest release date (2.2.3 vs 2.2.2)
+Warning: Modrinth versions for Chunk Loaders inconsistent between latest version number and newest release date (1.2.9-forge-mc1.21 vs 1.2.8-neoforge-mc1.21)
+Warning: Modrinth versions for AntiPortals inconsistent between latest version number and newest release date (2.1 vs 1.21.1-2.2)
+Warning: Modrinth versions for Structurify inconsistent between latest version number and newest release date (neoforge-mc1.21.1-1.0.21 vs neoforge-2.0.5a+mc1.21.1)
+Warning: Modrinth versions for Moonlight Lib inconsistent between latest version number and newest release date (neoforge_1.21-2.18.11 vs 1.21-2.26.3-neoforge)
+Warning: Modrinth versions for Lithostitched inconsistent between latest version number and newest release date (1.5.0+beta5 vs 1.5.0-neoforge-1.21.1)
+Warning: Modrinth versions for ClickThrough Plus inconsistent between latest version number and newest release date (3.5.0+1.21.1 vs 3.3+1.21)
+Warning: Modrinth versions for MmmMmmMmmMmm inconsistent between latest version number and newest release date (neoforge_1.21-2.0.9 vs 1.21-2.0.11-neoforge)
+Updates found:
+Camera Overhaul: CameraOverhaul-v2.0.4-fabric+mc[1.21.0-1.21.2].jar -> CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar
+Easy Anvils: EasyAnvils-v21.1.0-1.21.1-Fabric.jar -> EasyAnvils-v21.1.0-1.21.1-NeoForge.jar
+Failed to check updates for Oxidized: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Peaceful Hunger | UPDATED: peaceful_hunger-fabric-1.21.1-2.2.0.jar -> peaceful_hunger-merged-1.21.1-1.0.2.jar
+Podium: podium-fabric-1.1.0.jar -> podium-neoforge-1.1.0.jar
+Quad: Quad-1.2.9+1.21.1-Fabric.jar -> Quad-1.2.9+1.21.1-Neo.jar
+Failed to check updates for Simple HUD Enhanced: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Sodium Dynamic Lights: sodiumdynamiclights-fabric-1.0.10-1.21.1.jar -> sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar
+Failed to check updates for ImmersiveThunder: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Sound Physics Remastered: sound-physics-remastered-fabric-1.21.1-1.5.1.jar -> sound-physics-remastered-neoforge-1.21.1-1.5.1.jar
+Failed to check updates for Boids: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Cave Dust: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+GlitchCore: GlitchCore-fabric-1.21.1-2.1.0.0.jar -> GlitchCore-neoforge-1.21.1-2.1.0.0.jar
+ImmediatelyFast: ImmediatelyFast-Fabric-1.6.7+1.21.1.jar -> ImmediatelyFast-NeoForge-1.6.7+1.21.1.jar
+Separated Leaves: separatedleaves-2.6.1-fabric-1.21.1.jar -> separatedleaves-2.6.1-neoforge-1.21.1.jar
+Smarter Farmers (farmers replant): smarterfarmers-1.21-2.2.4-fabric.jar -> smarterfarmers-1.21-2.2.4-neoforge.jar
+Accessorify: accessorify-2.3.5+1.21.1.jar -> accessorify-2.3.5+1.21.1.jar
+CraftTweaker: CraftTweaker-fabric-1.21.1-21.0.34.jar -> CraftTweaker-neoforge-1.21.1-21.0.34.jar
+Failed to check updates for Indium: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Item Highlighter: Highlighter-1.21-fabric-1.1.11.jar -> Highlighter-1.21-neoforge-1.1.11.jar
+ItemPhysic: ItemPhysic_FABRIC_v1.8.9_mc1.21.1.jar -> ItemPhysic_NEOFORGE_v1.8.9_mc1.21.1.jar
+Make Bubbles Pop: make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar -> make_bubbles_pop-0.3.0-forge-mc1.20.6-1.21.jar
+Missing Wilds: MissingWilds-fabric-1.4.0+beta+1.21.1.jar -> MissingWilds-neoforge-1.4.0+beta+1.21.1.jar
+ChoiceTheorem's Overhauled Village: [fabric]ctov-3.5.10a.jar -> [neoforge]ctov-3.5.10a.jar
+Failed to check updates for Additional Placements Fabric: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Better Statistics Screen: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Homeostatic: homeostatic-1.21.1-2.10.3.1-FABRIC.jar -> homeostatic-1.21.1-2.10.3.1-NEOFORGE.jar
+Failed to check updates for Numismatic Overhaul: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+oωo (owo-lib): owo-lib-0.12.15.4+1.21.jar -> owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar
+Critters and Companions: crittersandcompanions-fabric-1.21.1-2.3.4.jar -> crittersandcompanions-neoforge-1.21.1-2.3.4.jar
+EMI Loot: emi_loot-0.7.6+1.21+fabric.jar -> emi_loot-0.7.6+1.21+neoforge.jar
+ItemLocks: ItemLocks-Fabric-1.21-1.3.9.jar -> ItemLocks-NeoForged-1.21.1-1.3.11.jar
+Particle Interactions: eg_particle_interactions-0.4.1-patch.1-fabric-mc1.21.1.jar -> eg_particle_interactions-0.4.1-neoforge-mc1.21.1.jar
+Resourceful Lib: resourcefullib-fabric-1.21-3.0.12.jar -> resourcefullib-neoforge-1.21-3.0.12.jar
+Failed to check updates for Visuality: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for WaxedIcons: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Carry On: carryon-fabric-1.21.1-2.2.2.11.jar -> carryon-neoforge-1.21.1-2.2.2.11.jar
+Leawind's Third Person: leawind_third_person-2.3.0-mc1.21-1.21.1-fabric.jar -> leawind_third_person-2.3.0-mc1.21-1.21.1-neoforge.jar
+More Culling: moreculling-fabric-1.21.1-1.0.6.jar -> moreculling-neoforge-1.21.1-1.0.6.jar
+Failed to check updates for Reacharound: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Tax Free Levels: TaxFreeLevels-1.4.7-fabric-1.21.1.jar -> TaxFreeLevels-1.4.7-neoforge-1.21.1.jar
+Too Fast: toofast-fabric-1.21-1.3.0.jar -> toofast-1.21.0-0.4.3.5.jar
+Failed to check updates for Copper Hopper: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Cursors Extended: minecraft-cursor-fabric-3.11.1+1.21.1.jar -> minecraft-cursor-neoforge-3.11.1+1.21.1.jar
+Sawmill: sawmill-1.21-1.7.2-fabric.jar -> sawmill-1.21-1.7.2-neoforge.jar
+Ash API: ash_api-fabric-21.1.1.jar -> ash_api-neoforge-21.1.1.jar
+Cherished Worlds: cherishedworlds-fabric-10.1.1+1.21.1.jar -> cherishedworlds-neoforge-10.1.1+1.21.1.jar
+Cloth Config API: cloth-config-15.0.140-fabric.jar -> cloth-config-15.0.140-neoforge.jar
+Emoji Type: emoji-type-2.3.0-1.21.3-fabric.jar -> emoji-type-2.3.0-1.21.3-neoforge.jar
+Melody: melody_fabric_1.0.10_MC_1.21.jar -> melody_neoforge_1.0.10_MC_1.21.jar
+Particle Rain: particlerain-4.0.0-beta.3+1.21.1-fabric.jar -> particlerain-4.0.0-beta.3+1.21.1-neoforge.jar
+Chunk Loaders: chunkloaders-1.2.9-fabric-mc1.21.1.jar -> chunkloaders-1.2.8-neoforge-mc1.21.jar
+Entity Culling: entityculling-fabric-1.9.3-mc1.21.1.jar -> entityculling-neoforge-1.9.3-mc1.21.1.jar
+Fog: Fog-fabric-1.11.0-1.21.1.jar -> Fog-neoforge-1.11.0-1.21.1.jar
+ModernFix: modernfix-fabric-5.25.1+mc1.21.1.jar -> modernfix-neoforge-5.25.1+mc1.21.1.jar
+HT's TreeChop: TreeChop-1.21.1-fabric-0.19.3a.jar -> TreeChop-1.21.1-neoforge-0.19.3.jar
+Continuity: continuity-3.0.0+1.21.jar -> continuity-3.0.0+1.21.neoforge.jar
+Alternate Current: alternate-current-mc1.21-1.9.0.jar -> alternate_current-mc1.21-1.9.0.jar
+Item Obliterator: Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar -> Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar
+Failed to check updates for RecipeRemover: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+YUNG's API: YungsApi-1.21.1-Fabric-5.1.6.jar -> YungsApi-1.21.1-NeoForge-5.1.6.jar
+Amendments: amendments-1.21-2.0.8-fabric.jar -> amendments-1.21-2.0.8-neoforge.jar
+Failed to check updates for Bobby: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Crawl: crawl-0.14.9.jar -> crawl-0.14.9.jar
+Failed to check updates for Fabric Language Kotlin: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Fast Paintings: fastpaintings-1.21-1.3.0-fabric.jar -> fastpaintings-1.21-1.3.0-neoforge.jar
+Figura: figura-0.1.5+1.21.1-fabric-mc.jar -> figura-0.1.5+1.21.1-neoforge-mc.jar
+Forge Config API Port: ForgeConfigAPIPort-v21.1.5-1.21.1-Fabric.jar -> ForgeConfigAPIPort-v21.1.6-1.21.1-NeoForge.jar
+Accessories Compatibility Layer: accessories_compat_layer-fabric-0.1.10+1.21.1.jar -> accessories_compat_layer-neoforge-0.1.10+1.21.1.jar
+Failed to check updates for Audaki Cart Engine (Faster Minecarts): failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Dynamic FPS: dynamic-fps-3.9.5+minecraft-1.21.0-fabric.jar -> dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.jar
+JamLib: jamlib-fabric-1.3.5+1.21.1.jar -> jamlib-neoforge-1.3.5+1.21.1.jar
+Mouse Tweaks: MouseTweaks-fabric-mc1.21-2.26.jar -> MouseTweaks-neoforge-mc1.21-2.26.1.jar
+Sounds: sounds-2.4.15+lts+1.21.1+fabric.jar -> sounds-2.4.15+lts+1.21.1+neoforge.jar
+Failed to check updates for CIT Resewn: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+No Chat Reports: NoChatReports-FABRIC-1.21.1-v2.9.1.jar -> NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar
+Ribbits: Ribbits-1.21.1-Fabric-4.1.4.jar -> Ribbits-1.21.1-NeoForge-4.1.4.jar
+Failed to check updates for Cardinal Components API: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Exposure Catalog: exposure_catalog-fabric-1.1.1.jar -> exposure_catalog-neoforge-1.1.1.jar
+Failed to check updates for Krypton: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Model Gap Fix: modelfix-1.21-1.6-fabric.jar -> modelfix-1.21-1.10.jar
+Failed to check updates for Presence Footsteps: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+AntiPortals: antiportals-fabric-1.21.1-2.2-dev.jar -> antiportals-neoforge-1.21.1-2.2.jar
+Does It Tick?: does_it_tick-fabric-1.1.4-1.21.1.jar -> does_it_tick-neoforge-1.1.4-1.21.1.jar
+Dusty Decorations: DustyDecoRefabricated-1.1-1.21+1.21.1.jar -> DustyDecorasions_1.21.1NeoForge_V1.0.jar
+JinxedLib: jinxedlib-fabric-1.21.1-1.0.4.jar -> jinxedlib-neoforge-1.21.1-1.0.4.jar
+Failed to check updates for NutritionZ: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Gravestones: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Polytone: polytone-1.21-3.5.10-fabric.jar -> polytone-1.21-3.5.10.jar
+Scholar: scholar-fabric-1.21.1-1.1.9.jar -> scholar-neoforge-1.21.1-1.1.9.jar
+Sodium Shadowy Path Blocks: sodium-shadowy-path-blocks-fabric-4.0.0.jar -> sodium-shadowy-path-blocks-neoforge-4.0.0.jar
+Failed to check updates for Astrocraft: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Chiseled Bookshelf Visualizer: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Clumps: Clumps-fabric-1.21.1-19.0.0.1.jar -> Clumps-neoforge-1.21.1-19.0.0.1.jar
+Larion World Generation: larion-fabric-1.21.1-4.3.0.jar -> larion-neoforge-1.21.1-4.3.0.jar
+Noisium: noisium-fabric-2.3.0+mc1.21-1.21.1.jar -> noisium-neoforge-2.3.0+mc1.21-1.21.1.jar
+Structurify: structurify-fabric-2.0.4a+mc1.21.1.jar -> structurify-neoforge-2.0.5a+mc1.21.1.jar
+Failed to check updates for Debugify: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Better Climbing: better_climbing-fabric-3.jar -> better_climbing-neoforge-4.jar
+[ETF] Entity Texture Features: entity_texture_features_1.21-fabric-7.0.2.jar -> entity_texture_features_1.21-neoforge-7.0.2.jar
+Fzzy Config: fzzy_config-0.7.3+1.21.jar -> fzzy_config-0.7.3+1.21+neoforge.jar
+Let Me Despawn: letmedespawn-1.21.x-fabric-1.5.0.jar -> letmedespawn-1.21.x-neoforge-1.5.0.jar
+AppleSkin: appleskin-fabric-mc1.21-3.0.6.jar -> appleskin-neoforge-mc1.21-3.0.7.jar
+Bedspreads: bedspreads-fabric-7.0.0+1.21.1.jar -> bedspreads-neoforge-7.0.0+1.21.1.jar
+Puzzles Lib: PuzzlesLib-v21.1.39-1.21.1-Fabric.jar -> PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar
+Failed to check updates for XXL Packets: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Exposure: exposure-fabric-1.21.1-1.9.11.jar -> exposure-neoforge-1.21.1-1.9.12.jar
+SuperMartijn642's Core Lib: supermartijn642corelib-1.1.18a-fabric-mc1.21.jar -> supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
+Bookshelf: bookshelf-fabric-1.21.1-21.1.78.jar -> bookshelf-neoforge-1.21.1-21.1.78.jar
+Failed to check updates for CICADA: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Explosive Enhancement: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Handcrafted: handcrafted-fabric-1.21.1-4.0.3.jar -> handcrafted-neoforge-1.21.1-4.0.3.jar
+Moonlight Lib: moonlight-1.21-2.26.1-fabric.jar -> moonlight-1.21-2.26.3-neoforge.jar
+SuperMartijn642's Config Lib: supermartijn642configlib-1.1.8-fabric-mc1.21.jar -> supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
+Supplementaries Squared: suppsquared-1.21-1.2.15-fabric.jar -> suppsquared-1.21-1.2.14-neoforge.jar
+Failed to check updates for World Play Time: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Farmer's Delight Refabricated: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Global Packs: globalpacks-fabric-1.21.1-21.0.6.jar -> globalpacks-neoforge-1.21.1-21.0.6.jar
+Failed to check updates for MaLiLib: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Treeplacer: treeplacer-fabric-1.21.1-1.3.0.jar -> treeplacer-forge-1.21.1-1.3.0.jar
+Failed to check updates for Universal Ores: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+YetAnotherConfigLib (YACL): yet_another_config_lib_v3-3.8.0+1.21.1-fabric.jar -> yet_another_config_lib_v3-3.8.0+1.21.1-neoforge.jar
+Better Advancements: BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar -> BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar
+EMIffect: emiffect-fabric-2.1.6+mc1.21.1.jar -> emiffect-neoforge-2.1.6+mc1.21.1.jar
+Emotecraft: emotecraft-for-MC1.21.1-2.4.12-fabric.jar -> emotecraft-for-MC1.21.1-2.4.12-neoforge.jar
+EMI Addon: Extra Mod Integrations: extra-mod-integrations-all-fabric-1.0.3+1.21.1.jar -> extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar
+Lithostitched: lithostitched-1.5.0-fabric-1.21.1.jar -> lithostitched-1.5.0-neoforge-1.21.1.jar
+Screenshot to Clipboard: screenshot-to-clipboard-fabric-1.0.10.jar -> screenshot-to-clipboard-neoforge-1.0.10.jar
+Failed to check updates for Show Me Your Skin!: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Cool Rain: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Searchables: Searchables-fabric-1.21.1-1.0.2.jar -> Searchables-neoforge-1.21.1-1.0.2.jar
+Serene Seasons: SereneSeasons-fabric-1.21.1-10.1.0.1.jar -> SereneSeasons-neoforge-1.21.1-10.1.0.3.jar
+Traveler's Titles: TravelersTitles-1.21.1-Fabric-5.1.3.jar -> TravelersTitles-1.21.1-NeoForge-5.1.3.jar
+Visual Workbench: VisualWorkbench-v21.1.1-1.21.1-Fabric.jar -> VisualWorkbench-v21.1.1-1.21.1-NeoForge.jar
+Failed to check updates for Litematica: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Anti Ghost: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Snow Under Trees (Fabric): failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Accurate Block Placement Reborn: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Better Clouds: better-clouds-1.7.19+1.21.1-fabric.jar -> better-clouds-1.7.19+1.21.1-neoforge.jar
+Lithium: lithium-fabric-0.15.0+mc1.21.1.jar -> lithium-neoforge-0.15.0+mc1.21.1.jar
+Log Begone: logbegone-fabric-1.21.1-1.0.3.jar -> logbegone-neoforge-1.21.1-1.0.3.jar
+Not Enough Animations: notenoughanimations-fabric-1.10.6-mc1.21.1.jar -> notenoughanimations-neoforge-1.10.6-mc1.21.1.jar
+Resourceful Config: resourcefulconfig-fabric-1.21-3.0.11.jar -> resourcefulconfig-neoforge-1.21-3.0.11.jar
+Controlling: Controlling-fabric-1.21.1-19.0.5.jar -> Controlling-neoforge-1.21.1-19.0.5.jar
+Failed to check updates for Fabric API: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Iris Shaders: iris-fabric-1.8.8+mc1.21.1.jar -> iris-neoforge-1.8.12+mc1.21.1.jar
+Failed to check updates for Text Placeholder API: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+RightClickHarvest: rightclickharvest-fabric-4.6.0+1.21.1.jar -> rightclickharvest-neoforge-4.6.0+1.21.1.jar
+Failed to check updates for Extended Drawers: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Falling Leaves: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Geckolib: geckolib-fabric-1.21.1-4.8.2.jar -> geckolib-neoforge-1.21.1-4.8.2.jar
+Immersive UI: ImmersiveUI-FABRIC-0.3.3+1.21.1.jar -> ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar
+Failed to check updates for Lenient Death: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Concurrent Chunk Management Engine (Fabric): failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Linkart Refabricated: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Merchant Markers: MerchantMarkers-1.21.1-fabric-1.3.6.jar -> MerchantMarkers-1.21.1-neoforge-1.3.6.jar
+Failed to check updates for World Preview: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+KleeSlabs: kleeslabs-fabric-1.21.1-21.1.7.jar -> kleeslabs-neoforge-1.21.1-21.1.7.jar
+Lychee: Lychee-1.21.1-Fabric-6.4.2.jar -> Lychee-1.21.1-NeoForge-6.4.2.jar
+Failed to check updates for Origins: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for RailOptimization: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+CreativeCore: CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar -> CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar
+Failed to check updates for Enhanced Block Entities: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+EMI professions (EMIP): EMIProfessions-fabric-1.21.1-1.0.3.jar -> EMIProfessions-neoforge-1.21.1-1.0.3.jar
+Sneak Through Berries: sneak_through_berries-fabric-21.1.0.jar -> sneak_through_berries-neoforge-21.1.0.jar
+Underlay: underlay-1.21-v0.9.7.jar -> underlay-1.21-v0.9.7-f.jar
+Comforts: comforts-fabric-9.0.4+1.21.1.jar -> comforts-neoforge-9.0.4+1.21.1.jar
+[EMF] Entity Model Features: entity_model_features_1.21-fabric-3.0.1.jar -> entity_model_features_1.21-neoforge-3.0.1.jar
+Horseman: horseman-fabric-1.21.1-1.5.6.jar -> horseman-neoforge-1.21.1-1.5.6.jar
+Failed to check updates for Music Delay Remover (Infinite Music): failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Pehkui: Pehkui-3.8.3+1.14.4-1.21.jar -> Pehkui-3.8.3+1.21-neoforge.jar
+Bushier Flowers: bushierflowers-0.0.3-1.21.jar -> bushierflowers-0.0.3-1.21.jar
+Failed to check updates for Carpet Extra: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Head in the Clouds: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Kiwi 🥝: Kiwi-1.21-Fabric-15.1.5.jar -> Kiwi-1.21.1-NeoForge-15.8.2.jar
+Larion: Disc World: Larion-disc-world-1.7.0.jar -> Larion-disc-world-1.7.0.zip
+Necronomicon API: Necronomicon-Fabric-1.6.0+1.21.jar -> Necronomicon-NeoForge-1.6.0+1.21.jar
+Transparent: transparent-fabric-21.1.0.jar -> transparent-neoforge-21.1.0.jar
+Almanac: Almanac-1.21.1-2-fabric-1.5.0.jar -> Almanac-1.21.1-2-neoforge-1.5.0.jar
+AttributeFix: attributefix-fabric-1.21.1-21.1.3.jar -> attributefix-neoforge-1.21.1-21.1.3.jar
+Failed to check updates for Hold My Items: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Snow! Real Magic! ⛄: SnowRealMagic-1.21.1-Fabric-12.1.2.jar -> SnowRealMagic-1.21.1-NeoForge-12.1.2.jar
+Failed to check updates for FeyTweaks: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Autochef's Delight: AutochefsDelight-1.21.1-Fabric-2.1.0.jar -> AutochefsDelight-1.21.1-NeoForge-2.0.2.jar
+e4mc: e4mc_minecraft-fabric-5.4.1.jar -> e4mc_minecraft-neoforge-5.4.1.jar
+Failed to check updates for Faster Random: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+OctoLib: OctoLib-FABRIC-0.6.0.4+1.21.jar -> OctoLib-NEOFORGE-0.6.0.4+1.21.jar
+Particle Core: particle_core-0.2.6+1.21.jar -> particle_core-0.2.6+1.21+neoforge.jar
+Raised: raised-fabric-1.21.1-5.0.2.jar -> raised-neoforge-1.21.1-5.0.2.jar
+Failed to check updates for Biome Particle Weather: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for FrozenLib: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Vegan Delight: vegandelight-fabric-1.21.1-2.0.0-beta3.jar -> vegandelight-neoforge-1.21.1-2.0.0-beta4.jar
+Failed to check updates for Animatica: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Companion 🐕: Companion-1.21.1-Fabric-6.1.1.jar -> Companion-1.21.1-NeoForge-6.1.1.jar
+ClickThrough Plus: clickthrough-plus-fabric-3.5.1+1.21.1.jar -> clickthrough-plus-3.3+1.21.jar
+Climate Rivers: ClimateRivers-v21.1.3-1.21.1-Fabric.jar -> ClimateRivers-v21.1.3-1.21.1-NeoForge.jar
+Failed to check updates for PneumonoCore: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Rustic Delight: rusticdelight-fabric-1.21.1-1.4.2.jar -> rusticdelight-neoforge-1.21-1.5.1.jar
+EMI Enchanting: emi_enchanting-0.1.2+1.21.jar -> emi_enchanting-0.1.2+1.21+neoforge.jar
+Failed to check updates for Faux Custom Entity Data: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Language Reload: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Silly's Crop XP: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Sodium: sodium-fabric-0.6.13+mc1.21.1.jar -> sodium-neoforge-0.6.13+mc1.21.1.jar
+Subtle Effects: SubtleEffects-fabric-1.21.1-1.13.1.jar -> SubtleEffects-neoforge-1.21.1-1.13.1.jar
+Dynamic Crosshair: dynamiccrosshair-9.10+1.21.1-fabric.jar -> dynamiccrosshair-9.10+1.21.1-neoforge.jar
+Failed to check updates for Items Displayed [Fabric]: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Sodium Extra: sodium-extra-fabric-0.6.0+mc1.21.1.jar -> sodium-extra-neoforge-0.6.0+mc1.21.1.jar
+Utility Belt: utility-belt-fabric-2.6.0+1.21.1.jar -> utility-belt-neoforge-2.6.0+1.21.1.jar
+EMI: emi-1.1.22+1.21.1+fabric.jar -> emi-1.1.22+1.21.1+neoforge.jar
+Iceberg: Iceberg-1.21.1-fabric-1.3.2.jar -> Iceberg-1.21.1-neoforge-1.3.2.jar
+More Armor Trims: more_armor_trims-1.5.1-1.21.jar -> more_armor_trims-neoforge-1.5.1-1.21.jar
+Prickle: prickle-fabric-1.21.1-21.1.11.jar -> prickle-neoforge-1.21.1-21.1.11.jar
+TerraBlender: TerraBlender-fabric-1.21.1-4.1.0.8.jar -> TerraBlender-neoforge-1.21.1-4.1.0.8.jar
+Failed to check updates for Sound Controller: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for ToolTipFix: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+AmbientSounds: AmbientSounds_FABRIC_v6.2.2_mc1.21.1.jar -> AmbientSounds_NEOFORGE_v6.3.0_mc1.21.1.jar
+Accessories: accessories-fabric-1.1.0-beta.52+1.21.1.jar -> accessories-neoforge-1.1.0-beta.52+1.21.1.jar
+Ambient Environment: AmbientEnvironment-fabric-1.21.1-18.0.0.2.jar -> AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar
+Failed to check updates for Amecs: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Immersive Melodies: immersive_melodies-fabric-0.6.2+1.21.1.jar -> immersive_melodies-neoforge-0.6.2+1.21.1.jar
+Failed to check updates for Joy of Painting: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Rail Placement Fix: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Fusion (Connected Textures): fusion-1.2.11-fabric-mc1.21.jar -> fusion-1.2.11b-neoforge-mc1.21.jar
+Not Enough Recipe Book [NERB]: Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar -> Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar
+Recipe Modification library: recipe_modification-fabric-1.21.1-0.1.1.jar -> recipe_modification-neoforge-1.21.1-0.1.2.jar
+Tide: tide-fabric-1.21-1.6.3.jar -> tide-neoforge-1.21-1.6.4.jar
+Failed to check updates for Tool Trims Mod: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+CoroUtil: coroutil-fabric-1.21.1-1.3.8.jar -> coroutil-neoforge-1.21.0-1.3.8.jar
+Failed to check updates for Trinkets: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Yeetus Experimentus: yeetusexperimentus-fabric-87.0.0.jar -> yeetusexperimentus-neoforge-87.0.0.jar
+Failed to check updates for Your Options Shall Be Respected (YOSBR): failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for TCDCommons API: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+yyz's backpack: yyzsbackpack-fabric-21.1.2.jar -> yyzsbackpack-neoforge-21.1.2.jar
+Failed to check updates for HerdsPanic: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Storage Labels: labels-1.21-2.0.3-fabric.jar -> labels-1.21-2.0.3-neoforge.jar
+Sooty Chimneys: sootychimneys-fabric-1.3.2.jar -> sootychimneys-neoforge-1.3.3.jar
+Balm: balm-fabric-1.21.1-21.0.53.jar -> balm-neoforge-1.21.1-21.0.54.jar
+Failed to check updates for Better Mount HUD: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Cristel Lib: cristellib-fabric-1.2.8.jar -> cristellib-neoforge-1.21.1-3.0.2.jar
+Konkrete: konkrete_fabric_1.9.9_MC_1.21.jar -> konkrete_neoforge_1.9.9_MC_1.21.jar
+MmmMmmMmmMmm: dummmmmmy-1.21-2.0.9-fabric.jar -> dummmmmmy-1.21-2.0.11-neoforge.jar
+Failed to check updates for Smooth Scrolling: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Wunderreich: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Mod Menu: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for OptiGUI: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+TxniLib: txnilib-fabric-1.0.24-1.21.1.jar -> txnilib-neoforge-1.0.24-1.21.1.jar
+Failed to check updates for Axolotl Buckets: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Connectible Chains [Fabric]: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Load My F***ing Tags: lmft-1.1.1+1.21.9-fabric.jar -> lmft-1.1.1+1.21.9-neoforge.jar
+Arts & Crafts: arts_and_crafts-fabric-1.21.1-1.5.1.jar -> arts_and_crafts-neoforge-1.21.1-1.5.1.jar
+Failed to check updates for Carpet: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Chunk Activity Tracker: chunkactivitytracker-fabric-1.0.1-1.21.1.jar -> chunkactivitytracker-neoforge-1.0.1-1.21.1.jar
+M.R.U: mru-1.0.19+LTS+1.21.1+fabric.jar -> mru-1.0.19+LTS+1.21.1+neoforge.jar
+Trample No More: tramplenomore-fabric-1.21.1-21.1.2.jar -> tramplenomore-neoforge-1.21.1-21.1.2.jar
+Freecam: freecam-fabric-1.3.0+mc1.21.jar -> freecam-neoforge-1.3.0+mc1.21.jar
+Gliders: gliders-1.21.1-fabric-1.1.8.jar -> gliders-1.21.1-neoforge-1.1.8.jar
+More Villagers: Re-employed: Morevillagers-Re-1.21.1-fabric-5.2.0.jar -> Morevillagers-Re-1.21.1-neoforge-5.2.0.jar
+Chunky: Chunky-Fabric-1.4.23.jar -> Chunky-NeoForge-1.4.23.jar
+Better Days: betterdays-1.21.1-3.3.6.1-FABRIC.jar -> betterdays-1.21.1-3.3.6.1-NEOFORGE.jar
+BetterF3: BetterF3-11.0.3-Fabric-1.21.1.jar -> BetterF3-11.0.3-NeoForge-1.21.1.jar
+Failed to check updates for Copper Rails: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Failed to check updates for Eating Animation: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Night Lights: nightlights-fabric-1.3.0.jar -> nightlights-neoforge-1.3.0.jar
+Exposure: Polaroid: exposure_polaroid-fabric-1.21.1-1.1.2.jar -> exposure_polaroid-neoforge-1.21.1-1.1.2.jar
+Shut Up GL Error: shut_up_gl_error-fabric-2.0.0+1.21.1.jar -> shut_up_gl_error-neoforge-2.0.0+1.21.1.jar
+spark: spark-1.10.109-fabric.jar -> spark-1.10.124-neoforge.jar
+Universal Bone Meal: UniversalBoneMeal-v21.1.0-1.21.1-Fabric.jar -> UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar
+Failed to check updates for Simple Copper Pipes: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Supplementaries: supplementaries-1.21-3.4.20-fabric.jar -> supplementaries-1.21-3.4.20-neoforge.jar
+EMI Ores: emi_ores-1.2+1.21.1+fabric.jar -> emi_ores-1.2+1.21.1+neoforge.jar
+FerriteCore: ferritecore-7.0.2-hotfix-fabric.jar -> ferritecore-7.0.2-neoforge.jar
+Failed to check updates for Zipline: failed to get latest version: no valid versions found
+	Use the 'packwiz settings acceptable-versions' command to accept more game versions
+	To use datapacks, add a datapack loader mod and specify the datapack-folder option with the folder this mod loads datapacks from
+Architectury API: architectury-13.0.8-fabric.jar -> architectury-13.0.8-neoforge.jar
+Do you want to update? [Y/n]: Files updated!

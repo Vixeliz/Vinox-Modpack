@@ -1,13 +1,13 @@
 name = "Podium"
-filename = "podium-fabric-1.1.0.jar"
+filename = "podium-neoforge-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fW8woQj4/versions/YjNyuxw0/podium-fabric-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/fW8woQj4/versions/2JAl6I4T/podium-neoforge-1.1.0.jar"
 hash-format = "sha512"
-hash = "607a4e283b255e693aeeaf42967c1765f141be0d8b496e88822cf981b5f61ea47976fa87ec4260b6733b2d258132cf6f62fe66e48141b60f8426d2415860449b"
+hash = "3597619d2c3442bd01a936dfad17d0bd9d71e847e602acd2d475cf0426c7a3db7993ca42c50158d1159b1f9f2c942d273256f0263100d5a56c5c3a783a61e69d"
 
 [update]
 [update.modrinth]
 mod-id = "fW8woQj4"
-version = "YjNyuxw0"
+version = "2JAl6I4T"
