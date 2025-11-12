@@ -3,9 +3,9 @@ filename = "Larion-disc-world-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vdiH9Bp4/versions/zWojFqRs/Larion-disc-world-1.7.0.jar"
+url = "https://github.com/Vixeliz/Vinox-Modpack/raw/refs/heads/main/jars/Larion-disc-world-1.7.0.jar"
 hash-format = "sha512"
-hash = "9f279b26d0d8365e99879bb110dfeed64311317346262c6efd59e43a43d3ca3fabe9693f4dcc533feb49c0cdc350c13323f686f3677487e1b0b6dbb3c87e6998"
+hash = "43ccdeaa8748d5d1708ef5a378dca50ed88ab934271ca561d6d3a7bd8ae18927ae1def65740e895601e2741d04e50eddf245978abedcadeccd9afe4dbee3a3b4"
 
 [update]
 [update.modrinth]
