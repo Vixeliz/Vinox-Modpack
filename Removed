@@ -1,19 +1,19 @@
 mods/oxidized.pw.toml
 mods/simple-hud-enhanced.pw.toml
 mods/immersivethunder.pw.toml
-mods/sound-physics-remastered.pw.toml
+# mods/sound-physics-remastered.pw.toml -- has forge version
 mods/cave-dust.pw.toml
-mods/indium.pw.toml
-mods/additional-placements-fabric.pw.toml
+# mods/indium.pw.toml -- unneeded for forge
+# mods/additional-placements-fabric.pw.toml -- is forge
 mods/better-stats.pw.toml
-mods/numismatic-overhaul.pw.toml
+# mods/numismatic-overhaul.pw.toml -- has port
 mods/visuality.pw.toml
 mods/waxedicons.pw.toml
-mods/reacharound.pw.toml
+# mods/reacharound.pw.toml -- replaced
 mods/copper-hopper.pw.toml
-mods/reciperemover.pw.toml
-mods/bobby.pw.toml
-mods/fabric-language-kotlin.pw.toml
+# mods/reciperemover.pw.toml -- unneeded have cubejs
+# mods/bobby.pw.toml -- has farsight not quite same but close
+# mods/fabric-language-kotlin.pw.toml -- kotlin for forge
 mods/audaki-cart-engine.pw.toml
 mods/cit-resewn.pw.toml
 mods/cardinal-components-api.pw.toml
@@ -31,22 +31,22 @@ mods/universal_ores.pw.toml
 mods/malilib.pw.toml
 mods/show-me-your-skin.pw.toml
 mods/coolrain.pw.toml
-mods/litematica.pw.toml
+# mods/litematica.pw.toml -- port
 mods/anti-ghost.pw.toml
-mods/snow-under-trees-remastered.pw.toml
+# mods/snow-under-trees-remastered.pw.toml -- has forge
 mods/accurate-block-placement-reborn.pw.toml
-mods/fabric-api.pw.toml
+# mods/fabric-api.pw.toml -- connector
 mods/placeholder-api.pw.toml
 mods/extended-drawers.pw.toml
-mods/fallingleaves.pw.toml
+# mods/fallingleaves.pw.toml -- replaced
 mods/lenient-death.pw.toml
-mods/c2me-fabric.pw.toml
+# mods/c2me-fabric.pw.toml -- has port added
 mods/linkart-refabricated.pw.toml
-mods/world-preview.pw.toml
-mods/origins.pw.toml
+# mods/world-preview.pw.toml -- works on connector
+# mods/origins.pw.toml -- will work in future
 mods/railoptimization.pw.toml
 mods/ebe.pw.toml
-mods/infinite-music.pw.toml
+# mods/infinite-music.pw.toml -- alternative
 mods/carpet-extra.pw.toml
 mods/head-in-the-clouds.pw.toml
 mods/hold-my-items.pw.toml
@@ -58,17 +58,17 @@ mods/animatica.pw.toml
 mods/pneumono_*
 mods/faux-custom-entity-data.pw.toml
 mods/language-reload.pw.toml
-mods/sillys-crop-xp.pw.toml
+# mods/sillys-crop-xp.pw.toml -- have alternative
 mods/items-displayed.pw.toml
 mods/terrablender.pw.toml
-mods/sound-controller.pw.toml
+# mods/sound-controller.pw.toml -- alternative
 mods/tooltipfix.pw.toml
 mods/amecs.pw.toml
 mods/joy-of-painting.pw.toml
 mods/rail-placement-fix.pw.toml
 mods/tool-trims-mod.pw.toml
-mods/trinkets.pw.toml
-mods/yosbr.pw.toml
+# mods/trinkets.pw.toml -- is curious instead
+mods/yosbr.pw.toml -- defaultoptions
 mods/tcdcommons.pw.toml
 mods/herdspanic.pw.toml
 mods/better-mount-hud.pw.toml
