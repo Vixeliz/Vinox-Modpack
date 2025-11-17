@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+hash = "fcccae7f61b22506b0ea7ec50cc9b3c5c20728755e61e684e1f76376d4a3d89b"
 metafile = true
 
 [[files]]
@@ -1435,12 +1435,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
+hash = "709d58192e3773bb96fc2f5cb8a41327ef9cae781a54ea3a0b7c7136597ac372"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+hash = "15df6d21580f14c70ae237cbe794911101897664fdfd913ff47c6b39cb671d11"
 metafile = true
 
 [[files]]
