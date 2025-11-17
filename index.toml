@@ -1416,6 +1416,11 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
+file = "mods/stohuns-vanity-collection.pw.toml"
+hash = "f141694d78c0c64be5911824c5f079e455f598c0b61c41978e59d984e3fb2a9d"
+metafile = true
+
+[[files]]
 file = "mods/stony-cliffs-are-cool.pw.toml"
 hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
 metafile = true
@@ -1568,6 +1573,11 @@ metafile = true
 [[files]]
 file = "mods/utility-belt.pw.toml"
 hash = "552bdc415b71e8219b578b3964b7ff77ffaa4afe0ddb3758140daae83d378803"
+metafile = true
+
+[[files]]
+file = "mods/vanity-core.pw.toml"
+hash = "d33c91d5676c37a7ad76bae20efb8b8ab9bc5c8ce898a06ab738858f6f7ec0a9"
 metafile = true
 
 [[files]]
