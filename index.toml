@@ -25,24 +25,8 @@ file = "config/effective.json"
 hash = "bd06885e6afaf3375cda3ed8982131460389265c8768d226e91ab4ab373ab1e3"
 
 [[files]]
-file = "config/emi.css"
-hash = "86f89bf4d54e130ea96f838625495e434310b6b1d15786281095c7a48b60a26c"
-
-[[files]]
-file = "config/emi_loot_config.toml"
-hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
-
-[[files]]
-file = "config/emi_ores-client.json"
-hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
-
-[[files]]
 file = "config/enhanced_bes.properties"
 hash = "0575538edf74a9ebd4d659047e79a73c08a23bcc35017eb9a1d2c0945e91c908"
-
-[[files]]
-file = "config/figura.json"
-hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -59,50 +43,6 @@ hash = "9068896e26af4aecaff5519826cb6fcb2d3b2facf22137414b3e8dad38fccbcb"
 [[files]]
 file = "config/nutritionz.json5"
 hash = "36d13d67c8a970081041ed06ecc35c7d1ee4f7edde776b993208795f9ac0c5e9"
-
-[[files]]
-file = "config/options.txt"
-hash = "e4102a6033d9f81afb370e3c6398e097019458710e18a151e2199ce754955909"
-
-[[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "21665bc57f213396425c468da3927027d927b552fe3481c378ef0fba3c11ef71"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/LICENSE.md"
-hash = "f0b1f020c7eed350a85d50f4244322fba0e8219ab3f2216f2bb6bcaccd248625"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/circle.json"
-hash = "f229b30ccae3df5ab1a10d221d1bec6727600bd6eced2a1279c5b1ba4834b5fb"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/disc_edge.json"
-hash = "c0a0dd1f6f37357aa76979cbf268445e53c9eaa5aa77bd5c93fedfed58202536"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/temperature/delta.json"
-hash = "aea04819f385ec018486c782089c335f11192fd69711c3487e0250d2987c3347"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/noise/circle_x.json"
-hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/noise/circle_z.json"
-hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "21aded1b9805e37754b8b36b742bef722878c48e3d8a2e5c7c0271612b26d559"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/pack.mcmeta"
-hash = "362e7432e7c5f9cbe385f91d87c927ce7fdbb5a96bb83c04fe2cccc083b0bf93"
-
-[[files]]
-file = "config/paxi/datapacks/LarionDisc/pack.png"
-hash = "744e6dd43b64dc55d64cf1f8fa16d075c56f5dee690e77413c99f4910dead827"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
