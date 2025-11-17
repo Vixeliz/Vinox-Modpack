@@ -1581,6 +1581,11 @@ hash = "d33c91d5676c37a7ad76bae20efb8b8ab9bc5c8ce898a06ab738858f6f7ec0a9"
 metafile = true
 
 [[files]]
+file = "mods/vanity-deep-forged.pw.toml"
+hash = "3ace0eb3b8af1959488695bb7d516a0a631373258b1a3343f0c88f8a859f9248"
+metafile = true
+
+[[files]]
 file = "mods/vegan-delight.pw.toml"
 hash = "1da9c6327f4a7f73b0a9115959d31eb1bb9036c9764bcb84639bb20ef043eecf"
 metafile = true
