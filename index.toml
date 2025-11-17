@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
+hash = "ea0347fa673d43db23c10fc56228199b836c3c3da5fd6128be3cb7b763162701"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-professions-(emip).pw.toml"
-hash = "f6f6eb7dc0a8e0ccd1e072cc684cd843f1e79578fa2a603f31b3a8dfe6410b13"
+hash = "a10ca639f398f849980e009dbc2715a889ab3aef6c7ef9b5533f80dd7ac5432c"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "8dadb4e8c8b43618f4f06c5e1dcda3309e2c1f33128d6d2f283a877987200ab9"
+hash = "067f6002ec17b999566df1d60b98dea75f6b9094a48f9fb291ed80a2fb86c22b"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "530e503a51b760a35819869343380d908e3ce6ab463e64695f93b06ac46bbf8b"
+hash = "186037776d03516746ca2452ebf20075688cefcb14be66cc8e5f0e85878b62b6"
 metafile = true
 
 [[files]]
