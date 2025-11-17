@@ -1489,11 +1489,6 @@ hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
 metafile = true
 
 [[files]]
-file = "mods/tool-trims-mod.pw.toml"
-hash = "6501e54714c5c46c6bcc0802dd639c1c8f8ad75666a4c71a42c4e575d2cffe80"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ddd37f4bf3fa0276351911e72b412ebb4de271ce802c1c7b89df0bf321417eb0"
 metafile = true
