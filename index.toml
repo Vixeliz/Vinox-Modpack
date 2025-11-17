@@ -546,11 +546,6 @@ hash = "38a9f5d91c8ff0eed8ee54c436308bfeb29012eb6701750b34f002d9b1750651"
 metafile = true
 
 [[files]]
-file = "mods/dont-break-your-tools.pw.toml"
-hash = "ad10d6babf5369b0ed38c99e4055fa9d7ac06226d6f23531b78f493c7f46249e"
-metafile = true
-
-[[files]]
 file = "mods/draggable-lists.pw.toml"
 hash = "97de124a9876357203fe039dc68eebe5d8f6278804328223cbf1c768cf0dd32e"
 metafile = true
