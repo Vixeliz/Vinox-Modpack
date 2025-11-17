@@ -13,12 +13,28 @@ file = "config/betterdays-common.toml"
 hash = "77870acb4d193156085aef983ad06f23de92b7674558cd195ed76471bd26b255"
 
 [[files]]
+file = "config/cameraoverhaul.toml"
+hash = "c8e820c70445425371c53f1ea33af3c4e22e8b36250f7df8021790f44850131e"
+
+[[files]]
 file = "config/difficultylock.json5"
 hash = "868eee5c581bd83ad5f2b4852e221b472633cce3c28445925b57ab13a8106390"
 
 [[files]]
 file = "config/effective.json"
 hash = "bd06885e6afaf3375cda3ed8982131460389265c8768d226e91ab4ab373ab1e3"
+
+[[files]]
+file = "config/emi.css"
+hash = "86f89bf4d54e130ea96f838625495e434310b6b1d15786281095c7a48b60a26c"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
+
+[[files]]
+file = "config/emi_ores-client.json"
+hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -35,6 +51,58 @@ hash = "2ad60174c57a2dc6b4c0824366d846b06ad9b1f8e458d51eb6a42e4dad0a3c6b"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "200aca7e37fb0d587c3a6bb5c31117a029dd23fce993ccc0ae935e30f673e854"
+
+[[files]]
+file = "config/numismatic-overhaul.json5"
+hash = "9068896e26af4aecaff5519826cb6fcb2d3b2facf22137414b3e8dad38fccbcb"
+
+[[files]]
+file = "config/nutritionz.json5"
+hash = "36d13d67c8a970081041ed06ecc35c7d1ee4f7edde776b993208795f9ac0c5e9"
+
+[[files]]
+file = "config/options.txt"
+hash = "e4102a6033d9f81afb370e3c6398e097019458710e18a151e2199ce754955909"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "21665bc57f213396425c468da3927027d927b552fe3481c378ef0fba3c11ef71"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/LICENSE.md"
+hash = "f0b1f020c7eed350a85d50f4244322fba0e8219ab3f2216f2bb6bcaccd248625"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/circle.json"
+hash = "f229b30ccae3df5ab1a10d221d1bec6727600bd6eced2a1279c5b1ba4834b5fb"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/disc_edge.json"
+hash = "c0a0dd1f6f37357aa76979cbf268445e53c9eaa5aa77bd5c93fedfed58202536"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/density_function/overworld/temperature/delta.json"
+hash = "aea04819f385ec018486c782089c335f11192fd69711c3487e0250d2987c3347"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/noise/circle_x.json"
+hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/larion/worldgen/noise/circle_z.json"
+hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/data/minecraft/worldgen/density_function/overworld/continents.json"
+hash = "21aded1b9805e37754b8b36b742bef722878c48e3d8a2e5c7c0271612b26d559"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/pack.mcmeta"
+hash = "362e7432e7c5f9cbe385f91d87c927ce7fdbb5a96bb83c04fe2cccc083b0bf93"
+
+[[files]]
+file = "config/paxi/datapacks/LarionDisc/pack.png"
+hash = "744e6dd43b64dc55d64cf1f8fa16d075c56f5dee690e77413c99f4910dead827"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
@@ -86,7 +154,7 @@ hash = "c2e1d0ef22b3223909ae7ab56112113862f8222d40d4fc811467fc6a346f90cc"
 
 [[files]]
 file = "config/terrablender.toml"
-hash = "b6627e2f2e9d305339984ec3e3e536c0eca79b2d16bbeaf0aa5409d1f4b66474"
+hash = "e52d85fd32c8bd3c440a69bf43fcc922247723ff0fba392f9f50f34e9c0f9d09"
 
 [[files]]
 file = "config/yosbr/cameraoverhaul.toml"
@@ -142,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "86424f0b0c68d610e05f0f7f64424ada05498b14cca76091dadfa1c793c15e23"
+hash = "b65a8986fba90e0ee1fc8acdae63d16a760454425afcd8abb9edbc8301c4a96b"
 metafile = true
 
 [[files]]
@@ -202,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "2970ee00c974be198f2544205eb07e803f25bc741d0a01d20c9749a499554ef2"
+hash = "7389f658dfd586454b2c7ee2e3d72b3d3aa06e881592ed09a84a4408d802746f"
 metafile = true
 
 [[files]]
@@ -661,6 +729,11 @@ hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "bb173b06a2b7ff147a8311d55a2fdd4127fc4c0d3946b97831f4ddc59d53c83a"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
@@ -828,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/infinite-music.pw.toml"
 hash = "6e7613d3b9726eaae758e8927e56c5be6bd53f09e8a370b20bc8df3dffab47a2"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
 metafile = true
 
 [[files]]
@@ -1036,6 +1114,11 @@ hash = "704451295a9d35c3bdf83bd65f3a5e38204e9f5f08b317618da9a050636f2fb9"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "f07847cfa82a4a22d8b0421e743ddf03971e90478efff85d169fd8ebe4dad2ce"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
 hash = "c4765845d98be64444906d378e77fd34ff1572c85ff46b081aab40aa46738bc7"
 metafile = true
@@ -1217,7 +1300,7 @@ metafile = true
 
 [[files]]
 file = "mods/reacharound.pw.toml"
-hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
+hash = "ddcedb6eab7a9c1c3848fcb0d9e55a9cd0c0e111bc37572d7450e07de42aacb8"
 metafile = true
 
 [[files]]
@@ -1311,11 +1394,6 @@ hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
 metafile = true
 
 [[files]]
-file = "mods/simple-hud-enhanced.pw.toml"
-hash = "e0ec114a2db8589c24fa1d749f8423715aed725f3160b362b3e9649ff6fd3096"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "17058653782f00f2ef41bf069374ad368007726722ef8bf72aaa304836627b9d"
 metafile = true
@@ -1396,6 +1474,11 @@ hash = "3bea1a370c19a2505203244b7e6f94fbb817242fa3aa724f282245985e566978"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+metafile = true
+
+[[files]]
 file = "mods/subtle-effects.pw.toml"
 hash = "ea42c8cd33e92216bac99e999fd9d2e1e037dd1a695ed5e7e05c640fd3ee35d8"
 metafile = true
@@ -1443,6 +1526,11 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "8f192d827654b0d6ecb1afbe0d2f805adc929a67f720dce3ee88b9ffe106693f"
+metafile = true
+
+[[files]]
+file = "mods/tinkerers-smithing.pw.toml"
+hash = "7e80608eb4d7abb46a4c9ee5d193805caddec1afaf2da22ca227be990878f97d"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "Vinox"
 author = "vixeliz"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2d5c819e4a08d38a8b0742320292a2823246c2d1c69b2fb1addea16348b5c78b"
+hash = "0cdb8d7cf613afb584f3356b10474d44f69ff6684a00b1175bdb66bbf6b96818"
 
 [versions]
 fabric = "0.18.0"

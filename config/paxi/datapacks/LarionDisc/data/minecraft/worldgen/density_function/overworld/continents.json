@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:flat_cache",
+  "argument": {
+    "type": "minecraft:cache_2d",
+    "argument": {
+      "type": "minecraft:min",
+      "argument1": "larion:overworld/disc_edge",
+      "argument2": "larion:overworld/continents"
+    }
+  }
+}
