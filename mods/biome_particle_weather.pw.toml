@@ -1,6 +1,6 @@
 name = "Biome Particle Weather"
 filename = "BiomeParticleWeather-5.3.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XH09j5fH/versions/ISWQQ16Y/BiomeParticleWeather-5.3.1.jar"

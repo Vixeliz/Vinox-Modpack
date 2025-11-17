@@ -1,6 +1,6 @@
 name = "Litematica"
 filename = "litematica-fabric-1.21-0.19.59.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bEpr0Arc/versions/fLTKEEjY/litematica-fabric-1.21-0.19.59.jar"

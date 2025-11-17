@@ -1,6 +1,6 @@
 name = "Transparent"
 filename = "transparent-fabric-21.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/ePXTOplH/transparent-fabric-21.1.0.jar"

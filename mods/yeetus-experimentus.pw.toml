@@ -1,6 +1,6 @@
 name = "Yeetus Experimentus"
 filename = "yeetusexperimentus-fabric-87.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HaaH232J/versions/b7C4gGUr/yeetusexperimentus-fabric-87.0.0.jar"

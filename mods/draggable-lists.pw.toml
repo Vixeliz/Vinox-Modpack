@@ -1,6 +1,6 @@
 name = "Draggable Lists"
 filename = "draggable_lists-mc1.20.6-1.0.8-build.44.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aLcHfalx/versions/kgy0Eg0q/draggable_lists-mc1.20.6-1.0.8-build.44.jar"

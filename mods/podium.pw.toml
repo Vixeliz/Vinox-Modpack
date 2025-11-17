@@ -1,6 +1,6 @@
 name = "Podium"
 filename = "podium-fabric-1.1.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fW8woQj4/versions/YjNyuxw0/podium-fabric-1.1.0.jar"

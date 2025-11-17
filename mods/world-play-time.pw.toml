@@ -1,6 +1,6 @@
 name = "World Play Time"
 filename = "worldplaytime-1.2.2-1.21-FABRIC.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YkKeggdl/versions/xmEoikZA/worldplaytime-1.2.2-1.21-FABRIC.jar"

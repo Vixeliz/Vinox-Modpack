@@ -1,6 +1,6 @@
 name = "WaxedIcons"
 filename = "WaxedIcons-1.1+1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pC9ELBuh/versions/j3QbrNq6/WaxedIcons-1.1%2B1.21.jar"

@@ -1,6 +1,6 @@
 name = "Cursors Extended"
 filename = "minecraft-cursor-fabric-3.11.1+1.21.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/8Wnbpoyg/minecraft-cursor-fabric-3.11.1%2B1.21.1.jar"
