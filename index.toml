@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "ca03f3d49a4b330ce431a9bfa4aa6b9ef879fd2983d944e9c3a81752ca258887"
+hash = "96cd3b0e31097bc485d79ec99e4adaa3c7087f7696da520a2343392d6036b440"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
-hash = "9c19d98d506afb126972e894249db28bd404540146d45db2e66a1c20aaf9fed3"
+hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
+hash = "ee83db4df7a7330b9c9eecf16a8216088d8cd1e1e66d77ac2fc73fb0e003b1d4"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
+hash = "c278de82141d77330c2ef242d9323370f2ef5a2d5cd92a0ede78b16bd19b623b"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemlocks.pw.toml"
-hash = "626475f25f6b1cab055a980c1d69ece6619140afaf085f82f98b38f3a632d102"
+hash = "fef1638b36451927e90f21b865eb8ac0dbef76cace062e68fc94594b9597babe"
 metafile = true
 
 [[files]]

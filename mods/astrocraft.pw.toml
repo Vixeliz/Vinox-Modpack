@@ -1,6 +1,6 @@
 name = "Astrocraft"
 filename = "astrocraft-1.5.1+1.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DCWEXia7/versions/vwpsBb3h/astrocraft-1.5.1%2B1.21.jar"
