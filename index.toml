@@ -904,6 +904,11 @@ hash = "4342bb0ab9e6531f8e41ab10b119f22df3eb0ea777d7e3bc6d768bd75aea025c"
 metafile = true
 
 [[files]]
+file = "mods/inventory-tabs.pw.toml"
+hash = "9129ed24edcd489cb9370b9417d5f5ca6563c1d63f1ec7157ee7ef7b379ed296"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "4a9a93b466be8018cd69a62275ffde60d4cab5b080ab2ee3e98c5a3861892fd0"
 metafile = true
@@ -966,11 +971,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
-metafile = true
-
-[[files]]
-file = "mods/labels.pw.toml"
-hash = "a1905763f6120a084eb348dbd512deb8eb6fb18cb5635db094937483dbc4eea0"
 metafile = true
 
 [[files]]
@@ -1061,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "c9d5144709687e4bc27489fafe94d8cedf42932b60469fb2153e5144322d68b8"
-metafile = true
-
-[[files]]
-file = "mods/mighty-mail.pw.toml"
-hash = "be23f8e39be6368729dc085d3443c8739092ad42df2740dca396b3914733c74c"
 metafile = true
 
 [[files]]
