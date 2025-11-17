@@ -1544,6 +1544,11 @@ hash = "7e80608eb4d7abb46a4c9ee5d193805caddec1afaf2da22ca227be990878f97d"
 metafile = true
 
 [[files]]
+file = "mods/tinkerers-statures.pw.toml"
+hash = "b8e608baeb2b467e4d249d228e9bbfe1ef6d936fee395e9bcd927129982836eb"
+metafile = true
+
+[[files]]
 file = "mods/too-fast.pw.toml"
 hash = "b44e89cd6be4251903a0b128b0c49bb3dc5869159fe5ef273f441a0082ebe9fd"
 metafile = true
