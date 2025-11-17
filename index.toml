@@ -904,11 +904,6 @@ hash = "4342bb0ab9e6531f8e41ab10b119f22df3eb0ea777d7e3bc6d768bd75aea025c"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "c278de82141d77330c2ef242d9323370f2ef5a2d5cd92a0ede78b16bd19b623b"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "4a9a93b466be8018cd69a62275ffde60d4cab5b080ab2ee3e98c5a3861892fd0"
 metafile = true
@@ -1511,6 +1506,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "818f8ae3f3fd70801f387771eeeba216fa19b850f167154b1aed1f37cd91a8f8"
 metafile = true
 
 [[files]]
