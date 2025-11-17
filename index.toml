@@ -599,6 +599,11 @@ hash = "50de1919e6cc3104a4a2557b0644c15f5a56722cf76a19b194ec6ecf61bcae13"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
+metafile = true
+
+[[files]]
 file = "mods/dusty-decorations.pw.toml"
 hash = "f58116359b3450edbaa8086bfb2cddeb8e6ea106e9390f686c35ca4f82f9b750"
 metafile = true
@@ -766,11 +771,6 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "c000a1bb7a7a3381cadc48a5241fe57a397496aad5730f8168b1c4263bb5d1c9"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
 metafile = true
 
 [[files]]
@@ -1189,6 +1189,11 @@ hash = "9048d3db67387046e4b1894ea5e1e0f79e47e01b655b2080dad23fb6f903c82a"
 metafile = true
 
 [[files]]
+file = "mods/origins-minus.pw.toml"
+hash = "6a5f9b7873f746dad952a7db619f7f346a5e17340148808cdec4cf0fa6848c46"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
 metafile = true
@@ -1506,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "818f8ae3f3fd70801f387771eeeba216fa19b850f167154b1aed1f37cd91a8f8"
 metafile = true
 
 [[files]]
