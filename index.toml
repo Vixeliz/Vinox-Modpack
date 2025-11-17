@@ -1104,11 +1104,6 @@ hash = "b3eced2c57106aeed0ad2a21e58b8fec4b9e13b8a7cb3001bcee1b9b3e17ab8e"
 metafile = true
 
 [[files]]
-file = "mods/notenoughrecipebook.pw.toml"
-hash = "f9b8cafb97de16ca9562a9f44ba53d8db533a4cd6e1a63d3aac200e1e24d06a6"
-metafile = true
-
-[[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "aa5b096a61d12f65d50fafed10bfae182cba84143de3968b202c8d1ee3eefc69"
 metafile = true
