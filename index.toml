@@ -1514,11 +1514,6 @@ hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
-file = "mods/switchy.pw.toml"
-hash = "818f8ae3f3fd70801f387771eeeba216fa19b850f167154b1aed1f37cd91a8f8"
-metafile = true
-
-[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
