@@ -25,6 +25,18 @@ file = "config/effective.json"
 hash = "bd06885e6afaf3375cda3ed8982131460389265c8768d226e91ab4ab373ab1e3"
 
 [[files]]
+file = "config/emi.css"
+hash = "86f89bf4d54e130ea96f838625495e434310b6b1d15786281095c7a48b60a26c"
+
+[[files]]
+file = "config/emi_loot_config.toml"
+hash = "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c"
+
+[[files]]
+file = "config/emi_ores-client.json"
+hash = "1efbbe3d2bcae8b53d5d61596960703c047e9902a96eb46cf5214aeb68f093b6"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "0575538edf74a9ebd4d659047e79a73c08a23bcc35017eb9a1d2c0945e91c908"
 
@@ -1449,6 +1461,11 @@ hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
+file = "mods/switchy.pw.toml"
+hash = "818f8ae3f3fd70801f387771eeeba216fa19b850f167154b1aed1f37cd91a8f8"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
@@ -1470,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-smithing.pw.toml"
-hash = "7e80608eb4d7abb46a4c9ee5d193805caddec1afaf2da22ca227be990878f97d"
+hash = "7b7b796a2b6bd59d51f26352c1fcf85741b72709398f6ce4ed2c0f21a3ccd385"
 metafile = true
 
 [[files]]
