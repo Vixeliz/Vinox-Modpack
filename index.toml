@@ -1271,6 +1271,11 @@ hash = "a2b58087b311c57f576d089591b31827e5ae250cd91f66f4213a02f55f9d686d"
 metafile = true
 
 [[files]]
+file = "mods/resolution-control-plus-plus.pw.toml"
+hash = "0ef61c17d3f6328819efe73fcc67d2a0308646c51ebf6ada4e7264d138e85f8d"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
 metafile = true
