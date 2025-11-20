@@ -1346,11 +1346,6 @@ hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
 metafile = true
 
 [[files]]
-file = "mods/simple-smithing-overhaul.pw.toml"
-hash = "6d14eef8d088e880cc85a8c7740ac7c88dd4108c48c7ef23e6daa0f7c11ac84c"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "17058653782f00f2ef41bf069374ad368007726722ef8bf72aaa304836627b9d"
 metafile = true
