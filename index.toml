@@ -146,50 +146,6 @@ file = "jars/Larion-disc-world-1.7.0.jar"
 hash = "5ac4d8269208f3d801b68968270804e82661195f504c3c462b3102ce36058e8f"
 
 [[files]]
-file = "jars/Larion-disc-world-1.7.0.zip"
-hash = "7940db6d86961a28d4cc4611272fb7d6554de5ac9ed59a867c2bce73bc4d5caf"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/LICENSE.md"
-hash = "f0b1f020c7eed350a85d50f4244322fba0e8219ab3f2216f2bb6bcaccd248625"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/larion/worldgen/density_function/overworld/circle.json"
-hash = "f229b30ccae3df5ab1a10d221d1bec6727600bd6eced2a1279c5b1ba4834b5fb"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/larion/worldgen/density_function/overworld/disc_edge.json"
-hash = "c0a0dd1f6f37357aa76979cbf268445e53c9eaa5aa77bd5c93fedfed58202536"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/larion/worldgen/density_function/overworld/temperature/delta.json"
-hash = "aea04819f385ec018486c782089c335f11192fd69711c3487e0250d2987c3347"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/larion/worldgen/noise/circle_x.json"
-hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/larion/worldgen/noise/circle_z.json"
-hash = "b9a66e785a510bb1a5f7b0ae0c538ad602bd530135a5fb017c5448cab5ab6dd6"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/data/minecraft/worldgen/density_function/overworld/continents.json"
-hash = "21aded1b9805e37754b8b36b742bef722878c48e3d8a2e5c7c0271612b26d559"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/fabric.mod.json"
-hash = "d3c0413681f3c29bf7e814976aa93ce9cf22380edb0c8e39a05fcd28d27dd8d3"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/pack.mcmeta"
-hash = "362e7432e7c5f9cbe385f91d87c927ce7fdbb5a96bb83c04fe2cccc083b0bf93"
-
-[[files]]
-file = "jars/Larion-disc-world-1.7.0/pack.png"
-hash = "744e6dd43b64dc55d64cf1f8fa16d075c56f5dee690e77413c99f4910dead827"
-
-[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
