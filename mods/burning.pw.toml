@@ -1,0 +1,13 @@
+name = "Burning"
+filename = "burning-1.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZV7EZ2D/versions/z0D0HOQ5/burning-1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "ec49c929a6a2a3bdd1216beb2b4b74b105f89fcb3bc630ae661f4c7066f15b76d5ea693afb2719f6836b7c1f8de5da7a1368c4d91cfac833152c960df8984cbe"
+
+[update]
+[update.modrinth]
+mod-id = "DZV7EZ2D"
+version = "z0D0HOQ5"

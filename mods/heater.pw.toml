@@ -1,0 +1,13 @@
+name = "Heater"
+filename = "heater-4.0.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g3jBz897/versions/vKH9YHSS/heater-4.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "975bd838530e96eedba906fb57392ce89a783e6db4042700e6a0bddf80c61256ffe00832aa5e30375f0ceb0ef30f3e32ab1731b6763ebc6abe7f794e35d90382"
+
+[update]
+[update.modrinth]
+mod-id = "g3jBz897"
+version = "vKH9YHSS"

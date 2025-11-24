@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "RETEXTURES.md"
+hash = "6125c39679e508bdc648664577db561430c7c8fc5693e5080f0b457845a64c03"
+
+[[files]]
 file = "TODO.md"
-hash = "a9c8c0eb0fb1688d3fb3b19be4fca5e334798cd799f5bbb867ae1ed2e480e0d2"
+hash = "6ee7ddf17980f4ed804d9b211cf8c8f6cba7f42edd75a77543c4cefcb9283ca2"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -66,7 +70,7 @@ hash = "6e3ef6c112b8217972112ac261826e4b4bee2cf9136feb68dc397155f5d6fa32"
 
 [[files]]
 file = "config/structurify.json"
-hash = "914cfdb540085471b61f302fbaccca825b4ed734005faf4c6d9e02967d3bb407"
+hash = "a6cd4fd263c004832a6d4c996a08f810615e43a96509bc90493ea021258e98b0"
 
 [[files]]
 file = "config/structurify/structurify_backup_2025-11-09_16-17-01.json"
@@ -79,6 +83,10 @@ hash = "f248ad813459f05a5e95a248990abda24934dd7aa086e22e37b2fd2dd303ff12"
 [[files]]
 file = "config/structurify/structurify_backup_2025-11-11_12-18-14.json"
 hash = "647097919b202f97219b7b21880be16b4bf86aa4dd0d1f5d6dae8960313d0450"
+
+[[files]]
+file = "config/structurify/structurify_backup_2025-11-24_10-58-23.json"
+hash = "914cfdb540085471b61f302fbaccca825b4ed734005faf4c6d9e02967d3bb407"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -351,6 +359,16 @@ hash = "5f32244bbf7f4864d6570bde7f7223655f52d5df455e7b9fe650b10dee42f830"
 metafile = true
 
 [[files]]
+file = "mods/breakerplacer.pw.toml"
+hash = "a4695100ca0d6525dca30f4cbea5c0e6744f76d6ac8009124f6fa96ad091dd19"
+metafile = true
+
+[[files]]
+file = "mods/burning.pw.toml"
+hash = "1763207e628dd2d86f0f5370e55430af34254f3dbb5c1764eef2445641aa1940"
+metafile = true
+
+[[files]]
 file = "mods/bushier-flowers.pw.toml"
 hash = "537f2d2618b32590c75a6bf01040216776abbd9361e2bf6dc4283b491bbdbd51"
 metafile = true
@@ -483,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/coolrain.pw.toml"
 hash = "d21038ff74cc6f4b4b9682539f33b882b4423a55da3c79f40ce129818ad837c0"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "5fa8498bbd99edca2b682a2dbf9a7526a150ab40c55001eb9550396efe1d4e38"
 metafile = true
 
 [[files]]
@@ -796,6 +819,11 @@ hash = "9d6602ad9b9e707f52a4efd1a1c05719e11c8f45af6d1f0e90bf4794d9a1a232"
 metafile = true
 
 [[files]]
+file = "mods/heater.pw.toml"
+hash = "d8f3d3dab18b4345ed8a5cf35034d897ae7448424821c994e9ad754e0e1d42cb"
+metafile = true
+
+[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "2ae51f2cd1ba919930db04fb82afb36c05ab3cd7826be5956d28c9d5d1238231"
 metafile = true
@@ -833,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "0a5b03c7ebac217b8f5dc6314039a7338fd786b63146621996632acd9d8dbc8e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "fde30f80873f4789e0b19153202b6f61ed6f13cd79c2e99682528c77ccb7aac6"
 metafile = true
 
 [[files]]
@@ -1011,11 +1044,6 @@ hash = "114f57ad1875c16cd7d9b9cf850025f40e1b008f0865f3e5783da8cfc128b291"
 metafile = true
 
 [[files]]
-file = "mods/merchant-markers.pw.toml"
-hash = "f5bd116a428e034f2451640e406b8014442b4c246b03739e441957df767ef3d7"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "c9d5144709687e4bc27489fafe94d8cedf42932b60469fb2153e5144322d68b8"
 metafile = true
@@ -1151,11 +1179,6 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
-file = "mods/oxidized.pw.toml"
-hash = "eff58c99532b7db9149066d636166e8d498b9242f411173d3632a671b102effe"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "4735b502110228fe33b9a957794689f309e3a7019fff26390a10f750d074ed32"
 metafile = true
@@ -1266,8 +1289,8 @@ hash = "ae132a0f31122d5269eb2dc9d9f303bc152b3c385fd541ff01654e9807c5ecea"
 metafile = true
 
 [[files]]
-file = "mods/reciperemover.pw.toml"
-hash = "a2b58087b311c57f576d089591b31827e5ae250cd91f66f4213a02f55f9d686d"
+file = "mods/redstonepen.pw.toml"
+hash = "18753527f393c51d6296b4fd4a3b3a8bfa698b592bc47898551968d6f682e395"
 metafile = true
 
 [[files]]
@@ -1343,6 +1366,11 @@ metafile = true
 [[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "391cfcaddc727aca042186688aaa41bafa1666527a36499715e357432304bcf0"
 metafile = true
 
 [[files]]
@@ -1463,6 +1491,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "e4078fb16df198810ab57213d6f29ac337bf82226a25ff957240b989768836fa"
 metafile = true
 
 [[files]]
@@ -1653,9 +1686,4 @@ metafile = true
 [[files]]
 file = "mods/yyzs-backpack.pw.toml"
 hash = "2e533e022f06045e785793993830e6d7221ca1b88839e4476bd61800b1576842"
-metafile = true
-
-[[files]]
-file = "mods/zipline.pw.toml"
-hash = "c5fc88bdd6b5aa32ec8ffe7f4cc8f644589ee811e01ae0043fdec76ec2aafbe0"
 metafile = true

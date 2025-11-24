@@ -1,12 +1,12 @@
-See if smooth scrolling is shit
+disable otters
 
-Make sure camera overhaul doesn't feel like shit
+Make sure graves work with keep some inv
 
+Adjust prices for more villagers
 
-disable shit otters
+remove non lore world building stuff
 
-Make sure fucking shitty graves work with keep some inv
+Make a list of things kept in for texturing and recipe adjustment,
+have priorites for said list
 
-Make sure climate rivers work with biome mods
-
-disable copper rails from oxidized
+Disable ribbits entities and villages
