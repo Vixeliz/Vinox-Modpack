@@ -154,6 +154,10 @@ file = "jars/Larion-disc-world-1.7.0.jar"
 hash = "5ac4d8269208f3d801b68968270804e82661195f504c3c462b3102ce36058e8f"
 
 [[files]]
+file = "jars/alphaskins-1.21-1.0.0.jar"
+hash = "996a0e8cbac05936cf25fcf6fae12a32f9694a80dfa76285f29d42854d515dd7"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "711a6cfc83cf149303b67b2d1e080d1ae4c6373cff928a2b96547f89f2fb9a7b"
 metafile = true
@@ -185,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/alphaskins.pw.toml"
-hash = "c41be33e5d72b309b81603621a5d4fac0102a964c2872f09d127b084888e2a1a"
+hash = "c60aa2cb24296ed0bcb69b370f37b9acceace7bd95f90641637493dd345da35c"
 metafile = true
 
 [[files]]
