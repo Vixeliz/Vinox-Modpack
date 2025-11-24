@@ -184,6 +184,11 @@ hash = "b4dd3b4217e0cf479207818b743a38f0566faa947e7b7d0b13c91e1a79d35e3c"
 metafile = true
 
 [[files]]
+file = "mods/alphaskins.pw.toml"
+hash = "c41be33e5d72b309b81603621a5d4fac0102a964c2872f09d127b084888e2a1a"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
 metafile = true
@@ -791,11 +796,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "43419651a1c8ee71281ce6d607fba199f0e87ba41f9725caa65b4dab2e589d49"
-metafile = true
-
-[[files]]
-file = "mods/gliders.pw.toml"
-hash = "00c297ac149ba938cd102ce2ec50939b9bf8c64c68fe6f3b7bc9f1f168d489de"
 metafile = true
 
 [[files]]
