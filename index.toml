@@ -145,6 +145,22 @@ file = "config/yosbr/options.txt"
 hash = "e4102a6033d9f81afb370e3c6398e097019458710e18a151e2199ce754955909"
 
 [[files]]
+file = "global_packs/required_data/switchy_fix/data/origins/switchy_components/origin.json"
+hash = "f8df874175cb8de136c8eaa11f50c97de70f3e0274b1c051bd1147afd21a54fc"
+
+[[files]]
+file = "global_packs/required_data/switchy_fix/data/origins/switchy_components/powers.json"
+hash = "e1dec5329c2a73718913e4e9e997bcc912bc50f6b6054f0f2846d013c774445f"
+
+[[files]]
+file = "global_packs/required_data/switchy_fix/data/trinkets/switchy_components/accessories.json"
+hash = "6795ade9fdfcde21c7b873201689825f36495fd15ad72e7c53fa8d047ba47d51"
+
+[[files]]
+file = "global_packs/required_data/switchy_fix/pack.mcmeta"
+hash = "3e5e46ac9d3252bfda3b6faaa2b84340b6d8073e7d057197b05621061ffa8d71"
+
+[[files]]
 file = "global_packs/required_data/treeplacer-for-wwoo-datapack.pw.toml"
 hash = "b26785666ff2756aa34276b55836b47dc761a5cda440c0dcce113100381a646d"
 metafile = true
@@ -394,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
+hash = "0c345c80310a4bd58c757e43d6060338a85d34eaffcb674a6e9cbf22ecbc9cb8"
 metafile = true
 
 [[files]]
