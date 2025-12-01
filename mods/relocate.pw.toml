@@ -1,0 +1,13 @@
+name = "Re-Locate"
+filename = "relocate-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7wwdCOX8/versions/zT3QmLHw/relocate-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "5bba0d72b7a004d8f63c19d54e1cc244e20062036d10848aa2ddc2e1a80444c78874e0839f10ebcd28ddd104ea73089f9f05f0879bcfb5e1084365602cd9c5fa"
+
+[update]
+[update.modrinth]
+mod-id = "7wwdCOX8"
+version = "zT3QmLHw"

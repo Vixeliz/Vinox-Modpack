@@ -1,0 +1,13 @@
+name = "AlphaSkins"
+filename = "alphaskins-1.21-4.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pkdHZGfL/versions/jn8blIvT/alphaskins-1.21-4.0.0.jar"
+hash-format = "sha512"
+hash = "c3495934ee56209e333c62b2647b3bd7603185333583a82746e39badb3ab750d6e91a20ad0528a77639b21f2408febf8ff6245356449d94d12c4e05ad8e03e54"
+
+[update]
+[update.modrinth]
+mod-id = "pkdHZGfL"
+version = "jn8blIvT"

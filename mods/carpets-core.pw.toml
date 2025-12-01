@@ -1,0 +1,13 @@
+name = "Carpets Core"
+filename = "carpetscore-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjKKrGsM/versions/daYgrZ9c/carpetscore-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "9fafa11aef53e2c928f40e0bf294d4783e99fca515a1ca22c6f5db3dd27cccdcaa8d5a7dd760efabc6d432a12528ea59841e7ccb853d1fffa13ca76af727cffb"
+
+[update]
+[update.modrinth]
+mod-id = "cjKKrGsM"
+version = "daYgrZ9c"

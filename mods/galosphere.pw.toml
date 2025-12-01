@@ -1,0 +1,13 @@
+name = "Galosphere"
+filename = "Galosphere-1.21.1-1.5.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kn7xyQ1v/versions/xpUUhngR/Galosphere-1.21.1-1.5.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "d98f429f63db8e1450b84843c04faace7f79d23539d3ce90b70871b6fc0d2ef3fd807a480f5bbe28cace7626034ce39dd09bf6e16caa1aff802eb6e4c1aa1d8e"
+
+[update]
+[update.modrinth]
+mod-id = "Kn7xyQ1v"
+version = "xpUUhngR"

@@ -1,0 +1,13 @@
+name = "More Furnaces Variants"
+filename = "MoreFurnaceVariants-1.0.4+1.21-Neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aFKTqsnr/versions/tu1eUSyX/MoreFurnaceVariants-1.0.4%2B1.21-Neo.jar"
+hash-format = "sha512"
+hash = "d75cafd5e5cec6d14505b2ac74a85ccd405ad87f38db8d62e1918a5a0121e0e1cbbc2305d0d55d3986f8fb3e27fd069538d1943dc698a6673dae0dda4df45307"
+
+[update]
+[update.modrinth]
+mod-id = "aFKTqsnr"
+version = "tu1eUSyX"

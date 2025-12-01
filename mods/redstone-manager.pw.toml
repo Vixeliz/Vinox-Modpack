@@ -1,0 +1,13 @@
+name = "Redstone Manager"
+filename = "redstonemanager-neoforge_1.21.1-0.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3JbrEChL/versions/IY1pRfu4/redstonemanager-neoforge_1.21.1-0.0.8.jar"
+hash-format = "sha512"
+hash = "3f00d85c30f23c0c9746b0edb7bd45f75f8727e5a388f8f8cf928ed338a600031327e4bf17180d28e621654c7ed804de96cff5791998b7e786e22aa8195c3436"
+
+[update]
+[update.modrinth]
+mod-id = "3JbrEChL"
+version = "IY1pRfu4"

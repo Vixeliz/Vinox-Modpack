@@ -1,0 +1,13 @@
+name = "Redstone: Recharged"
+filename = "recharged-0.3.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HN8aDuoL/versions/t07trxtc/recharged-0.3.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "53577cc93efc15c090df3016c4948fe8702dbfdc1f8605ea77a71652004368bb880d00fb2b4eacacf3f16d11d3380fecd7978a98371bae3edcc5ff6edaae4082"
+
+[update]
+[update.modrinth]
+mod-id = "HN8aDuoL"
+version = "t07trxtc"

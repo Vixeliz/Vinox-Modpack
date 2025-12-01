@@ -1,0 +1,60 @@
+{
+  "type": "minecraft:add",
+  "argument1": 1.0,
+  "argument2": {
+    "type": "minecraft:mul",
+    "argument1": -1.0,
+    "argument2": {
+      "type": "larion:sqrt",
+      "argument": {
+        "type": "minecraft:add",
+        "argument1": {
+          "type": "minecraft:square",
+          "argument": {
+            "type": "minecraft:mul",
+            "argument1": {
+              "type": "minecraft:add",
+              "argument1": {
+                "type": "larion:x"
+              },
+              "argument2": {
+                "type": "minecraft:mul",
+                "argument1": 600,
+                "argument2": {
+                  "type": "minecraft:noise",
+                  "noise": "larion:circle_x",
+                  "xz_scale": 0.35,
+                  "y_scale": 0.0
+                }
+              }
+            },
+            "argument2": 0.00006666666
+          }
+        },
+        "argument2": {
+          "type": "minecraft:square",
+          "argument": {
+            "type": "minecraft:mul",
+            "argument1": {
+              "type": "minecraft:add",
+              "argument1": {
+                "type": "larion:z"
+              },
+              "argument2": {
+                "type": "minecraft:mul",
+                "argument1": 600,
+                "argument2": {
+                  "type": "minecraft:noise",
+                  "noise": "larion:circle_z",
+                  "xz_scale": 0.35,
+                  "y_scale": 0.0
+                }
+              }
+            },
+            "argument2": 0.00006666666
+          }
+        }
+      }
+    }
+  }
+}

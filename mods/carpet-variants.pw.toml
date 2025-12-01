@@ -1,0 +1,13 @@
+name = "Carpet Variants"
+filename = "carpetvariants-neoforge-1.21.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GOhfXKze/versions/zVUdwWW0/carpetvariants-neoforge-1.21.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "0200d37e88ef70ef0d2de0c8a307a07eb18b3b616b0682e4f75004053576765e208369f07d4aab31d27990ffe4656ed445096e6ee9624d987cad9e271b0515b5"
+
+[update]
+[update.modrinth]
+mod-id = "GOhfXKze"
+version = "zVUdwWW0"

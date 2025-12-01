@@ -1,0 +1,13 @@
+name = "Cattlestrophic!"
+filename = "cattlestrophic-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xbg5Ic9n/versions/BK5PJw0I/cattlestrophic-1.3.0.jar"
+hash-format = "sha512"
+hash = "477016d5698c74e7b5b206dc77d9fd4b78fa83ba93dba5ef971ba1776b95fd58762aca93d6dad6c017d62d47a393ce697ab11e2de2c250f7659046eb18f15650"
+
+[update]
+[update.modrinth]
+mod-id = "xbg5Ic9n"
+version = "BK5PJw0I"

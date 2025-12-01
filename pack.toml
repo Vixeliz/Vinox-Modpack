@@ -1,0 +1,16 @@
+name = "Vinox"
+author = "vixeliz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a49fb76a301a32eea7192313b3285c4d723160a1828adb8cdd3df1384eee5de3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.215"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

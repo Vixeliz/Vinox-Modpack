@@ -1,0 +1,13 @@
+name = "Bountiful Fares"
+filename = "bountifulfares-neoforge-1.21.1-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YgrSDjlb/versions/E1HCwB0U/bountifulfares-neoforge-1.21.1-3.0.3.jar"
+hash-format = "sha512"
+hash = "f6e58b913bb7acf86471f1e150c9a737c9201e9c1664fff7ad41d10b63ab6e6ad2b1f3619db28dc929dfeabdde485470abaaa75e480d25a437a89362aef8f7e4"
+
+[update]
+[update.modrinth]
+mod-id = "YgrSDjlb"
+version = "E1HCwB0U"

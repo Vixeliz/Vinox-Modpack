@@ -1,0 +1,13 @@
+name = "Alloy Smelter"
+filename = "alloy_smelter-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qq5kJ7f2/versions/PaCaqUwq/alloy_smelter-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "7d92063cfc7f0593e210396ac12d352e804915890c5da27c485e64c33aa09ff5f21006a49b19f3365b1e9b5ea83bc10ca4ef19937fe9b737ac4b0e9744c947a2"
+
+[update]
+[update.modrinth]
+mod-id = "qq5kJ7f2"
+version = "PaCaqUwq"

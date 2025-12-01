@@ -1,0 +1,13 @@
+name = "Difficulty Lock"
+filename = "difficultylock-1.21.1-4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9yvZtixz/versions/ODcut4On/difficultylock-1.21.1-4.7.jar"
+hash-format = "sha512"
+hash = "553115932f79b5c8b61aba26935b501d4fa986820055624f9c218236d388d3c1dd69cbb75b8b52046961422b3c2fd58c682fc76ee3fa2c0094809fdefbc5f6cb"
+
+[update]
+[update.modrinth]
+mod-id = "9yvZtixz"
+version = "ODcut4On"

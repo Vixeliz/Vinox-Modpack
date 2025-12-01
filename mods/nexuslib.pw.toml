@@ -1,0 +1,13 @@
+name = "NexusLib"
+filename = "nexuslib-neoforge-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bgDhVmqz/versions/8Lat9f6w/nexuslib-neoforge-1.21.1-1.1.2.jar"
+hash-format = "sha512"
+hash = "0570d0c59d333c21b636271b1e4989af1ee08990ce659aaf750f4882ebbd0776c2435b5f38236c2f0ef8476cf6ab9fb89cecea578a6451cc57923da505b68baa"
+
+[update]
+[update.modrinth]
+mod-id = "bgDhVmqz"
+version = "8Lat9f6w"

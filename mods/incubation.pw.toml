@@ -1,0 +1,13 @@
+name = "Incubation"
+filename = "incubation-1.21.1-5.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4Xrv60A/versions/yLoiGzH1/incubation-1.21.1-5.0.1.jar"
+hash-format = "sha512"
+hash = "68c7739924c7341fe0634e0560bcd659345ed2b93b5224082c60a6d83923f2e0fa46fda157c9ec49dcedb03618d14cb577130f99a2076e143b6b025ef96aa9d6"
+
+[update]
+[update.modrinth]
+mod-id = "A4Xrv60A"
+version = "yLoiGzH1"

@@ -1,0 +1,13 @@
+name = "Make Critters and Companions Barely Spawn"
+filename = "Make Critters and Companions Barely Spawn.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UvfZXCe2/versions/kaU8PSQN/Make%20Critters%20and%20Companions%20Barely%20Spawn.zip"
+hash-format = "sha512"
+hash = "00f07e700d9b534705cac1c723fcca45f58a947688354193b4b7ebad751d51f7104c35889e2e76e964f7e3635c36cc48e7930ae46c860c3771b5d8488e33aed1"
+
+[update]
+[update.modrinth]
+mod-id = "UvfZXCe2"
+version = "kaU8PSQN"
