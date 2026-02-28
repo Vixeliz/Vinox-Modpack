@@ -1,0 +1,13 @@
+name = "Whimscape X Detail Armor Bar"
+filename = "Whimscape X Detail Armor Bar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eQR9E6jC/versions/fVZbIIbY/Whimscape%20X%20Detail%20Armor%20Bar.zip"
+hash-format = "sha512"
+hash = "51adada2edcaceb0a961358154d31ea909f1411bb9cb6aaa524799ee08937e025687a6ea348290aadafdb880417535f1c8311c0c50f4ad66933ec51952fe325b"
+
+[update]
+[update.modrinth]
+mod-id = "eQR9E6jC"
+version = "fVZbIIbY"

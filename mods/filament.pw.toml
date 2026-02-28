@@ -1,0 +1,13 @@
+name = "filament"
+filename = "filament-1.3.22-patch1+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yANxwqSX/versions/LPpVgWGY/filament-1.3.22-patch1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "7dd256e33bd72cff1b9aad4d00a5c2e733b58c8ce1ed21d77f20087536b57404622458b9d992662ae244399e18a4bbf64095ea58e99cc4884488be74881c26a1"
+
+[update]
+[update.modrinth]
+mod-id = "yANxwqSX"
+version = "LPpVgWGY"

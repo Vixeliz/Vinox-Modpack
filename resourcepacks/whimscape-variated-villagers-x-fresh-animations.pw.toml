@@ -1,0 +1,13 @@
+name = "Whimscape Variated Villagers x Fresh Animations"
+filename = "Whimscape Variated Villagers [FA].zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Gc9TVHJW/versions/zVwKEu3w/Whimscape%20Variated%20Villagers%20%5BFA%5D.zip"
+hash-format = "sha512"
+hash = "aaf1355f0a89f4d1680ff60565001dee54ef879ec31fc57a01872695131379e4997848e4f00dcb90ff195fc3f3c0bfdb9d009d94f38a20c6cd01c0201cfa2275"
+
+[update]
+[update.modrinth]
+mod-id = "Gc9TVHJW"
+version = "zVwKEu3w"

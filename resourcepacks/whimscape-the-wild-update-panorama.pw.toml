@@ -1,0 +1,13 @@
+name = "Whimscape 1.19 Panorama"
+filename = "§2The Wild Update §F- Whimscape Panorama.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cqu9svrZ/versions/wUT6WImX/%C2%A72The%20Wild%20Update%20%C2%A7F-%20Whimscape%20Panorama.zip"
+hash-format = "sha512"
+hash = "ba9e2aef431b8af4b28f9231ada151baabfd615a90d34ef898b6bda5d09508bd749a47770cb2e7bde082475bdca821822d349c5e894654a1048eb14d2d68537f"
+
+[update]
+[update.modrinth]
+mod-id = "cqu9svrZ"
+version = "wUT6WImX"

@@ -1,0 +1,13 @@
+name = "Auto Droppers"
+filename = "auto-droppers-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UM8OT6ze/versions/M14aeto7/auto-droppers-1.0.5.jar"
+hash-format = "sha512"
+hash = "72546b3667b5a6c595758aa6a6c8a2a7e25c519fd5b8d095bfb3afaa82421e89463923fe7185749a4e0c857707156db83407475f4f5ca83b7036cecefb928292"
+
+[update]
+[update.modrinth]
+mod-id = "UM8OT6ze"
+version = "M14aeto7"

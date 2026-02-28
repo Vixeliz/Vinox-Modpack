@@ -1,0 +1,13 @@
+name = "HopperSleeper"
+filename = "hopper_sleeper-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KT6Zwh1j/versions/wxwR3Tsu/hopper_sleeper-1.0.jar"
+hash-format = "sha512"
+hash = "54167cb7f713c3cb9ec0d43e1eee85c02afd4cf5c652f7b103770f39d6084360d4e2a74c233569fffa892578f733080ea81b6a7ca22fe8ac1dba1199c5bc2bbe"
+
+[update]
+[update.modrinth]
+mod-id = "KT6Zwh1j"
+version = "wxwR3Tsu"

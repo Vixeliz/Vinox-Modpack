@@ -1,0 +1,45 @@
+{
+    configVersion = 3,
+    blacklisted_items = [
+        "botania:manasteel_pick",
+        "botania:manasteel_shovel",
+        "botania:manasteel_axe",
+        "botania:manasteel_hoe",
+        "botania:manasteel_sword",
+        "botania:manasteel_shears",
+        "botania:elementium_pick",
+        "botania:elementium_shovel",
+        "botania:elementium_axe",
+        "botania:elementium_hoe",
+        "botania:elementium_sword",
+        "botania:elementium_shears",
+        "botania:terra_pick",
+        "botania:terra_axe",
+        "botania:terra_sword",
+        "botania:starcaller",
+        "botania:thundercaller",
+        "botania:livingwood_bow",
+        "botania:crystal_bow",
+        "botania:glass_pickaxe",
+        "botania:mana_gun",
+        "botania:thorn_chakram",
+        "botania:flare_chakram",
+        "botania:gaia_pylon",
+        "hoppergadgetry:duct",
+        "botanicadds:mana_stealer_sword"
+    ],
+    blacklisted_component_data = [
+        
+    ],
+    debug_print_components = false,
+    only_disable_interactions = [
+        
+    ],
+    only_disable_attacks = [
+        
+    ],
+    only_disable_recipes = [
+        
+    ],
+    use_hashmap_optimizations = false
+}

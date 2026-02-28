@@ -1,0 +1,13 @@
+name = "Whimscape"
+filename = "Whimscape_1.20.2-1.21.11_r2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4YkvO5Rp/versions/zKVuQo3L/Whimscape_1.20.2-1.21.11_r2.zip"
+hash-format = "sha512"
+hash = "919afa15f3bb409b67e4fc77e5e48042d87ed74c50de80079171780340d8ed689bf972a00661870b433308f72c592277694ff2142ed75cb69a40c916b7068818"
+
+[update]
+[update.modrinth]
+mod-id = "4YkvO5Rp"
+version = "zKVuQo3L"

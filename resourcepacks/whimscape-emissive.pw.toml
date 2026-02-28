@@ -1,0 +1,13 @@
+name = "Whimscape Emissive"
+filename = "WhimScape Emissive Path 1.20.2-1.21.11.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cdYOSKc9/versions/lm4mUhB0/WhimScape%20Emissive%20Path%201.20.2-1.21.11.zip"
+hash-format = "sha512"
+hash = "c534b81115aecacb7712a6d97ade17859224963777073988981a95662927cd8fcd8d0032757ca29b9b5c0598de5be297596d6ba2de44feaf886cf41ca83c7139"
+
+[update]
+[update.modrinth]
+mod-id = "cdYOSKc9"
+version = "lm4mUhB0"

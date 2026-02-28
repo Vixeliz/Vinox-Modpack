@@ -1,0 +1,13 @@
+name = "Dispenser Configurator"
+filename = "dispenser-configurator-1.3.5+MC1.21-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bvpj25p/versions/5nqws1q7/dispenser-configurator-1.3.5%2BMC1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "78673c375189d221d147beebad21fbaea0f624bdad6194de281b727a296320c07922958195045b6790a0cca73dd03e07507199266bfd9086329772682f20d6ff"
+
+[update]
+[update.modrinth]
+mod-id = "8bvpj25p"
+version = "5nqws1q7"

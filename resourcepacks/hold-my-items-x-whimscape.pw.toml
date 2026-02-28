@@ -1,0 +1,13 @@
+name = "Whimscape x Hold My Items"
+filename = "Whimscape x VBB.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P8T9WJ16/versions/liDxm7No/Whimscape%20x%20VBB.zip"
+hash-format = "sha512"
+hash = "642175428471d46844312b0bc00904219638cf9c14d84b9812053bf07e4c51b35913866475f051f13a375620b2d8dc8f204a096e852c07c1d89b0209e7a65d65"
+
+[update]
+[update.modrinth]
+mod-id = "P8T9WJ16"
+version = "liDxm7No"

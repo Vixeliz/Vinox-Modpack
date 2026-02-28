@@ -1,0 +1,13 @@
+name = "Whimscape Variated Villagers"
+filename = "Whimscape Variated Villagers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zIXAtHWV/versions/nKWzpF6p/Whimscape%20Variated%20Villagers.zip"
+hash-format = "sha512"
+hash = "f4a2d9793b35ae5a4c71acf19f7e8097887ae94a4816e4fc451892893a29a8f2135e7f4c59cd0707f08c740ec80e092617acebc452b5a272a899a34f1e79c4d9"
+
+[update]
+[update.modrinth]
+mod-id = "zIXAtHWV"
+version = "nKWzpF6p"

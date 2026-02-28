@@ -1,0 +1,13 @@
+name = "Auto Enable Bundles"
+filename = "enable_bundles-1.0.0-fabric-qilt.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AS3FJrsc/versions/oec7fSuM/enable_bundles-1.0.0-fabric-qilt.jar"
+hash-format = "sha512"
+hash = "7895fa5ac2b7d8f0bd849380573c0861c27db7457362b7ad17923999f77da4daa7fbc5323aa20c196237cf50deb8f10d8b1a2b3f94d98ef52c4922d8b9709e0c"
+
+[update]
+[update.modrinth]
+mod-id = "AS3FJrsc"
+version = "oec7fSuM"
