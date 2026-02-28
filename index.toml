@@ -81,6 +81,22 @@ file = "config/realisticbees.json5"
 hash = "6e3ef6c112b8217972112ac261826e4b4bee2cf9136feb68dc397155f5d6fa32"
 
 [[files]]
+file = "config/structurify.json"
+hash = "31e96e4c8968c0394ac7b3801e3f3b23233ee38c1f322500bd345a00d6682ec6"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-02-28_09-45-42.json"
+hash = "9b7bf64b840b2204bbbea0fcf97a087574dacc320981529440d5cf93a8a0f549"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-02-28_09-48-11.json"
+hash = "af19b3c54b07ab27c9d9ff4e9b044bb6f8c960093dd5c702de1eaa876a546840"
+
+[[files]]
+file = "config/structurify/structurify_backup_2026-02-28_09-49-01.json"
+hash = "55a6a455dd0e3cfc3ec38c250528d8749047061c8e802d21930a12ff99dc50cd"
+
+[[files]]
 file = "config/terrablender.toml"
 hash = "e52d85fd32c8bd3c440a69bf43fcc922247723ff0fba392f9f50f34e9c0f9d09"
 
@@ -218,6 +234,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "bf35ad1e9d9046861abb4d0ec6390ea3ac1e75bf39b141f0debd76ab13103e14"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "636945a93f673014109dc9d3768b4b06e8c7506d067be68602478a7244ff98f9"
 metafile = true
@@ -310,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "83650ffbad97ff20b09e8db87784ef4aa6d8d6857f55abe24f6e09bf900cb9af"
 metafile = true
 
 [[files]]
@@ -450,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "60e41d7d2de8b6300fcd3e9d86bfac8922edbc7b2d659c6075911ddbc4829556"
 metafile = true
 
 [[files]]
