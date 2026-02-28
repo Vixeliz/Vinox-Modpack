@@ -409,6 +409,11 @@ hash = "c97448e2592be5ce96234d2ee07f020012a48ce9334094d7b21a55914e387964"
 metafile = true
 
 [[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "dd27444b02535763c3e41b523dfd585a6baadbef797767b70ce4cdaad4e131d9"
 metafile = true
@@ -466,6 +471,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/renderscale.pw.toml"
+hash = "7c9846385d08af6c3a44efa155c0d29ac648b6fb41b4ba97b3d95416d2db3f6c"
 metafile = true
 
 [[files]]
