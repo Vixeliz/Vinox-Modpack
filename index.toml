@@ -219,6 +219,11 @@ hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
 metafile = true
 
 [[files]]
+file = "mods/clutter-no-more.pw.toml"
+hash = "229509ee70d84df07aec944a2efb8b1a90ac4f57aa249807c4fc6a220adb6494"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
