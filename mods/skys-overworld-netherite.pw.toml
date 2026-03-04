@@ -1,0 +1,13 @@
+name = "Sky's Overworld Netherite"
+filename = "Sky's Overworld Netherite 2.6 1.21.1 NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EvuYS8gZ/versions/3SeQllS2/Sky%27s%20Overworld%20Netherite%202.6%201.21.1%20NeoForge.jar"
+hash-format = "sha512"
+hash = "8d3657b6f96fedf7da2a73c12c62e0ea5e48dc15b1899cabc84278d357e9556d465a8cc12ae59c8892f7c9044ebd62eb7199b4053966c3aaa0fe6d4da9c7bb7f"
+
+[update]
+[update.modrinth]
+mod-id = "EvuYS8gZ"
+version = "3SeQllS2"

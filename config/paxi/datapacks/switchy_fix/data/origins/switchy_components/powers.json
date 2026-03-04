@@ -1,0 +1,17 @@
+{
+	"fabric:load_conditions": [
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": [
+				"origins"
+			]
+		}
+	],
+	"enabled": true,
+	"codec": "nbt",
+	"path": "cardinal_components.apoli:powers.powers",
+	"preview": "$[].Type",
+	"prefix": "✶",
+	"group": "origins:origin",
+	"hidden": true
+}

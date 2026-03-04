@@ -1,13 +1,13 @@
 name = "Auto Enable Bundles"
-filename = "enable_bundles-1.0.0-fabric-qilt.jar"
+filename = "enable_bundles-1.0.0-neoforge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AS3FJrsc/versions/oec7fSuM/enable_bundles-1.0.0-fabric-qilt.jar"
+url = "https://cdn.modrinth.com/data/AS3FJrsc/versions/rjVUGgp1/enable_bundles-1.0.0-neoforge.jar"
 hash-format = "sha512"
-hash = "7895fa5ac2b7d8f0bd849380573c0861c27db7457362b7ad17923999f77da4daa7fbc5323aa20c196237cf50deb8f10d8b1a2b3f94d98ef52c4922d8b9709e0c"
+hash = "40647994b4a8ce1153554ae3f139ca5795ae1eca7ce8f3845c788ac35d3466889b479d4ea18387f84dfcc400c8759a1d7bf897eb6ab97c8fc857c99061b630ef"
 
 [update]
 [update.modrinth]
 mod-id = "AS3FJrsc"
-version = "oec7fSuM"
+version = "rjVUGgp1"

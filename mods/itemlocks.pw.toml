@@ -1,0 +1,13 @@
+name = "ItemLocks"
+filename = "ItemLocks-NeoForged-1.21.1-1.3.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tJzrFuyy/versions/iH2cOaHf/ItemLocks-NeoForged-1.21.1-1.3.12.jar"
+hash-format = "sha512"
+hash = "beddb5fdac549f2546e8130b9f0a41812ec7cdf97ca2121773a80df6ffacb77d7aa540e67fe6d460e4b4c38b447f718f9d66e0625cfa563cd2e10dec5329e70b"
+
+[update]
+[update.modrinth]
+mod-id = "tJzrFuyy"
+version = "iH2cOaHf"

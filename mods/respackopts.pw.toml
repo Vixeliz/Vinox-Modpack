@@ -1,0 +1,13 @@
+name = "Respackopts"
+filename = "respackopts-4.14.0+1.21.1.forge.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/uMmekm9p/respackopts-4.14.0%2B1.21.1.forge.2.jar"
+hash-format = "sha512"
+hash = "2b02beec79d5d89a2dee19e0e0aadffefeb7752589bb2d6ab8dc3dda2bdb2d204eefdb9231ad8a88ec9de3e911127c25e27002c9c4254e852b2de0aebe9b3c0a"
+
+[update]
+[update.modrinth]
+mod-id = "TiF5QWZY"
+version = "uMmekm9p"

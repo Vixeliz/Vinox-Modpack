@@ -1,0 +1,13 @@
+name = "Sky's Overworld Quartz"
+filename = "Sky's Overworld Quartz 1.2 NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yBLrXpfD/versions/K34hPJPl/Sky%27s%20Overworld%20Quartz%201.2%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "d3b2a3183e87fae4a108a5bfaa0b5f6233de89a739b28054a0bef73c8d43783b7bf6be4d7b6a841000ee99d282e825426dadde6643cec62316fac31bd922c9ac"
+
+[update]
+[update.modrinth]
+mod-id = "yBLrXpfD"
+version = "K34hPJPl"
