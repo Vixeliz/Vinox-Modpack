@@ -54,7 +54,7 @@ hash = "0575538edf74a9ebd4d659047e79a73c08a23bcc35017eb9a1d2c0945e91c908"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "aaff9344f02b011de92723a6680e38b9ea16bb81f7e211a94546534bd33450a6"
+hash = "3f547cb51e5c3222e8a1808348aa79f8d9dcdf42a8e7e155ed98773b33a1ca2c"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -150,12 +150,8 @@ file = "config/structurify/structurify_backup_2026-02-28_09-49-01.json"
 hash = "55a6a455dd0e3cfc3ec38c250528d8749047061c8e802d21930a12ff99dc50cd"
 
 [[files]]
-file = "config/supplementaries-common.json"
-hash = "03d33276fabf4d8a74edb702f00b837a207be402801c2f21bfffb28f49d9938e"
-
-[[files]]
 file = "config/supplementaries-common.toml"
-hash = "9f3ad9cf529307b7b85f4cb136200e96adba1cd35c03efcf11d01e80be3fd572"
+hash = "f335d5c77ed3462ef69347ad3b52cd082df593b73e950dd5a4319694fee0f14f"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -192,11 +188,6 @@ hash = "e4102a6033d9f81afb370e3c6398e097019458710e18a151e2199ce754955909"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "0c3c4b1eac4c618f291dd4153975d3caf6f26ebe21afdea5d2bc198a17a8ae03"
-
-[[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "dcd8ef0c893409cc74a0a401854d71d40b319ebfe4f7d64be691f832efe4e7d5"
-metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -339,6 +330,11 @@ hash = "05884675211a3b35feddbdef24e8da4d970954a21e5e5586a9bf5a97a1103033"
 metafile = true
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
@@ -376,16 +372,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c5e47d922e39c1556dc2e8c94bfe852cf16de14f65b99eb3e054e41745dddad0"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "0620370193cd76f48ebf81bd0d213cdc3adb5c640d8e39d5758d6f166c0c5036"
-metafile = true
-
-[[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "af5be21b70b778bd919a8d10807895fad40671c9701519dbf95bc74f139fec3f"
 metafile = true
 
 [[files]]
@@ -479,11 +465,6 @@ hash = "13095f719e466c9187ed385ea7b709226da71143cf192a932d8ec7b27e0c7288"
 metafile = true
 
 [[files]]
-file = "mods/create-ccbr.pw.toml"
-hash = "2c0a8e956e3a1508d12544d59db0db04df6d88460dc56b80a1a8b4bdf1266005"
-metafile = true
-
-[[files]]
 file = "mods/create-compatible-storage.pw.toml"
 hash = "401e8f4e10031ee04beac63930234878a69844774225f9da86ff083d7263ffaa"
 metafile = true
@@ -521,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
-metafile = true
-
-[[files]]
-file = "mods/create-extra-casing.pw.toml"
-hash = "e5467045036d4d8b0bb82b1ac72f49856c00b70c6ada012019f1639abf9bfd75"
 metafile = true
 
 [[files]]
@@ -574,11 +550,6 @@ hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
 metafile = true
 
 [[files]]
-file = "mods/create-photomovement.pw.toml"
-hash = "77336ab591dfff213503446e208c254e853bb0b83ccde5d9a62bb9f1efa9c243"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
@@ -596,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
 
 [[files]]
@@ -651,11 +627,6 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
-metafile = true
-
-[[files]]
-file = "mods/createnuclear.pw.toml"
-hash = "e7a6cda82ddd91e08e2fbadff97d4590861f0ca78d9fa12a8693de25f48a58ac"
 metafile = true
 
 [[files]]
@@ -1154,11 +1125,6 @@ hash = "5ead8d8bc26cdbe1a17dc055f7f0fe762a08254d0199d6ea8fcc58839ab274f2"
 metafile = true
 
 [[files]]
-file = "mods/power-grid.pw.toml"
-hash = "03d918dc96059d14b2b041b6baf9084dd89c5031ff29e87d6e3cf75d100e1b47"
-metafile = true
-
-[[files]]
 file = "mods/preferred-gamerules.pw.toml"
 hash = "985ecc4a35a2feab6d51b6cd6b95e7efa3f6b49aa5f549c132f59217b7a2a5a5"
 metafile = true
@@ -1356,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
-metafile = true
-
-[[files]]
-file = "mods/toms-peripherals.pw.toml"
-hash = "b5be069a2fae0df4cf4d032a8332c6011029f9ab9c3b9532d209747d44961dee"
 metafile = true
 
 [[files]]
