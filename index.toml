@@ -190,6 +190,11 @@ file = "config/zeta-common.toml"
 hash = "0c3c4b1eac4c618f291dd4153975d3caf6f26ebe21afdea5d2bc198a17a8ae03"
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "c7bfef351745f41a87297176947fd72702b07606e74d9d875f3030c0ca971a4d"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -217,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/antiportals.pw.toml"
 hash = "9e93c98822286d762e1623453eee7cfec70df551a0a11cc040bc5f885749023c"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "72f9cf7ef1412b9384467782dd5444ec8adbd03b9f532d1238e5a166ffb25237"
 metafile = true
 
 [[files]]
@@ -560,6 +570,11 @@ hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
 metafile = true
 
 [[files]]
+file = "mods/create-randomize-filters.pw.toml"
+hash = "59467ecda962858e575fe59ddedfeab19f2a3c85128070a3f8ef6ad6575debfa"
+metafile = true
+
+[[files]]
 file = "mods/create-sifting.pw.toml"
 hash = "a95282ba6853e9f107ff312ae3c353f711c13267ba54b0520c97d37358e9e640"
 metafile = true
@@ -592,6 +607,11 @@ metafile = true
 [[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
+metafile = true
+
+[[files]]
+file = "mods/create-track-map-(unofficial-fork).pw.toml"
+hash = "9e77ea73041699bfb72d1e696347f88f40e98ba55a2a41507d5431cda6f17557"
 metafile = true
 
 [[files]]
@@ -1010,6 +1030,11 @@ hash = "a29113f8231c78e405ccd23f7a86224f03647f03a372cf5469c83d88ab9da202"
 metafile = true
 
 [[files]]
+file = "mods/mcqoy.pw.toml"
+hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
+metafile = true
+
+[[files]]
 file = "mods/mechanicals-lib.pw.toml"
 hash = "4e3aaef188d1f975c6ebd539f50021768851f7fc4638079ee72179ec33bf487f"
 metafile = true
@@ -1320,6 +1345,11 @@ hash = "599e373cbd3ff6fbe64a00ec53a5275fe583e60d3c5593508d13d1846e329952"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "e9f69ba1846ad87fbc1b30c067bc7f296bf394dbb38353f5497158376383bb83"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
 metafile = true
@@ -1387,16 +1417,6 @@ metafile = true
 [[files]]
 file = "mods/winterly.pw.toml"
 hash = "a9a347772bda808174e443775daac61f7e6e26f275e766e079619fe330404203"
-metafile = true
-
-[[files]]
-file = "mods/xaero-train-map.pw.toml"
-hash = "055508f48abfc3dc9705337d324fe839bbc88cd5cd06ce77f65b4bd2c976a983"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "192a4685f8a182d1fa2fae67e2fad8b74ba547726beecfe8868174b4172d76a8"
 metafile = true
 
 [[files]]
@@ -1487,4 +1507,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/whimscape.pw.toml"
 hash = "815fee7dcfab086876dbef876f7f022c47f6ddab1b405f1b939bfb3c0b65e710"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
