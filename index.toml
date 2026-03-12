@@ -119,35 +119,27 @@ hash = "6e3ef6c112b8217972112ac261826e4b4bee2cf9136feb68dc397155f5d6fa32"
 
 [[files]]
 file = "config/structurify.json"
-hash = "a80902a2987eb08c670d132b3bc9c0702d405e505406d3c9a2194e09e9807454"
+hash = "944827290e3b5990ffd7b8d786ffbde8107db064920da90b29423a99d9ba62f6"
 
 [[files]]
-file = "config/structurify/structurify_backup_2025-11-09_16-17-01.json"
-hash = "1223bc9eeec57eaa8ad6ea2b4dd3a5ea7e082eeea756edab7ae2f25a5a379c44"
+file = "config/structurify/structurify_backup_2026-03-12_09-46-44.json"
+hash = "9d102bed1393f3bf459e7b3a2209af24fe4a0ab935dd7bee790a5ec531ffe833"
 
 [[files]]
-file = "config/structurify/structurify_backup_2025-11-09_16-17-26.json"
-hash = "f248ad813459f05a5e95a248990abda24934dd7aa086e22e37b2fd2dd303ff12"
+file = "config/structurify/structurify_backup_2026-03-12_09-46-47.json"
+hash = "999866e76c69df8d5a1157125b70f95e5ce04a9a61f82a70e9ec160ef90718ef"
 
 [[files]]
-file = "config/structurify/structurify_backup_2025-11-11_12-18-14.json"
-hash = "647097919b202f97219b7b21880be16b4bf86aa4dd0d1f5d6dae8960313d0450"
+file = "config/structurify/structurify_backup_2026-03-12_09-46-50.json"
+hash = "86e38444b380787cbb5388ba6e174f800579278b6c353318cff2efdce18fe275"
 
 [[files]]
-file = "config/structurify/structurify_backup_2025-11-24_10-58-23.json"
-hash = "914cfdb540085471b61f302fbaccca825b4ed734005faf4c6d9e02967d3bb407"
+file = "config/structurify/structurify_backup_2026-03-12_09-46-54.json"
+hash = "7f7ac9bd7e7b03faf30b66bb262f92d632fb04cd7753ab2a984c6fd8da552867"
 
 [[files]]
-file = "config/structurify/structurify_backup_2026-02-28_09-45-42.json"
-hash = "9b7bf64b840b2204bbbea0fcf97a087574dacc320981529440d5cf93a8a0f549"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-02-28_09-48-11.json"
-hash = "af19b3c54b07ab27c9d9ff4e9b044bb6f8c960093dd5c702de1eaa876a546840"
-
-[[files]]
-file = "config/structurify/structurify_backup_2026-02-28_09-49-01.json"
-hash = "55a6a455dd0e3cfc3ec38c250528d8749047061c8e802d21930a12ff99dc50cd"
+file = "config/structurify/structurify_backup_2026-03-12_09-47-29.json"
+hash = "8263edb72dabb78eac8382e825e3e58f15579a4f84f8a6a8834def3df762fa2d"
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -1367,6 +1359,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
 metafile = true
 
 [[files]]

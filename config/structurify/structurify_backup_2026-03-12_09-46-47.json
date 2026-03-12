@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.18",
-  "config_datetime": "2026-03-12_09-47-29",
+  "config_datetime": "2026-03-12_09-46-44",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": false,
@@ -779,79 +779,6 @@
   ],
   "structure_sets": [
     {
-      "spacing": 25,
-      "separation": 2,
-      "name": "create_ltab:nether_roof_house",
-      "salt": 646292523,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "create_ltab:nether_roof_house": 1
-      }
-    },
-    {
-      "spacing": 65,
-      "separation": 10,
-      "name": "create_ltab:pillage",
-      "salt": 10387312,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "create_ltab:pillage": 1
-      }
-    },
-    {
-      "name": "create_ltab:ruins",
-      "salt": 1330705891,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "create_ltab:ruins": 1
-      }
-    },
-    {
-      "name": "create_ltab:the_caretakersbunker",
-      "salt": 0,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "create_ltab:the_caretakersbunker": 1
-      }
-    },
-    {
-      "spacing": 70,
-      "separation": 20,
-      "name": "create_ltab:thecastle",
-      "salt": 774649767,
-      "frequency": 0.5,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "create_ltab:thecastle": 1
-      }
-    },
-    {
-      "spacing": 24,
-      "separation": 8,
-      "name": "minecraft:ancient_cities",
-      "salt": 20083232,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:ancient_city": 1
-      }
-    },
-    {
-      "spacing": 32,
-      "separation": 8,
-      "name": "minecraft:desert_pyramids",
-      "salt": 14357617,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:desert_pyramid": 1
-      }
-    },
-    {
       "spacing": 20,
       "separation": 11,
       "name": "minecraft:end_cities",
@@ -966,39 +893,6 @@
       "override_global_spacing_and_separation_modifier": false,
       "structure_weights": {
         "minecraft:stronghold": 1
-      }
-    },
-    {
-      "spacing": 34,
-      "separation": 12,
-      "name": "minecraft:trial_chambers",
-      "salt": 94251327,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:trial_chambers": 1
-      }
-    },
-    {
-      "spacing": 80,
-      "separation": 20,
-      "name": "minecraft:woodland_mansions",
-      "salt": 10387319,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "minecraft:mansion": 1
-      }
-    },
-    {
-      "spacing": 31,
-      "separation": 19,
-      "name": "supplementaries:galleons",
-      "salt": 121047156,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "supplementaries:galleon": 1
       }
     }
   ]
