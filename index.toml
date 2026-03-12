@@ -987,11 +987,6 @@ hash = "76b766b465351c6f1f57bbf68f72b66a59655d2e9a150c79b3f691d79ccbe1de"
 metafile = true
 
 [[files]]
-file = "mods/libjf.pw.toml"
-hash = "124b1aee2b643631ac9022638f83830d263d497681ca945e24accc63c4528683"
-metafile = true
-
-[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
@@ -1199,11 +1194,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
-metafile = true
-
-[[files]]
-file = "mods/respackopts.pw.toml"
-hash = "ebe13f9cbc987c9b2c2a365575f0be5e6dacaf876b367bc192ec5c6d382421e1"
 metafile = true
 
 [[files]]
