@@ -1,0 +1,13 @@
+name = "Create Photomovement"
+filename = "createphotomovement-neoforge-1.21.1-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xOQW4NMc/versions/xCcq3XPW/createphotomovement-neoforge-1.21.1-0.3.1.jar"
+hash-format = "sha512"
+hash = "bb96b723982430b5a3bd22a7fc66d0421385690f3431d308fb4966d4c2b6a39a68950b443b0dca4358d50e5c1c96d2264c0c1b434555af79a57d612d11279095"
+
+[update]
+[update.modrinth]
+mod-id = "xOQW4NMc"
+version = "xCcq3XPW"
