@@ -942,11 +942,6 @@ hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
-metafile = true
-
-[[files]]
 file = "mods/jinxedlib.pw.toml"
 hash = "3e554dc66addcfd71cb63622490742566a640ff0ed45366814aa901945bb4ebc"
 metafile = true
@@ -1354,6 +1349,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "dbfe27c8d868f5d934b882b8d26f3772fad78d97da191937d051a4f5c81a0b3b"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "72e3d0793139bf38aa92c4fb8f1ef96169f3632216ed75801ab946c7afc5e274"
 metafile = true
 
 [[files]]
