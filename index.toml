@@ -602,6 +602,11 @@ hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
 metafile = true
 
 [[files]]
+file = "mods/create-teleporters.pw.toml"
+hash = "9fe0479944c0042ecb546f7d5bf95f9b223b979dfe7976eac0114569d65d1cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-threaded-trains.pw.toml"
 hash = "cc05bcaec0e857c6a6f7de4bd09a22ad195b5b77a25e4adfe737915ac3be68db"
 metafile = true
