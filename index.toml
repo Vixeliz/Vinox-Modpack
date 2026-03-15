@@ -677,6 +677,11 @@ hash = "add13c01359f4f3744d885e658bc0cd8b403a358738cb24ba6266c4e9508696b"
 metafile = true
 
 [[files]]
+file = "mods/ctm.pw.toml"
+hash = "e0b7b35b16b7bd9bd494a4e32c2b5058bb67fa4b0979e33551fe40247ea937ef"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "654bbb4dfe9d87548babc27258c7e79d92ffbb36a7a4039708d79267256b11a9"
 metafile = true
