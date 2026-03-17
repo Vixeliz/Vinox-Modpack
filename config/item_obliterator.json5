@@ -46,12 +46,7 @@
         "create_connected:copycat_box",
         "create_connected:fan_ending_catalyst_dragon_head",
         "create_connected:fan_ending_catalyst_dragons_breath",
-        "createsifter:string_mesh",
-        "createsifter:andesite_mesh",
-        "createsifter:brass_mesh",
-        "createsifter:sturdy_mesh",
         "createsifter:custom_mesh",
-        "createsifter:advanced_sturdy_mesh",
         "createsifter:advanced_custom_mesh",
         "create_things_and_misc:sticky_boots_boots"
          

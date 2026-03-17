@@ -54,7 +54,7 @@ hash = "0575538edf74a9ebd4d659047e79a73c08a23bcc35017eb9a1d2c0945e91c908"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "3f547cb51e5c3222e8a1808348aa79f8d9dcdf42a8e7e155ed98773b33a1ca2c"
+hash = "b5b870c31738d01c6ec3b5bf438e0f7a85e3fb2e0ad42bfa6f8facf16f21fef7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
