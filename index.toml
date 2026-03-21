@@ -1407,11 +1407,6 @@ hash = "76ea8e0d6b64f1947e80bad9c37a843941775b4a112f97f151c8128ae0e508dc"
 metafile = true
 
 [[files]]
-file = "mods/upgrade-aquatic.pw.toml"
-hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
-metafile = true
-
-[[files]]
 file = "mods/veggies-delight.pw.toml"
 hash = "5dd23a011f0441722527617d65eaa2c49b9e094d028d63dd361f1e4eca790846"
 metafile = true
