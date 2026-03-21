@@ -412,16 +412,6 @@ hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
-file = "mods/colorwheel-patcher.pw.toml"
-hash = "4416c1911dac506eed6162e8b66c966baec9bbb1e38ee9bc8570eac797d405f3"
-metafile = true
-
-[[files]]
-file = "mods/colorwheel.pw.toml"
-hash = "bc5ed6e4eb431bb63fbc0bc221357f02866e64444a66bb1f9089bc9163bb71c9"
-metafile = true
-
-[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
@@ -619,11 +609,6 @@ metafile = true
 [[files]]
 file = "mods/create-train-parts.pw.toml"
 hash = "bde53718df2ad68c55a0d4d80570a4fc9252562bcdd5574035a97ba1246b139f"
-metafile = true
-
-[[files]]
-file = "mods/create-trimmed.pw.toml"
-hash = "2e0e167422dc70f6d92da6669020e1cfd4417e47118ea66bd8f566a3295c8040"
 metafile = true
 
 [[files]]
