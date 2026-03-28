@@ -567,6 +567,11 @@ hash = "a95282ba6853e9f107ff312ae3c353f711c13267ba54b0520c97d37358e9e640"
 metafile = true
 
 [[files]]
+file = "mods/create-sophisticated-backpacks-compat.pw.toml"
+hash = "79d7cf09cdc88b8e64cb684be60efe938193ee13d8a64fc31e3ad1ae622bf4af"
+metafile = true
+
+[[files]]
 file = "mods/create-sound-of-steam.pw.toml"
 hash = "a7a87fc6ea98d8fbaa426258990f2dec714699e98fb8a083f9a399c90d02844f"
 metafile = true
@@ -1297,6 +1302,31 @@ hash = "815a5c9b3e5f8abdd86fef0319809b10517bcda0fa369789d525765a61f3e068"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "b8ddcc63037e82526d05edcaa5a7d5e8a4f5299b7b98940a487484ffabbe663f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "bafe866eb40c643c722790d99e546ec5c105feecd9a3328fa491420af94fd1e7"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "e6bb3eeda43411c95fa84549ba3281df62654e36140ec322190206fc8df512a4"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "3f14f50297e873a50e226bf701c9d700b4bb1212bd144356585ea73613d3d6aa"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
@@ -1324,16 +1354,6 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "c22dc47c2c19f13cd6c8d6a4b8e982b4b479d1bdbf47d1286e240be736eef707"
-metafile = true
-
-[[files]]
-file = "mods/storage-drawers-create-compat.pw.toml"
-hash = "4514e495c19d9631ad325bc94d0b6ed86085dcda4b3ce46f533a86dce3240143"
-metafile = true
-
-[[files]]
-file = "mods/storagedrawers.pw.toml"
-hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
@@ -1454,11 +1474,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
-metafile = true
-
-[[files]]
-file = "mods/yyzs-backpack.pw.toml"
-hash = "e0ecbadb1d9bd44332d1d2b86103ba340845d772f2e4e5ae02877555b0ba6068"
 metafile = true
 
 [[files]]
