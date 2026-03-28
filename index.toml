@@ -54,6 +54,10 @@ hash = "0575538edf74a9ebd4d659047e79a73c08a23bcc35017eb9a1d2c0945e91c908"
 
 [[files]]
 file = "config/item_obliterator.json5"
+hash = "aad28ad819b622e2bf6492c09344b5d82b14fc3d34508372fde3b319fda05c4c"
+
+[[files]]
+file = "config/item_obliterator_backup.json5"
 hash = "b5b870c31738d01c6ec3b5bf438e0f7a85e3fb2e0ad42bfa6f8facf16f21fef7"
 
 [[files]]
@@ -534,6 +538,11 @@ metafile = true
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "85048cc2c3269c990d551c6ebe5058662087ea5eb89e9da9ade81e3637654934"
 metafile = true
 
 [[files]]
@@ -1149,11 +1158,6 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "5ead8d8bc26cdbe1a17dc055f7f0fe762a08254d0199d6ea8fcc58839ab274f2"
-metafile = true
-
-[[files]]
-file = "mods/power-grid.pw.toml"
-hash = "3d9e6280e38ac24dac1b5e3ad67f3f68baa67f53871261282ddbb7674611b2d0"
 metafile = true
 
 [[files]]
