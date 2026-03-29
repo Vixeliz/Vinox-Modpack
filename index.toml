@@ -186,6 +186,10 @@ file = "config/zeta-common.toml"
 hash = "0c3c4b1eac4c618f291dd4153975d3caf6f26ebe21afdea5d2bc198a17a8ae03"
 
 [[files]]
+file = "kubejs/server_scripts/create.js"
+hash = "2799fd58eec4a370201b84ed00766f02bcbd3cacef2ed652900b1a399e9ab0e0"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "c7bfef351745f41a87297176947fd72702b07606e74d9d875f3030c0ca971a4d"
 metafile = true
