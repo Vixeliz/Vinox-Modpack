@@ -1,3 +1,3 @@
 ServerEvents.recipes(event => {
-  event.recipes.create.splashing('minecraft:coarse_dirt', 'minecraft:dirt')
+  event.recipes.create.splashing(['minecraft:dirt'], 'minecraft:coarse_dirt')
 })
