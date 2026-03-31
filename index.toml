@@ -1200,6 +1200,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/renderscale.pw.toml"
+hash = "fbd9ee844f108cd335a61422ee7e9d46ae509272306781c4b38a30a17bf6c218"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
